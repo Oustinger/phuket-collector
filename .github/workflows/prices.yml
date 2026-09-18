@@ -1,0 +1,37 @@
+name: Цены на билеты
+
+on:
+  schedule:
+    - cron: "0 4 * * *"   # 09:00 по Екатеринбургу
+    - cron: "0 16 * * *"  # 21:00 по Екатеринбургу
+  workflow_dispatch:       # кнопка «запустить вручную» во вкладке Actions
+
+permissions:
+  contents: write
+
+concurrency:
+  group: prices
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Собрать цены
+        env:
+          TP_TOKEN: ${{ secrets.TP_TOKEN }}
+        run: python collect.py
+
+      - name: Закоммитить результат
+        run: |
+          git config user.name "price-bot"
+          git config user.email "price-bot@users.noreply.github.com"
+          git add data
+          git diff --staged --quiet || git commit -m "Цены на $(date -u +%F %H:%M) UTC"
+          git push
