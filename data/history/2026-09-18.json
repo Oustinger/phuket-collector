@@ -1,5 +1,5 @@
 {
- "collectedAt": "2026-09-18T20:46:47+00:00",
+ "collectedAt": "2026-09-18T20:48:29+00:00",
  "date": "2026-09-18",
  "pricesAre": "за 1 пассажира, без подтверждённого багажа",
  "legs": {
@@ -442,7 +442,7 @@
      "duration": 2475
     },
     "2026-10-11": {
-     "price": 29687,
+     "price": 31588,
      "airline": "J2",
      "transfers": 2,
      "duration": 1745
@@ -520,13 +520,13 @@
      "duration": 1995
     },
     "2026-10-24": {
-     "price": 35458,
+     "price": 35457,
      "airline": "J2",
      "transfers": 2,
      "duration": 2295
     },
     "2026-10-25": {
-     "price": 35059,
+     "price": 35464,
      "airline": "J2",
      "transfers": 2,
      "duration": 1665
@@ -646,7 +646,7 @@
      "duration": 2050
     },
     "2026-11-14": {
-     "price": 33197,
+     "price": 33196,
      "airline": "QR",
      "transfers": 1,
      "duration": 1820
@@ -974,7 +974,7 @@
      "duration": 1645
     },
     "2026-11-06": {
-     "price": 24631,
+     "price": 24630,
      "airline": "DV",
      "transfers": 1,
      "duration": 1850
