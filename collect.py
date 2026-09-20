@@ -37,34 +37,21 @@ def from_travelpayouts(origin, dest, month):
 
     out = {}
     for day, rows in by_day.items():
+        # Эндпоинт отдаёт ровно одно предложение на дату — это кэш минимальных
+        # цен, а не выдача поиска. Поэтому «второй по цене», «сколько дешёвых
+        # осталось» и «самый быстрый за те же деньги» отсюда получить нельзя:
+        # за качеством стыковки ходит браузерная сверка, а не этот сборщик.
         rows.sort(key=lambda r: r["price"])
         first = rows[0]
-
-        def brief(r):
-            rec = {
-                "price": r["price"],
-                "airline": r.get("airline"),
-                "transfers": r.get("transfers"),
-                "duration": r.get("duration"),
-            }
-            link = r.get("link")
-            if link:
-                rec["link"] = link if link.startswith("http") else "https://www.aviasales.ru" + link
-            return rec
-
-        rec = brief(first)
-        # Самый быстрый среди тех, кто дороже минимума не более чем на треть.
-        # Без этого в фид попадает только «дёшево и мучительно»: рейс за те же
-        # деньги, но вдвое короче, просто не виден.
-        near = [r for r in rows if r["price"] <= first["price"] * 1.33 and r.get("duration")]
-        if near:
-            fast = min(near, key=lambda r: (r["duration"], r["price"]))
-            if fast is not first and fast["duration"] < (first.get("duration") or 10**9):
-                rec["fast"] = brief(fast)
-        # Запас дешёвых предложений на дату.
-        rec["offers"] = len(rows)
-        rec["cheapOffers"] = sum(1 for r in rows if r["price"] <= first["price"] * 1.1)
-        rec["gap"] = (rows[1]["price"] - first["price"]) if len(rows) > 1 else None
+        rec = {
+            "price": first["price"],
+            "airline": first.get("airline"),
+            "transfers": first.get("transfers"),
+            "duration": first.get("duration"),
+        }
+        link = first.get("link")
+        if link:
+            rec["link"] = link if link.startswith("http") else "https://www.aviasales.ru" + link
         out[day] = rec
     return out
 
