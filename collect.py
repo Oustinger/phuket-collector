@@ -27,19 +27,33 @@ def from_travelpayouts(origin, dest, month):
         "limit": 1000, "token": TOKEN,
     })
     payload = get_json("https://api.travelpayouts.com/aviasales/v3/prices_for_dates?" + q)
-    out = {}
+    by_day = {}
     for row in payload.get("data") or []:
         day = (row.get("departure_at") or "")[:10]
         price = row.get("price")
         if not day or price is None:
             continue
-        if day not in out or price < out[day]["price"]:
-            out[day] = {
-                "price": price,
-                "airline": row.get("airline"),
-                "transfers": row.get("transfers"),
-                "duration": row.get("duration"),
-            }
+        by_day.setdefault(day, []).append(row)
+
+    out = {}
+    for day, rows in by_day.items():
+        rows.sort(key=lambda r: r["price"])
+        first = rows[0]
+        rec = {
+            "price": first["price"],
+            "airline": first.get("airline"),
+            "transfers": first.get("transfers"),
+            "duration": first.get("duration"),
+            # запас дешёвых предложений: сколько всего вариантов на дату,
+            # сколько в пределах +10% от минимума и на сколько дороже второй.
+            "offers": len(rows),
+            "cheapOffers": sum(1 for r in rows if r["price"] <= first["price"] * 1.1),
+            "gap": (rows[1]["price"] - first["price"]) if len(rows) > 1 else None,
+        }
+        link = first.get("link")
+        if link:
+            rec["link"] = link if link.startswith("http") else "https://www.aviasales.ru" + link
+        out[day] = rec
     return out
 
 
