@@ -1,0 +1,1888 @@
+{
+ "collectedAt": "2026-09-20T08:54:39+00:00",
+ "date": "2026-09-20",
+ "pricesAre": "за 1 пассажира, без подтверждённого багажа",
+ "legs": {
+  "SVX-HKT": {
+   "calendar": {
+    "2026-10-01": {
+     "price": 39377,
+     "airline": "SU",
+     "transfers": 0,
+     "duration": 525
+    },
+    "2026-10-02": {
+     "price": 36496,
+     "airline": "WZ",
+     "transfers": 2,
+     "duration": 2300
+    },
+    "2026-10-03": {
+     "price": 41301,
+     "airline": "HY",
+     "transfers": 1,
+     "duration": 1115
+    },
+    "2026-10-04": {
+     "price": 46004,
+     "airline": "DP",
+     "transfers": 1,
+     "duration": 2910
+    },
+    "2026-10-05": {
+     "price": 40588,
+     "airline": "WZ",
+     "transfers": 2,
+     "duration": 2320
+    },
+    "2026-10-06": {
+     "price": 46585,
+     "airline": "SU",
+     "transfers": 1,
+     "duration": 2020
+    },
+    "2026-10-07": {
+     "price": 46601,
+     "airline": "DP",
+     "transfers": 2,
+     "duration": 1690
+    },
+    "2026-10-08": {
+     "price": 42443,
+     "airline": "SU",
+     "transfers": 0,
+     "duration": 525
+    },
+    "2026-10-09": {
+     "price": 43615,
+     "airline": "WZ",
+     "transfers": 2,
+     "duration": 2300
+    },
+    "2026-10-10": {
+     "price": 50865,
+     "airline": "HY",
+     "transfers": 1,
+     "duration": 1115
+    },
+    "2026-10-11": {
+     "price": 47319,
+     "airline": "SU",
+     "transfers": 2,
+     "duration": 2600
+    },
+    "2026-10-12": {
+     "price": 40638,
+     "airline": "WZ",
+     "transfers": 2,
+     "duration": 3295
+    },
+    "2026-10-13": {
+     "price": 44369,
+     "airline": "3F",
+     "transfers": 2,
+     "duration": 2675
+    },
+    "2026-10-14": {
+     "price": 46709,
+     "airline": "DP",
+     "transfers": 1,
+     "duration": 1450
+    },
+    "2026-10-15": {
+     "price": 39978,
+     "airline": "SU",
+     "transfers": 2,
+     "duration": 2490
+    },
+    "2026-10-16": {
+     "price": 45142,
+     "airline": "WZ",
+     "transfers": 2,
+     "duration": 2595
+    },
+    "2026-10-17": {
+     "price": 49048,
+     "airline": "HY",
+     "transfers": 1,
+     "duration": 1115
+    },
+    "2026-10-18": {
+     "price": 55176,
+     "airline": "SU",
+     "transfers": 2,
+     "duration": 1375
+    },
+    "2026-10-19": {
+     "price": 43766,
+     "airline": "J2",
+     "transfers": 2,
+     "duration": 1875
+    },
+    "2026-10-20": {
+     "price": 44098,
+     "airline": "3F",
+     "transfers": 2,
+     "duration": 2675
+    },
+    "2026-10-21": {
+     "price": 47945,
+     "airline": "WZ",
+     "transfers": 3,
+     "duration": 1635
+    },
+    "2026-10-22": {
+     "price": 47254,
+     "airline": "DP",
+     "transfers": 3,
+     "duration": 1990
+    },
+    "2026-10-23": {
+     "price": 45824,
+     "airline": "J2",
+     "transfers": 2,
+     "duration": 2300
+    },
+    "2026-10-24": {
+     "price": 42479,
+     "airline": "SU",
+     "transfers": 2,
+     "duration": 2475
+    },
+    "2026-10-25": {
+     "price": 46501,
+     "airline": "DP",
+     "transfers": 3,
+     "duration": 1560
+    },
+    "2026-10-26": {
+     "price": 44698,
+     "airline": "C6",
+     "transfers": 1,
+     "duration": 1695
+    },
+    "2026-10-27": {
+     "price": 40530,
+     "airline": "3F",
+     "transfers": 2,
+     "duration": 2555
+    },
+    "2026-10-28": {
+     "price": 39100,
+     "airline": "C6",
+     "transfers": 1,
+     "duration": 1390
+    },
+    "2026-10-29": {
+     "price": 40551,
+     "airline": "DP",
+     "transfers": 2,
+     "duration": 2015
+    },
+    "2026-10-30": {
+     "price": 41657,
+     "airline": "3F",
+     "transfers": 2,
+     "duration": 1115
+    },
+    "2026-10-31": {
+     "price": 40580,
+     "airline": "WZ",
+     "transfers": 2,
+     "duration": 1600
+    },
+    "2026-11-01": {
+     "price": 44534,
+     "airline": "WZ",
+     "transfers": 3,
+     "duration": 1400
+    },
+    "2026-11-02": {
+     "price": 39075,
+     "airline": "WZ",
+     "transfers": 2,
+     "duration": 2485
+    },
+    "2026-11-03": {
+     "price": 40520,
+     "airline": "3F",
+     "transfers": 2,
+     "duration": 2555
+    },
+    "2026-11-04": {
+     "price": 37861,
+     "airline": "C6",
+     "transfers": 1,
+     "duration": 1390
+    },
+    "2026-11-05": {
+     "price": 39061,
+     "airline": "S7",
+     "transfers": 3,
+     "duration": 1780
+    },
+    "2026-11-06": {
+     "price": 40530,
+     "airline": "3F",
+     "transfers": 2,
+     "duration": 1670
+    },
+    "2026-11-07": {
+     "price": 48918,
+     "airline": "SU",
+     "transfers": 2,
+     "duration": 2240
+    },
+    "2026-11-08": {
+     "price": 42615,
+     "airline": "WZ",
+     "transfers": 3,
+     "duration": 1400
+    },
+    "2026-11-09": {
+     "price": 39097,
+     "airline": "WZ",
+     "transfers": 2,
+     "duration": 1600
+    },
+    "2026-11-10": {
+     "price": 35899,
+     "airline": "3F",
+     "transfers": 2,
+     "duration": 2555
+    },
+    "2026-11-11": {
+     "price": 38444,
+     "airline": "U6",
+     "transfers": 2,
+     "duration": 1325
+    },
+    "2026-11-12": {
+     "price": 47971,
+     "airline": "U6",
+     "transfers": 1,
+     "duration": 1185
+    },
+    "2026-11-13": {
+     "price": 39980,
+     "airline": "J2",
+     "transfers": 2,
+     "duration": 1765
+    },
+    "2026-11-14": {
+     "price": 41078,
+     "airline": "J2",
+     "transfers": 2,
+     "duration": 1765
+    },
+    "2026-11-15": {
+     "price": 50074,
+     "airline": "DP",
+     "transfers": 2,
+     "duration": 2000
+    },
+    "2026-11-16": {
+     "price": 38435,
+     "airline": "C6",
+     "transfers": 1,
+     "duration": 1695
+    },
+    "2026-11-17": {
+     "price": 35792,
+     "airline": "3F",
+     "transfers": 2,
+     "duration": 2685
+    },
+    "2026-11-18": {
+     "price": 43255,
+     "airline": "U6",
+     "transfers": 2,
+     "duration": 2895
+    },
+    "2026-11-19": {
+     "price": 48465,
+     "airline": "U6",
+     "transfers": 1,
+     "duration": 1185
+    },
+    "2026-11-20": {
+     "price": 36988,
+     "airline": "3F",
+     "transfers": 2,
+     "duration": 2685
+    },
+    "2026-11-21": {
+     "price": 41195,
+     "airline": "J2",
+     "transfers": 2,
+     "duration": 1635
+    },
+    "2026-11-22": {
+     "price": 40771,
+     "airline": "DP",
+     "transfers": 2,
+     "duration": 2390
+    },
+    "2026-11-23": {
+     "price": 38597,
+     "airline": "U6",
+     "transfers": 2,
+     "duration": 2515
+    },
+    "2026-11-24": {
+     "price": 39556,
+     "airline": "DP",
+     "transfers": 2,
+     "duration": 2340
+    },
+    "2026-11-25": {
+     "price": 37203,
+     "airline": "C6",
+     "transfers": 1,
+     "duration": 1390
+    },
+    "2026-11-26": {
+     "price": 40822,
+     "airline": "S7",
+     "transfers": 3,
+     "duration": 2740
+    },
+    "2026-11-27": {
+     "price": 48193,
+     "airline": "DP",
+     "transfers": 2,
+     "duration": 1925
+    },
+    "2026-11-28": {
+     "price": 40673,
+     "airline": "S7",
+     "transfers": 3,
+     "duration": 2735
+    },
+    "2026-11-29": {
+     "price": 41414,
+     "airline": "DP",
+     "transfers": 2,
+     "duration": 2450
+    },
+    "2026-11-30": {
+     "price": 38832,
+     "airline": "C6",
+     "transfers": 1,
+     "duration": 1695
+    }
+   },
+   "min": 35792,
+   "sources": [
+    "travelpayouts:2026-10",
+    "travelpayouts:2026-11"
+   ],
+   "errors": []
+  },
+  "MOW-HKT": {
+   "calendar": {
+    "2026-10-01": {
+     "price": 31318,
+     "airline": "C6",
+     "transfers": 1,
+     "duration": 1180
+    },
+    "2026-10-02": {
+     "price": 31204,
+     "airline": "C6",
+     "transfers": 1,
+     "duration": 1755
+    },
+    "2026-10-03": {
+     "price": 34841,
+     "airline": "C6",
+     "transfers": 1,
+     "duration": 825
+    },
+    "2026-10-04": {
+     "price": 34016,
+     "airline": "WY",
+     "transfers": 2,
+     "duration": 2535
+    },
+    "2026-10-05": {
+     "price": 32761,
+     "airline": "J2",
+     "transfers": 2,
+     "duration": 2655
+    },
+    "2026-10-06": {
+     "price": 30837,
+     "airline": "J2",
+     "transfers": 2,
+     "duration": 1745
+    },
+    "2026-10-07": {
+     "price": 34131,
+     "airline": "DP",
+     "transfers": 2,
+     "duration": 2035
+    },
+    "2026-10-08": {
+     "price": 35239,
+     "airline": "DP",
+     "transfers": 2,
+     "duration": 3475
+    },
+    "2026-10-09": {
+     "price": 32505,
+     "airline": "J2",
+     "transfers": 2,
+     "duration": 2455
+    },
+    "2026-10-10": {
+     "price": 32483,
+     "airline": "J2",
+     "transfers": 2,
+     "duration": 2455
+    },
+    "2026-10-11": {
+     "price": 33032,
+     "airline": "J2",
+     "transfers": 2,
+     "duration": 1745
+    },
+    "2026-10-12": {
+     "price": 32203,
+     "airline": "DP",
+     "transfers": 2,
+     "duration": 3560
+    },
+    "2026-10-13": {
+     "price": 29589,
+     "airline": "J2",
+     "transfers": 2,
+     "duration": 1745
+    },
+    "2026-10-14": {
+     "price": 32127,
+     "airline": "J2",
+     "transfers": 2,
+     "duration": 1745
+    },
+    "2026-10-15": {
+     "price": 34828,
+     "airline": "J2",
+     "transfers": 2,
+     "duration": 1745
+    },
+    "2026-10-16": {
+     "price": 38193,
+     "airline": "UT",
+     "transfers": 2,
+     "duration": 1240
+    },
+    "2026-10-17": {
+     "price": 32118,
+     "airline": "J2",
+     "transfers": 2,
+     "duration": 2455
+    },
+    "2026-10-18": {
+     "price": 33246,
+     "airline": "J2",
+     "transfers": 2,
+     "duration": 1745
+    },
+    "2026-10-19": {
+     "price": 34970,
+     "airline": "UT",
+     "transfers": 2,
+     "duration": 2450
+    },
+    "2026-10-20": {
+     "price": 34702,
+     "airline": "J2",
+     "transfers": 2,
+     "duration": 1745
+    },
+    "2026-10-21": {
+     "price": 35687,
+     "airline": "3F",
+     "transfers": 2,
+     "duration": 1695
+    },
+    "2026-10-22": {
+     "price": 37983,
+     "airline": "A4",
+     "transfers": 2,
+     "duration": 1795
+    },
+    "2026-10-23": {
+     "price": 38424,
+     "airline": "3F",
+     "transfers": 2,
+     "duration": 2035
+    },
+    "2026-10-24": {
+     "price": 34368,
+     "airline": "J2",
+     "transfers": 2,
+     "duration": 1585
+    },
+    "2026-10-25": {
+     "price": 34358,
+     "airline": "J2",
+     "transfers": 2,
+     "duration": 1665
+    },
+    "2026-10-26": {
+     "price": 35948,
+     "airline": "J2",
+     "transfers": 2,
+     "duration": 2300
+    },
+    "2026-10-27": {
+     "price": 35368,
+     "airline": "J2",
+     "transfers": 2,
+     "duration": 1665
+    },
+    "2026-10-28": {
+     "price": 36126,
+     "airline": "J2",
+     "transfers": 2,
+     "duration": 2400
+    },
+    "2026-10-29": {
+     "price": 33273,
+     "airline": "J2",
+     "transfers": 2,
+     "duration": 2300
+    },
+    "2026-10-30": {
+     "price": 36652,
+     "airline": "5G",
+     "transfers": 2,
+     "duration": 1625
+    },
+    "2026-10-31": {
+     "price": 34317,
+     "airline": "J2",
+     "transfers": 2,
+     "duration": 2300
+    },
+    "2026-11-01": {
+     "price": 38636,
+     "airline": "UT",
+     "transfers": 2,
+     "duration": 1935
+    },
+    "2026-11-02": {
+     "price": 34165,
+     "airline": "WY",
+     "transfers": 2,
+     "duration": 2675
+    },
+    "2026-11-03": {
+     "price": 31417,
+     "airline": "WY",
+     "transfers": 2,
+     "duration": 1840
+    },
+    "2026-11-04": {
+     "price": 37444,
+     "airline": "EY",
+     "transfers": 1,
+     "duration": 1570
+    },
+    "2026-11-05": {
+     "price": 35990,
+     "airline": "TK",
+     "transfers": 1,
+     "duration": 1250
+    },
+    "2026-11-06": {
+     "price": 36122,
+     "airline": "TK",
+     "transfers": 1,
+     "duration": 1250
+    },
+    "2026-11-07": {
+     "price": 36934,
+     "airline": "J2",
+     "transfers": 2,
+     "duration": 1665
+    },
+    "2026-11-08": {
+     "price": 31292,
+     "airline": "WY",
+     "transfers": 2,
+     "duration": 2170
+    },
+    "2026-11-09": {
+     "price": 31224,
+     "airline": "WY",
+     "transfers": 2,
+     "duration": 2640
+    },
+    "2026-11-10": {
+     "price": 34615,
+     "airline": "WY",
+     "transfers": 2,
+     "duration": 2495
+    },
+    "2026-11-11": {
+     "price": 35478,
+     "airline": "5G",
+     "transfers": 2,
+     "duration": 1495
+    },
+    "2026-11-12": {
+     "price": 36122,
+     "airline": "TK",
+     "transfers": 1,
+     "duration": 1250
+    },
+    "2026-11-13": {
+     "price": 37382,
+     "airline": "MU",
+     "transfers": 2,
+     "duration": 1245
+    },
+    "2026-11-14": {
+     "price": 38177,
+     "airline": "SU",
+     "transfers": 2,
+     "duration": 1755
+    },
+    "2026-11-15": {
+     "price": 36372,
+     "airline": "J2",
+     "transfers": 2,
+     "duration": 2300
+    },
+    "2026-11-16": {
+     "price": 34494,
+     "airline": "3F",
+     "transfers": 2,
+     "duration": 1615
+    },
+    "2026-11-17": {
+     "price": 36367,
+     "airline": "J2",
+     "transfers": 2,
+     "duration": 2300
+    },
+    "2026-11-18": {
+     "price": 33000,
+     "airline": "CZ",
+     "transfers": 2,
+     "duration": 1250
+    },
+    "2026-11-19": {
+     "price": 34681,
+     "airline": "WY",
+     "transfers": 2,
+     "duration": 2385
+    },
+    "2026-11-20": {
+     "price": 36122,
+     "airline": "TK",
+     "transfers": 1,
+     "duration": 1265
+    },
+    "2026-11-21": {
+     "price": 36264,
+     "airline": "CZ",
+     "transfers": 2,
+     "duration": 1845
+    },
+    "2026-11-22": {
+     "price": 31851,
+     "airline": "WY",
+     "transfers": 2,
+     "duration": 1235
+    },
+    "2026-11-23": {
+     "price": 35210,
+     "airline": "5G",
+     "transfers": 2,
+     "duration": 1625
+    },
+    "2026-11-24": {
+     "price": 31388,
+     "airline": "WY",
+     "transfers": 2,
+     "duration": 1745
+    },
+    "2026-11-25": {
+     "price": 31590,
+     "airline": "WY",
+     "transfers": 2,
+     "duration": 1745
+    },
+    "2026-11-26": {
+     "price": 33756,
+     "airline": "CZ",
+     "transfers": 2,
+     "duration": 1115
+    },
+    "2026-11-27": {
+     "price": 31250,
+     "airline": "WY",
+     "transfers": 2,
+     "duration": 1985
+    },
+    "2026-11-28": {
+     "price": 35336,
+     "airline": "J2",
+     "transfers": 2,
+     "duration": 2305
+    },
+    "2026-11-29": {
+     "price": 37228,
+     "airline": "TK",
+     "transfers": 1,
+     "duration": 1265
+    },
+    "2026-11-30": {
+     "price": 31372,
+     "airline": "WY",
+     "transfers": 2,
+     "duration": 2170
+    }
+   },
+   "min": 29589,
+   "sources": [
+    "travelpayouts:2026-10",
+    "travelpayouts:2026-11"
+   ],
+   "errors": []
+  },
+  "MOW-BKK": {
+   "calendar": {
+    "2026-10-01": {
+     "price": 26786,
+     "airline": "HU",
+     "transfers": 1,
+     "duration": 2175
+    },
+    "2026-10-02": {
+     "price": 32999,
+     "airline": "GF",
+     "transfers": 1,
+     "duration": 1005
+    },
+    "2026-10-03": {
+     "price": 36476,
+     "airline": "EY",
+     "transfers": 1,
+     "duration": 1200
+    },
+    "2026-10-04": {
+     "price": 35080,
+     "airline": "CZ",
+     "transfers": 2,
+     "duration": 1345
+    },
+    "2026-10-05": {
+     "price": 33964,
+     "airline": "EY",
+     "transfers": 1,
+     "duration": 855
+    },
+    "2026-10-06": {
+     "price": 32638,
+     "airline": "J2",
+     "transfers": 2,
+     "duration": 2280
+    },
+    "2026-10-07": {
+     "price": 33850,
+     "airline": "EY",
+     "transfers": 1,
+     "duration": 1520
+    },
+    "2026-10-08": {
+     "price": 32205,
+     "airline": "J2",
+     "transfers": 2,
+     "duration": 1585
+    },
+    "2026-10-09": {
+     "price": 35771,
+     "airline": "J2",
+     "transfers": 2,
+     "duration": 2300
+    },
+    "2026-10-10": {
+     "price": 35823,
+     "airline": "J2",
+     "transfers": 2,
+     "duration": 2300
+    },
+    "2026-10-11": {
+     "price": 31879,
+     "airline": "J2",
+     "transfers": 2,
+     "duration": 2280
+    },
+    "2026-10-12": {
+     "price": 33472,
+     "airline": "HU",
+     "transfers": 1,
+     "duration": 935
+    },
+    "2026-10-13": {
+     "price": 32139,
+     "airline": "GF",
+     "transfers": 1,
+     "duration": 1005
+    },
+    "2026-10-14": {
+     "price": 33711,
+     "airline": "DP",
+     "transfers": 2,
+     "duration": 1535
+    },
+    "2026-10-15": {
+     "price": 32189,
+     "airline": "J2",
+     "transfers": 2,
+     "duration": 1585
+    },
+    "2026-10-16": {
+     "price": 34256,
+     "airline": "EY",
+     "transfers": 1,
+     "duration": 1200
+    },
+    "2026-10-17": {
+     "price": 34937,
+     "airline": "UT",
+     "transfers": 2,
+     "duration": 2010
+    },
+    "2026-10-18": {
+     "price": 32205,
+     "airline": "J2",
+     "transfers": 2,
+     "duration": 2280
+    },
+    "2026-10-19": {
+     "price": 37586,
+     "airline": "J2",
+     "transfers": 2,
+     "duration": 2295
+    },
+    "2026-10-20": {
+     "price": 34023,
+     "airline": "J2",
+     "transfers": 2,
+     "duration": 2280
+    },
+    "2026-10-21": {
+     "price": 34248,
+     "airline": "UT",
+     "transfers": 2,
+     "duration": 2010
+    },
+    "2026-10-22": {
+     "price": 36647,
+     "airline": "3F",
+     "transfers": 2,
+     "duration": 1670
+    },
+    "2026-10-23": {
+     "price": 38424,
+     "airline": "3F",
+     "transfers": 2,
+     "duration": 1670
+    },
+    "2026-10-24": {
+     "price": 34238,
+     "airline": "J2",
+     "transfers": 2,
+     "duration": 1730
+    },
+    "2026-10-25": {
+     "price": 35223,
+     "airline": "TK",
+     "transfers": 1,
+     "duration": 1000
+    },
+    "2026-10-26": {
+     "price": 32139,
+     "airline": "GF",
+     "transfers": 1,
+     "duration": 990
+    },
+    "2026-10-27": {
+     "price": 31534,
+     "airline": "J2",
+     "transfers": 2,
+     "duration": 2340
+    },
+    "2026-10-28": {
+     "price": 30678,
+     "airline": "J2",
+     "transfers": 2,
+     "duration": 2340
+    },
+    "2026-10-29": {
+     "price": 32313,
+     "airline": "CZ",
+     "transfers": 3,
+     "duration": 1850
+    },
+    "2026-10-30": {
+     "price": 30528,
+     "airline": "DV",
+     "transfers": 1,
+     "duration": 1850
+    },
+    "2026-10-31": {
+     "price": 33927,
+     "airline": "J2",
+     "transfers": 2,
+     "duration": 2335
+    },
+    "2026-11-01": {
+     "price": 29967,
+     "airline": "DV",
+     "transfers": 1,
+     "duration": 1850
+    },
+    "2026-11-02": {
+     "price": 37246,
+     "airline": "VF",
+     "transfers": 2,
+     "duration": 1815
+    },
+    "2026-11-03": {
+     "price": 33171,
+     "airline": "GS",
+     "transfers": 2,
+     "duration": 1750
+    },
+    "2026-11-04": {
+     "price": 29957,
+     "airline": "DV",
+     "transfers": 1,
+     "duration": 1850
+    },
+    "2026-11-05": {
+     "price": 33850,
+     "airline": "EY",
+     "transfers": 1,
+     "duration": 835
+    },
+    "2026-11-06": {
+     "price": 24745,
+     "airline": "DV",
+     "transfers": 1,
+     "duration": 1850
+    },
+    "2026-11-07": {
+     "price": 33364,
+     "airline": "CA",
+     "transfers": 2,
+     "duration": 2065
+    },
+    "2026-11-08": {
+     "price": 28784,
+     "airline": "CZ",
+     "transfers": 1,
+     "duration": 1930
+    },
+    "2026-11-09": {
+     "price": 29904,
+     "airline": "CZ",
+     "transfers": 1,
+     "duration": 1035
+    },
+    "2026-11-10": {
+     "price": 30685,
+     "airline": "CZ",
+     "transfers": 1,
+     "duration": 2020
+    },
+    "2026-11-11": {
+     "price": 30517,
+     "airline": "DV",
+     "transfers": 1,
+     "duration": 1850
+    },
+    "2026-11-12": {
+     "price": 32908,
+     "airline": "HU",
+     "transfers": 1,
+     "duration": 1400
+    },
+    "2026-11-13": {
+     "price": 30067,
+     "airline": "DV",
+     "transfers": 1,
+     "duration": 1850
+    },
+    "2026-11-14": {
+     "price": 36185,
+     "airline": "J2",
+     "transfers": 2,
+     "duration": 2010
+    },
+    "2026-11-15": {
+     "price": 30500,
+     "airline": "DV",
+     "transfers": 1,
+     "duration": 1850
+    },
+    "2026-11-16": {
+     "price": 33889,
+     "airline": "EY",
+     "transfers": 1,
+     "duration": 835
+    },
+    "2026-11-17": {
+     "price": 28965,
+     "airline": "CZ",
+     "transfers": 1,
+     "duration": 2020
+    },
+    "2026-11-18": {
+     "price": 27352,
+     "airline": "CZ",
+     "transfers": 1,
+     "duration": 1035
+    },
+    "2026-11-19": {
+     "price": 31614,
+     "airline": "JD",
+     "transfers": 1,
+     "duration": 2250
+    },
+    "2026-11-20": {
+     "price": 24745,
+     "airline": "DV",
+     "transfers": 1,
+     "duration": 1850
+    },
+    "2026-11-21": {
+     "price": 29721,
+     "airline": "CZ",
+     "transfers": 1,
+     "duration": 1035
+    },
+    "2026-11-22": {
+     "price": 26551,
+     "airline": "CZ",
+     "transfers": 1,
+     "duration": 2020
+    },
+    "2026-11-23": {
+     "price": 27510,
+     "airline": "CZ",
+     "transfers": 1,
+     "duration": 1035
+    },
+    "2026-11-24": {
+     "price": 26692,
+     "airline": "CZ",
+     "transfers": 1,
+     "duration": 1930
+    },
+    "2026-11-25": {
+     "price": 27892,
+     "airline": "CZ",
+     "transfers": 1,
+     "duration": 880
+    },
+    "2026-11-26": {
+     "price": 27352,
+     "airline": "CZ",
+     "transfers": 1,
+     "duration": 2145
+    },
+    "2026-11-27": {
+     "price": 30077,
+     "airline": "DV",
+     "transfers": 1,
+     "duration": 1850
+    },
+    "2026-11-28": {
+     "price": 31722,
+     "airline": "J2",
+     "transfers": 2,
+     "duration": 2245
+    },
+    "2026-11-29": {
+     "price": 26551,
+     "airline": "CZ",
+     "transfers": 1,
+     "duration": 1930
+    },
+    "2026-11-30": {
+     "price": 27352,
+     "airline": "CZ",
+     "transfers": 1,
+     "duration": 1480
+    }
+   },
+   "min": 24745,
+   "sources": [
+    "travelpayouts:2026-10",
+    "travelpayouts:2026-11"
+   ],
+   "errors": []
+  },
+  "BKK-HKT": {
+   "calendar": {
+    "2026-10-01": {
+     "price": 3346,
+     "airline": "FD",
+     "transfers": 0,
+     "duration": 90
+    },
+    "2026-10-02": {
+     "price": 3347,
+     "airline": "FD",
+     "transfers": 0,
+     "duration": 90
+    },
+    "2026-10-03": {
+     "price": 3361,
+     "airline": "FD",
+     "transfers": 0,
+     "duration": 90
+    },
+    "2026-10-04": {
+     "price": 3236,
+     "airline": "SL",
+     "transfers": 0,
+     "duration": 85
+    },
+    "2026-10-05": {
+     "price": 2975,
+     "airline": "FD",
+     "transfers": 0,
+     "duration": 85
+    },
+    "2026-10-06": {
+     "price": 3046,
+     "airline": "FD",
+     "transfers": 0,
+     "duration": 85
+    },
+    "2026-10-07": {
+     "price": 3023,
+     "airline": "FD",
+     "transfers": 0,
+     "duration": 85
+    },
+    "2026-10-08": {
+     "price": 3046,
+     "airline": "FD",
+     "transfers": 0,
+     "duration": 85
+    },
+    "2026-10-09": {
+     "price": 3255,
+     "airline": "SL",
+     "transfers": 0,
+     "duration": 85
+    },
+    "2026-10-10": {
+     "price": 3481,
+     "airline": "FD",
+     "transfers": 0,
+     "duration": 90
+    },
+    "2026-10-11": {
+     "price": 3374,
+     "airline": "SL",
+     "transfers": 0,
+     "duration": 85
+    },
+    "2026-10-12": {
+     "price": 3431,
+     "airline": "FD",
+     "transfers": 0,
+     "duration": 90
+    },
+    "2026-10-13": {
+     "price": 3410,
+     "airline": "FD",
+     "transfers": 0,
+     "duration": 90
+    },
+    "2026-10-14": {
+     "price": 3431,
+     "airline": "FD",
+     "transfers": 0,
+     "duration": 90
+    },
+    "2026-10-15": {
+     "price": 3053,
+     "airline": "FD",
+     "transfers": 0,
+     "duration": 90
+    },
+    "2026-10-16": {
+     "price": 3012,
+     "airline": "FD",
+     "transfers": 0,
+     "duration": 85
+    },
+    "2026-10-17": {
+     "price": 2952,
+     "airline": "FD",
+     "transfers": 0,
+     "duration": 85
+    },
+    "2026-10-18": {
+     "price": 3003,
+     "airline": "FD",
+     "transfers": 0,
+     "duration": 85
+    },
+    "2026-10-19": {
+     "price": 3026,
+     "airline": "FD",
+     "transfers": 0,
+     "duration": 85
+    },
+    "2026-10-20": {
+     "price": 2956,
+     "airline": "FD",
+     "transfers": 0,
+     "duration": 85
+    },
+    "2026-10-21": {
+     "price": 2937,
+     "airline": "FD",
+     "transfers": 0,
+     "duration": 85
+    },
+    "2026-10-22": {
+     "price": 3444,
+     "airline": "FD",
+     "transfers": 0,
+     "duration": 90
+    },
+    "2026-10-23": {
+     "price": 2722,
+     "airline": "VZ",
+     "transfers": 0,
+     "duration": 95
+    },
+    "2026-10-24": {
+     "price": 3060,
+     "airline": "VZ",
+     "transfers": 0,
+     "duration": 95
+    },
+    "2026-10-25": {
+     "price": 3421,
+     "airline": "FD",
+     "transfers": 0,
+     "duration": 100
+    },
+    "2026-10-26": {
+     "price": 3174,
+     "airline": "VZ",
+     "transfers": 0,
+     "duration": 95
+    },
+    "2026-10-27": {
+     "price": 3127,
+     "airline": "VZ",
+     "transfers": 0,
+     "duration": 95
+    },
+    "2026-10-28": {
+     "price": 3041,
+     "airline": "FD",
+     "transfers": 0,
+     "duration": 100
+    },
+    "2026-10-29": {
+     "price": 3071,
+     "airline": "VZ",
+     "transfers": 0,
+     "duration": 90
+    },
+    "2026-10-30": {
+     "price": 3075,
+     "airline": "VZ",
+     "transfers": 0,
+     "duration": 95
+    },
+    "2026-10-31": {
+     "price": 3151,
+     "airline": "FD",
+     "transfers": 0,
+     "duration": 100
+    },
+    "2026-11-01": {
+     "price": 3881,
+     "airline": "VZ",
+     "transfers": 0,
+     "duration": 95
+    },
+    "2026-11-02": {
+     "price": 4025,
+     "airline": "VZ",
+     "transfers": 0,
+     "duration": 95
+    },
+    "2026-11-03": {
+     "price": 3709,
+     "airline": "VZ",
+     "transfers": 0,
+     "duration": 95
+    },
+    "2026-11-04": {
+     "price": 3127,
+     "airline": "VZ",
+     "transfers": 0,
+     "duration": 95
+    },
+    "2026-11-05": {
+     "price": 3340,
+     "airline": "VZ",
+     "transfers": 0,
+     "duration": 95
+    },
+    "2026-11-06": {
+     "price": 3155,
+     "airline": "VZ",
+     "transfers": 0,
+     "duration": 95
+    },
+    "2026-11-07": {
+     "price": 3127,
+     "airline": "VZ",
+     "transfers": 0,
+     "duration": 95
+    },
+    "2026-11-08": {
+     "price": 3417,
+     "airline": "VZ",
+     "transfers": 0,
+     "duration": 95
+    },
+    "2026-11-09": {
+     "price": 3379,
+     "airline": "VZ",
+     "transfers": 0,
+     "duration": 95
+    },
+    "2026-11-10": {
+     "price": 3417,
+     "airline": "VZ",
+     "transfers": 0,
+     "duration": 95
+    },
+    "2026-11-11": {
+     "price": 3419,
+     "airline": "VZ",
+     "transfers": 0,
+     "duration": 95
+    },
+    "2026-11-12": {
+     "price": 3769,
+     "airline": "SL",
+     "transfers": 0,
+     "duration": 85
+    },
+    "2026-11-13": {
+     "price": 3407,
+     "airline": "VZ",
+     "transfers": 0,
+     "duration": 95
+    },
+    "2026-11-14": {
+     "price": 3417,
+     "airline": "VZ",
+     "transfers": 0,
+     "duration": 90
+    },
+    "2026-11-15": {
+     "price": 3417,
+     "airline": "VZ",
+     "transfers": 0,
+     "duration": 95
+    },
+    "2026-11-16": {
+     "price": 3398,
+     "airline": "VZ",
+     "transfers": 0,
+     "duration": 95
+    },
+    "2026-11-17": {
+     "price": 3417,
+     "airline": "VZ",
+     "transfers": 0,
+     "duration": 90
+    },
+    "2026-11-18": {
+     "price": 3429,
+     "airline": "VZ",
+     "transfers": 0,
+     "duration": 95
+    },
+    "2026-11-19": {
+     "price": 3881,
+     "airline": "VZ",
+     "transfers": 0,
+     "duration": 95
+    },
+    "2026-11-20": {
+     "price": 3429,
+     "airline": "VZ",
+     "transfers": 0,
+     "duration": 95
+    },
+    "2026-11-21": {
+     "price": 3429,
+     "airline": "VZ",
+     "transfers": 0,
+     "duration": 95
+    },
+    "2026-11-22": {
+     "price": 3881,
+     "airline": "VZ",
+     "transfers": 0,
+     "duration": 95
+    },
+    "2026-11-23": {
+     "price": 3429,
+     "airline": "VZ",
+     "transfers": 0,
+     "duration": 95
+    },
+    "2026-11-24": {
+     "price": 3412,
+     "airline": "VZ",
+     "transfers": 0,
+     "duration": 95
+    },
+    "2026-11-25": {
+     "price": 3412,
+     "airline": "VZ",
+     "transfers": 0,
+     "duration": 95
+    },
+    "2026-11-26": {
+     "price": 3867,
+     "airline": "VZ",
+     "transfers": 0,
+     "duration": 90
+    },
+    "2026-11-27": {
+     "price": 3867,
+     "airline": "VZ",
+     "transfers": 0,
+     "duration": 95
+    },
+    "2026-11-28": {
+     "price": 3383,
+     "airline": "VZ",
+     "transfers": 0,
+     "duration": 90
+    },
+    "2026-11-29": {
+     "price": 3554,
+     "airline": "VZ",
+     "transfers": 0,
+     "duration": 90
+    },
+    "2026-11-30": {
+     "price": 3429,
+     "airline": "VZ",
+     "transfers": 0,
+     "duration": 95
+    }
+   },
+   "min": 2722,
+   "sources": [
+    "travelpayouts:2026-10",
+    "travelpayouts:2026-11"
+   ],
+   "errors": []
+  },
+  "SVX-MOW": {
+   "calendar": {
+    "2026-10-01": {
+     "price": 5216,
+     "airline": "DP",
+     "transfers": 0,
+     "duration": 150
+    },
+    "2026-10-02": {
+     "price": 6198,
+     "airline": "DP",
+     "transfers": 0,
+     "duration": 150
+    },
+    "2026-10-03": {
+     "price": 6171,
+     "airline": "DP",
+     "transfers": 0,
+     "duration": 150
+    },
+    "2026-10-04": {
+     "price": 5251,
+     "airline": "DP",
+     "transfers": 0,
+     "duration": 150
+    },
+    "2026-10-05": {
+     "price": 6502,
+     "airline": "DP",
+     "transfers": 0,
+     "duration": 150
+    },
+    "2026-10-06": {
+     "price": 5251,
+     "airline": "DP",
+     "transfers": 0,
+     "duration": 155
+    },
+    "2026-10-07": {
+     "price": 5282,
+     "airline": "DP",
+     "transfers": 0,
+     "duration": 150
+    },
+    "2026-10-08": {
+     "price": 6150,
+     "airline": "DP",
+     "transfers": 0,
+     "duration": 150
+    },
+    "2026-10-09": {
+     "price": 6141,
+     "airline": "DP",
+     "transfers": 0,
+     "duration": 150
+    },
+    "2026-10-10": {
+     "price": 7643,
+     "airline": "DP",
+     "transfers": 0,
+     "duration": 155
+    },
+    "2026-10-11": {
+     "price": 5251,
+     "airline": "DP",
+     "transfers": 0,
+     "duration": 150
+    },
+    "2026-10-12": {
+     "price": 6128,
+     "airline": "DP",
+     "transfers": 0,
+     "duration": 150
+    },
+    "2026-10-13": {
+     "price": 6128,
+     "airline": "DP",
+     "transfers": 0,
+     "duration": 150
+    },
+    "2026-10-14": {
+     "price": 6150,
+     "airline": "DP",
+     "transfers": 0,
+     "duration": 145
+    },
+    "2026-10-15": {
+     "price": 7282,
+     "airline": "DP",
+     "transfers": 0,
+     "duration": 150
+    },
+    "2026-10-16": {
+     "price": 6150,
+     "airline": "DP",
+     "transfers": 0,
+     "duration": 150
+    },
+    "2026-10-17": {
+     "price": 6150,
+     "airline": "DP",
+     "transfers": 0,
+     "duration": 155
+    },
+    "2026-10-18": {
+     "price": 6319,
+     "airline": "DP",
+     "transfers": 0,
+     "duration": 155
+    },
+    "2026-10-19": {
+     "price": 6311,
+     "airline": "DP",
+     "transfers": 0,
+     "duration": 150
+    },
+    "2026-10-20": {
+     "price": 6311,
+     "airline": "DP",
+     "transfers": 0,
+     "duration": 155
+    },
+    "2026-10-21": {
+     "price": 6150,
+     "airline": "DP",
+     "transfers": 0,
+     "duration": 155
+    },
+    "2026-10-22": {
+     "price": 7272,
+     "airline": "DP",
+     "transfers": 0,
+     "duration": 155
+    },
+    "2026-10-23": {
+     "price": 7260,
+     "airline": "DP",
+     "transfers": 0,
+     "duration": 150
+    },
+    "2026-10-24": {
+     "price": 7270,
+     "airline": "DP",
+     "transfers": 0,
+     "duration": 155
+    },
+    "2026-10-25": {
+     "price": 6730,
+     "airline": "DP",
+     "transfers": 0,
+     "duration": 160
+    },
+    "2026-10-26": {
+     "price": 7801,
+     "airline": "DP",
+     "transfers": 0,
+     "duration": 160
+    },
+    "2026-10-27": {
+     "price": 6725,
+     "airline": "DP",
+     "transfers": 0,
+     "duration": 160
+    },
+    "2026-10-28": {
+     "price": 7761,
+     "airline": "DP",
+     "transfers": 0,
+     "duration": 160
+    },
+    "2026-10-29": {
+     "price": 6740,
+     "airline": "DP",
+     "transfers": 0,
+     "duration": 160
+    },
+    "2026-10-30": {
+     "price": 6725,
+     "airline": "DP",
+     "transfers": 0,
+     "duration": 160
+    },
+    "2026-10-31": {
+     "price": 7773,
+     "airline": "DP",
+     "transfers": 0,
+     "duration": 160
+    },
+    "2026-11-01": {
+     "price": 7751,
+     "airline": "DP",
+     "transfers": 0,
+     "duration": 160
+    },
+    "2026-11-02": {
+     "price": 6255,
+     "airline": "DP",
+     "transfers": 0,
+     "duration": 160
+    },
+    "2026-11-03": {
+     "price": 6232,
+     "airline": "DP",
+     "transfers": 0,
+     "duration": 160
+    },
+    "2026-11-04": {
+     "price": 7245,
+     "airline": "DP",
+     "transfers": 0,
+     "duration": 160
+    },
+    "2026-11-05": {
+     "price": 7768,
+     "airline": "SU",
+     "transfers": 0,
+     "duration": 160
+    },
+    "2026-11-06": {
+     "price": 6232,
+     "airline": "DP",
+     "transfers": 0,
+     "duration": 160
+    },
+    "2026-11-07": {
+     "price": 6232,
+     "airline": "DP",
+     "transfers": 0,
+     "duration": 160
+    },
+    "2026-11-08": {
+     "price": 6232,
+     "airline": "DP",
+     "transfers": 0,
+     "duration": 160
+    },
+    "2026-11-09": {
+     "price": 7255,
+     "airline": "DP",
+     "transfers": 0,
+     "duration": 160
+    },
+    "2026-11-10": {
+     "price": 7245,
+     "airline": "DP",
+     "transfers": 0,
+     "duration": 160
+    },
+    "2026-11-11": {
+     "price": 7789,
+     "airline": "FV",
+     "transfers": 0,
+     "duration": 165
+    },
+    "2026-11-12": {
+     "price": 7255,
+     "airline": "DP",
+     "transfers": 0,
+     "duration": 160
+    },
+    "2026-11-13": {
+     "price": 8280,
+     "airline": "DP",
+     "transfers": 0,
+     "duration": 160
+    },
+    "2026-11-14": {
+     "price": 7255,
+     "airline": "DP",
+     "transfers": 0,
+     "duration": 160
+    },
+    "2026-11-15": {
+     "price": 7245,
+     "airline": "DP",
+     "transfers": 0,
+     "duration": 160
+    },
+    "2026-11-16": {
+     "price": 7255,
+     "airline": "DP",
+     "transfers": 0,
+     "duration": 160
+    },
+    "2026-11-17": {
+     "price": 6222,
+     "airline": "DP",
+     "transfers": 0,
+     "duration": 160
+    },
+    "2026-11-18": {
+     "price": 7245,
+     "airline": "DP",
+     "transfers": 0,
+     "duration": 160
+    },
+    "2026-11-19": {
+     "price": 7245,
+     "airline": "DP",
+     "transfers": 0,
+     "duration": 160
+    },
+    "2026-11-20": {
+     "price": 7255,
+     "airline": "DP",
+     "transfers": 0,
+     "duration": 160
+    },
+    "2026-11-21": {
+     "price": 6629,
+     "airline": "SU",
+     "transfers": 0,
+     "duration": 160
+    },
+    "2026-11-22": {
+     "price": 6223,
+     "airline": "DP",
+     "transfers": 0,
+     "duration": 160
+    },
+    "2026-11-23": {
+     "price": 7255,
+     "airline": "DP",
+     "transfers": 0,
+     "duration": 160
+    },
+    "2026-11-24": {
+     "price": 6222,
+     "airline": "DP",
+     "transfers": 0,
+     "duration": 160
+    },
+    "2026-11-25": {
+     "price": 7765,
+     "airline": "SU",
+     "transfers": 0,
+     "duration": 160
+    },
+    "2026-11-26": {
+     "price": 7271,
+     "airline": "DP",
+     "transfers": 0,
+     "duration": 160
+    },
+    "2026-11-27": {
+     "price": 6223,
+     "airline": "DP",
+     "transfers": 0,
+     "duration": 160
+    },
+    "2026-11-28": {
+     "price": 6635,
+     "airline": "SU",
+     "transfers": 0,
+     "duration": 160
+    },
+    "2026-11-29": {
+     "price": 6223,
+     "airline": "DP",
+     "transfers": 0,
+     "duration": 160
+    },
+    "2026-11-30": {
+     "price": 5236,
+     "airline": "DP",
+     "transfers": 0,
+     "duration": 160
+    }
+   },
+   "min": 5216,
+   "sources": [
+    "travelpayouts:2026-10",
+    "travelpayouts:2026-11"
+   ],
+   "errors": []
+  }
+ },
+ "legsWithData": "5/5"
+}
