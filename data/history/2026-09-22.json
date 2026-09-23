@@ -1,0 +1,2193 @@
+{
+ "collectedAt": "2026-09-22T18:59:34+00:00",
+ "date": "2026-09-22",
+ "pricesAre": "за 1 пассажира, без подтверждённого багажа",
+ "legs": {
+  "SVX-HKT": {
+   "calendar": {
+    "2026-10-01": {
+     "price": 38982,
+     "airline": "SU",
+     "transfers": 0,
+     "duration": 525,
+     "link": "https://www.aviasales.ru/search/SVX0110HKT1?t=SU17908980001790936700000525SVXHKT_f82ef96dcb70bacc94286a97d27523ea_38985&search_date=22092026&expected_price_uuid=01a0ca77-d913-8030-2547-12ede95dd7b4&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=Ff7Iv2Rq_KSS-Tr5hB4n6g&expected_price_source=share&expected_price_currency=rub&expected_price=38982"
+    },
+    "2026-10-02": {
+     "price": 37839,
+     "airline": "WZ",
+     "transfers": 2,
+     "duration": 2300,
+     "link": "https://www.aviasales.ru/search/SVX0210HKT1?t=C617909577001791102900002300SVXNQZTASHKT_c122ad821da13f17e4299c16106f8108_37839&search_date=22092026&expected_price_uuid=01a0ca2c-9739-8050-a99a-7e633de6e4d1&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=BXDhLQE5Txz_CXfxmOkfqA&expected_price_source=share&expected_price_currency=rub&expected_price=37839"
+    },
+    "2026-10-03": {
+     "price": 40913,
+     "airline": "SU",
+     "transfers": 2,
+     "duration": 2455,
+     "link": "https://www.aviasales.ru/search/SVX0310HKT1?t=G917910396001791194100002455SVXEVNSHJHKT_4c62349161caea9f52f64d5722960df7_40917&search_date=22092026&expected_price_uuid=01a0c9dc-db97-8050-eb16-96feb8bf9ec3&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=kGVrhmA5Zwt5iuTDLCEdzQ&expected_price_source=share&expected_price_currency=rub&expected_price=40913"
+    },
+    "2026-10-04": {
+     "price": 40410,
+     "airline": "SU",
+     "transfers": 2,
+     "duration": 2470,
+     "link": "https://www.aviasales.ru/search/SVX0410HKT1?t=EY17911554001791310800002470SVXSVOAUHHKT_962a06d5a6678ab8870a94a94abef40c_40414&search_date=22092026&expected_price_uuid=01a0ca32-d90b-8050-2118-fde5e7bfef5c&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=c3oTjGSw923qFLbaTBorPw&expected_price_source=share&expected_price_currency=rub&expected_price=40410"
+    },
+    "2026-10-05": {
+     "price": 37948,
+     "airline": "DP",
+     "transfers": 2,
+     "duration": 1715,
+     "link": "https://www.aviasales.ru/search/SVX0510HKT1?t=EY17911797001791289800001715SVXAERAUHHKT_67c84a9edf240f11c51786dcddd937d8_37952&search_date=22092026&expected_price_uuid=01a0c9cc-3265-8051-2d32-cb3dc023618b&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=cCJAMzwwhcSafOp3wPrnuA&expected_price_source=share&expected_price_currency=rub&expected_price=37948"
+    },
+    "2026-10-06": {
+     "price": 38491,
+     "airline": "DP",
+     "transfers": 2,
+     "duration": 2770,
+     "link": "https://www.aviasales.ru/search/SVX0610HKT1?t=EY17913102001791483600002770SVXVKOSVOAUHHKT_e8f81e0fc400b69851cca19de5538f66_38517&search_date=22092026&expected_price_uuid=01a0c980-61e6-8050-6319-57afea850a6c&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=328HlRwng1ZzabelJXI1Pg&expected_price_source=share&expected_price_currency=rub&expected_price=38491"
+    },
+    "2026-10-07": {
+     "price": 37490,
+     "airline": "DP",
+     "transfers": 2,
+     "duration": 2040,
+     "link": "https://www.aviasales.ru/search/SVX0710HKT1?t=EY17913540001791483600002040SVXSVOAUHHKT_10915c90d2eedf3b83bd9af4db91c3a1_37516&search_date=22092026&expected_price_uuid=01a0c987-d1c4-8051-2b31-2343ac68d715&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=ct9_izBMEqTzyiMQWA_3nQ&expected_price_source=share&expected_price_currency=rub&expected_price=37490"
+    },
+    "2026-10-08": {
+     "price": 38586,
+     "airline": "DP",
+     "transfers": 2,
+     "duration": 2390,
+     "link": "https://www.aviasales.ru/search/SVX0810HKT1?t=EY17914392001791589800002390SVXSVOAUHHKT_858de9fb71fe919ccffc85510b6df7fb_38586&search_date=22092026&expected_price_uuid=01a0ca2b-d1f1-8051-2420-36dbc0471cdb&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=94Er5non5n7KPLSfHrPY5g&expected_price_source=share&expected_price_currency=rub&expected_price=38586"
+    },
+    "2026-10-09": {
+     "price": 42256,
+     "airline": "DP",
+     "transfers": 3,
+     "duration": 2340,
+     "link": "https://www.aviasales.ru/search/SVX0910HKT1?t=J217915217001791669300002340SVXVKODMEGYDBOMHKT_e92d8bc205ca1deb3022c1317151816d_42256&search_date=22092026&expected_price_uuid=01a0ca21-11e7-8050-ae11-5e989377ef38&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=XNYTGJJ8QwzsiNN0mgq4zg&expected_price_source=share&expected_price_currency=rub&expected_price=42256"
+    },
+    "2026-10-10": {
+     "price": 39961,
+     "airline": "SU",
+     "transfers": 2,
+     "duration": 2920,
+     "link": "https://www.aviasales.ru/search/SVX1010HKT1?t=G917916444001791826800002920SVXEVNSHJHKT_23c08976c38ffad178354208d56c0f23_39988&search_date=22092026&expected_price_uuid=01a0c984-f78d-8050-afe6-c4f2d3ae9391&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=fgH5YSkwMbyc313YlRKBoA&expected_price_source=share&expected_price_currency=rub&expected_price=39961"
+    },
+    "2026-10-11": {
+     "price": 37958,
+     "airline": "3F",
+     "transfers": 2,
+     "duration": 2555,
+     "link": "https://www.aviasales.ru/search/SVX1110HKT1?t=G917917176001791878100002555SVXEVNSHJHKT_041cc7f72f8dd866e488b51640f03a25_37958&search_date=22092026&expected_price_uuid=01a0ca0d-b5e7-8050-a736-27fd144c39c4&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=GYlFmrDFiULwh8ZRNEwitw&expected_price_source=share&expected_price_currency=rub&expected_price=37958"
+    },
+    "2026-10-12": {
+     "price": 40923,
+     "airline": "DP",
+     "transfers": 3,
+     "duration": 2255,
+     "link": "https://www.aviasales.ru/search/SVX1210HKT1?t=J217917860001791928500002255SVXSVODMEGYDBOMHKT_c0b38b1ac9655ccc77b6181e49a3725d_40951&search_date=22092026&expected_price_uuid=01a0c983-c21c-8050-2e72-c405b85aa0d7&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=wkUvLpfg6f1imOPYCDQWQw&expected_price_source=share&expected_price_currency=rub&expected_price=40923"
+    },
+    "2026-10-13": {
+     "price": 37892,
+     "airline": "3F",
+     "transfers": 2,
+     "duration": 2555,
+     "link": "https://www.aviasales.ru/search/SVX1310HKT1?t=G917918904001792050900002555SVXEVNSHJHKT_6034cab9a1f0e908c92954d800c180bd_37896&search_date=22092026&expected_price_uuid=01a0c9de-617b-8050-6a6a-5183c94d8d66&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=mGOweMIMGoHp0e9lhHfpNA&expected_price_source=share&expected_price_currency=rub&expected_price=37892"
+    },
+    "2026-10-14": {
+     "price": 39857,
+     "airline": "DP",
+     "transfers": 2,
+     "duration": 2000,
+     "link": "https://www.aviasales.ru/search/SVX1410HKT1?t=G917919588001792086000002000SVXSVODMESHJHKT_a1cba3ce3a8469d22fd20ab5a969bee5_39884&search_date=22092026&expected_price_uuid=01a0c988-8bdf-8051-2520-258d40c73d25&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=JGD4Q-h5GfcVfmaoOkbfyQ&expected_price_source=share&expected_price_currency=rub&expected_price=39856"
+    },
+    "2026-10-15": {
+     "price": 46022,
+     "airline": "SU",
+     "transfers": 0,
+     "duration": 525,
+     "link": "https://www.aviasales.ru/search/SVX1510HKT1?t=SU17921076001792146300000525SVXHKT_d50175e2cacd1a7f743d417b70329760_46022&search_date=22092026&expected_price_uuid=01a0c9f7-cb63-8051-2190-c885ef8bff90&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=Ff7Iv2Rq_KSS-Tr5hB4n6g&expected_price_source=share&expected_price_currency=rub&expected_price=46022"
+    },
+    "2026-10-16": {
+     "price": 37892,
+     "airline": "3F",
+     "transfers": 2,
+     "duration": 2555,
+     "link": "https://www.aviasales.ru/search/SVX1610HKT1?t=G917921496001792310100002555SVXEVNSHJHKT_2aa078f7648a28720eb7a392866330cc_37896&search_date=22092026&expected_price_uuid=01a0c9e7-18fa-8050-20b6-fd54467a98c5&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=GYlFmrDFiULwh8ZRNEwitw&expected_price_source=share&expected_price_currency=rub&expected_price=37892"
+    },
+    "2026-10-17": {
+     "price": 39702,
+     "airline": "SU",
+     "transfers": 2,
+     "duration": 2335,
+     "link": "https://www.aviasales.ru/search/SVX1710HKT1?t=G917922492001792396500002335SVXEVNSHJHKT_afb7951c90c862733a47b08597dad088_39706&search_date=22092026&expected_price_uuid=01a0c9e7-2511-8050-2f60-951df11a8f65&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=wtz2qtlh8S4VBK5-2yrgSg&expected_price_source=share&expected_price_currency=rub&expected_price=39702"
+    },
+    "2026-10-18": {
+     "price": 37998,
+     "airline": "3F",
+     "transfers": 2,
+     "duration": 2555,
+     "link": "https://www.aviasales.ru/search/SVX1810HKT1?t=G917923224001792482900002555SVXEVNSHJHKT_7c4ddbb0e672a32a67b5419a72b28cf6_38001&search_date=22092026&expected_price_uuid=01a0ca6b-9b96-8030-6f7c-31b477cb66be&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=GYlFmrDFiULwh8ZRNEwitw&expected_price_source=share&expected_price_currency=rub&expected_price=37998"
+    },
+    "2026-10-19": {
+     "price": 40173,
+     "airline": "WZ",
+     "transfers": 2,
+     "duration": 2320,
+     "link": "https://www.aviasales.ru/search/SVX1910HKT1?t=G917923716001792518000002320SVXALASHJHKT_7740d8632e8a24e4c7bc2df67bae267e_40201&search_date=22092026&expected_price_uuid=01a0c988-5b1a-8051-268d-923000dad19c&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=PVkf4-US7sdkG4dJFSX8-w&expected_price_source=share&expected_price_currency=rub&expected_price=40173"
+    },
+    "2026-10-20": {
+     "price": 41519,
+     "airline": "U6",
+     "transfers": 2,
+     "duration": 2075,
+     "link": "https://www.aviasales.ru/search/SVX2010HKT1?t=WY17924808001792612500002075SVXISTMCTHKT_d89f644908bd93bc92c10641a28ebeed_41523&search_date=22092026&expected_price_uuid=01a0ca4f-d4ec-8050-e3a0-003af751ca5d&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=FpmeSJ3f2jsl9he-w5ZTSg&expected_price_source=share&expected_price_currency=rub&expected_price=41519"
+    },
+    "2026-10-21": {
+     "price": 45800,
+     "airline": "SU",
+     "transfers": 3,
+     "duration": 1755,
+     "link": "https://www.aviasales.ru/search/SVX2110HKT1?t=G917925432001792655700001755SVXSVOEVNSHJHKT_0418a4372e48f042b39a8fb759ccb536_45831&search_date=22092026&expected_price_uuid=01a0c981-a697-8050-2f8c-d284a8c14bee&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=3E34HDSE4KAjxLyhXF1aKg&expected_price_source=share&expected_price_currency=rub&expected_price=45800"
+    },
+    "2026-10-22": {
+     "price": 48913,
+     "airline": "U6",
+     "transfers": 3,
+     "duration": 2225,
+     "link": "https://www.aviasales.ru/search/SVX2210HKT1?t=J217926518001792792500002225SVXDMEGYDBOMHKT_f6f00c1c40559eff9896947aab9c4078_48947&search_date=22092026&expected_price_uuid=01a0c987-6372-8051-2195-f20802283dcc&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=9AGes9qn-faQjA_Hn7mmrQ&expected_price_source=share&expected_price_currency=rub&expected_price=48913"
+    },
+    "2026-10-23": {
+     "price": 40220,
+     "airline": "WZ",
+     "transfers": 2,
+     "duration": 3305,
+     "link": "https://www.aviasales.ru/search/SVX2310HKT1?t=G917927172001792922700003305SVXALASHJHKT_e2ecafd1010b18327720a0a258d67549_40248&search_date=22092026&expected_price_uuid=01a0c98f-82f3-8051-2339-f021e0108531&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=qlOZqvY0XoItcytxOfqQ_w&expected_price_source=share&expected_price_currency=rub&expected_price=40220"
+    },
+    "2026-10-24": {
+     "price": 42211,
+     "airline": "SU",
+     "transfers": 2,
+     "duration": 2475,
+     "link": "https://www.aviasales.ru/search/SVX2410HKT1?t=G917928540001793009700002475SVXEVNSHJHKT_af383c2b4cba601568c1b5d20f59bbdf_42211&search_date=22092026&expected_price_uuid=01a0ca11-ad03-8050-22c4-086c217a0df4&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=szI5uepr6MvAo2sujgTSvw&expected_price_source=share&expected_price_currency=rub&expected_price=42211"
+    },
+    "2026-10-25": {
+     "price": 46278,
+     "airline": "U6",
+     "transfers": 3,
+     "duration": 3390,
+     "link": "https://www.aviasales.ru/search/SVX2510HKT1?t=G917929110001793121600003390SVXDMEEVNSHJHKT_476d4d373a0ac51046f917b4ae169529_46337&search_date=22092026&expected_price_uuid=01a0c933-f8a3-8051-24ed-61d0ea10932b&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=dNgUX3kskpXGMW2A4Vv26g&expected_price_source=share&expected_price_currency=rub&expected_price=46278"
+    },
+    "2026-10-26": {
+     "price": 38084,
+     "airline": "U6",
+     "transfers": 2,
+     "duration": 1630,
+     "link": "https://www.aviasales.ru/search/SVX2610HKT1?t=G917930166001793121600001630SVXEVNSHJHKT_a57e8529d8d0fef8c7cea2707c2a4981_38084&search_date=22092026&expected_price_uuid=01a0ca08-ac73-8050-6a0f-f79e535b279f&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=vnFUpclJp0u-YoVssdi0ig&expected_price_source=share&expected_price_currency=rub&expected_price=38084"
+    },
+    "2026-10-27": {
+     "price": 41726,
+     "airline": "DP",
+     "transfers": 2,
+     "duration": 2390,
+     "link": "https://www.aviasales.ru/search/SVX2710HKT1?t=EY17930808001793231400002390SVXSVOAUHHKT_50b0652f4c96edabfe66c5fc0258d067_41726&search_date=22092026&expected_price_uuid=01a0ca11-035d-8050-2ab0-d5231a583a41&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=LSlnghhQdNtRMEaT709XfQ&expected_price_source=share&expected_price_currency=rub&expected_price=41726"
+    },
+    "2026-10-28": {
+     "price": 38177,
+     "airline": "U6",
+     "transfers": 2,
+     "duration": 1455,
+     "link": "https://www.aviasales.ru/search/SVX2810HKT1?t=G917931744001793268900001455SVXEVNSHJHKT_3afb7ddebd227982238dbe1bda21df29_38180&search_date=22092026&expected_price_uuid=01a0ca71-d7d8-8030-e80c-a9dd5d2657c0&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=s_d4b8s5FV0r0ymOJxePqg&expected_price_source=share&expected_price_currency=rub&expected_price=38177"
+    },
+    "2026-10-29": {
+     "price": 39049,
+     "airline": "DP",
+     "transfers": 2,
+     "duration": 2745,
+     "link": "https://www.aviasales.ru/search/SVX2910HKT1?t=EY17932323001793404200002745SVXVKOSVOAUHHKT_fd5a51412708baf1765f379c8e21f3ca_39053&search_date=22092026&expected_price_uuid=01a0ca5d-13ed-8051-2a3c-9167f116dda9&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=-dqMw1oN6yUVcaIujpRrvw&expected_price_source=share&expected_price_currency=rub&expected_price=39049"
+    },
+    "2026-10-30": {
+     "price": 41542,
+     "airline": "3F",
+     "transfers": 2,
+     "duration": 1245,
+     "link": "https://www.aviasales.ru/search/SVX3010HKT1?t=G917933598001793441700001245SVXEVNSHJHKT_af9e8449d6fc3120a3ed5c5a282d4d33_41545&search_date=22092026&expected_price_uuid=01a0ca66-5088-8040-299a-16cfc67729b7&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=U-9M_pJlEmwpFDR3sxhQCA&expected_price_source=share&expected_price_currency=rub&expected_price=41542"
+    },
+    "2026-10-31": {
+     "price": 40211,
+     "airline": "WZ",
+     "transfers": 2,
+     "duration": 1600,
+     "link": "https://www.aviasales.ru/search/SVX3110HKT1?t=G917934504001793553600001600SVXALASHJHKT_3c03a6893a0366970a21c719403d6646_40215&search_date=22092026&expected_price_uuid=01a0c9dd-8605-8051-23ce-0191d1ce451b&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=RdTfv6W5cCvoydjjJBtk0A&expected_price_source=share&expected_price_currency=rub&expected_price=40211"
+    },
+    "2026-11-01": {
+     "price": 38914,
+     "airline": "DP",
+     "transfers": 2,
+     "duration": 2405,
+     "link": "https://www.aviasales.ru/search/SVX0111HKT1?t=WY17934915001793643000002405SVXVKOSVOMCTHKT_0ed3361173e98dcc18324c35f72ec208_38918&search_date=22092026&expected_price_uuid=01a0ca3d-ddb3-8030-6400-c682d57c9063&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=aSWtvJAWnMFrllOjmpKobQ&expected_price_source=share&expected_price_currency=rub&expected_price=38914"
+    },
+    "2026-11-02": {
+     "price": 37920,
+     "airline": "DP",
+     "transfers": 2,
+     "duration": 2760,
+     "link": "https://www.aviasales.ru/search/SVX0211HKT1?t=EY17936001001793772900002760SVXAERAUHHKT_6bb1de10972ef1d4fa8f583210351598_37920&search_date=22092026&expected_price_uuid=01a0ca07-953b-8050-eb63-5a3192bcfe08&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=V-DXNNC-m_H-uCLI6QrpnA&expected_price_source=share&expected_price_currency=rub&expected_price=37920"
+    },
+    "2026-11-03": {
+     "price": 40425,
+     "airline": "3F",
+     "transfers": 2,
+     "duration": 2555,
+     "link": "https://www.aviasales.ru/search/SVX0311HKT1?t=G917937054001793865900002555SVXEVNSHJHKT_de607340d51c7186c62b4ed4b23cf643_40425&search_date=22092026&expected_price_uuid=01a0ca0c-1b4b-8050-6390-158f01568859&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=cvAkR0_is541jPHQosqg9Q&expected_price_source=share&expected_price_currency=rub&expected_price=40425"
+    },
+    "2026-11-04": {
+     "price": 37738,
+     "airline": "C6",
+     "transfers": 1,
+     "duration": 1390,
+     "link": "https://www.aviasales.ru/search/SVX0411HKT1?t=C617937903001793880900001390SVXTASHKT_a2e8650dc646e496c445b3a0bdcd2a25_37742&search_date=22092026&expected_price_uuid=01a0ca3b-8f93-8050-2953-60e755eed7dd&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=ntss681uP3hoNF4ylorrBg&expected_price_source=share&expected_price_currency=rub&expected_price=37738"
+    },
+    "2026-11-05": {
+     "price": 40544,
+     "airline": "S7",
+     "transfers": 2,
+     "duration": 2335,
+     "link": "https://www.aviasales.ru/search/SVX0511HKT1?t=S717938614001794008700002335SVXOVBTFUHKT_0855e8d867fe0a01e6403a12f3b84102_40572&search_date=22092026&expected_price_uuid=01a0c9af-e2d5-8050-697d-09826912152a&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=Q-ebWaDIppKJPPekqcENnw&expected_price_source=share&expected_price_currency=rub&expected_price=40544"
+    },
+    "2026-11-06": {
+     "price": 40721,
+     "airline": "UT",
+     "transfers": 3,
+     "duration": 2900,
+     "link": "https://www.aviasales.ru/search/SVX0611HKT1?t=EY17940006001794181800002900SVXUFAVKOSVOAUHHKT_7621b6b7a81540df8f52e701acfde6a8_40725&search_date=22092026&expected_price_uuid=01a0ca3f-453d-8051-2b33-5acd95ce16a1&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=aBYT-hYiPSHdRBs0k4g9mg&expected_price_source=share&expected_price_currency=rub&expected_price=40721"
+    },
+    "2026-11-07": {
+     "price": 37853,
+     "airline": "DP",
+     "transfers": 2,
+     "duration": 2000,
+     "link": "https://www.aviasales.ru/search/SVX0711HKT1?t=G917940312001794158400002000SVXSVODMESHJHKT_d75aa5b0b07b5acba49b470b03ba8ff1_37857&search_date=22092026&expected_price_uuid=01a0ca33-2423-8030-2812-5020e68852bf&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=Ni2fI-V3ztnvQaRk-Fpr0g&expected_price_source=share&expected_price_currency=rub&expected_price=37853"
+    },
+    "2026-11-08": {
+     "price": 38288,
+     "airline": "DP",
+     "transfers": 2,
+     "duration": 2405,
+     "link": "https://www.aviasales.ru/search/SVX0811HKT1?t=WY17940963001794247800002405SVXVKOSVOMCTHKT_8fcf7ddd8e9df4ac3a1c3af9a4cd9cac_38326&search_date=22092026&expected_price_uuid=01a0c909-5a59-8050-ad67-ef2e5c39086a&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=gZwy5XURu2q71fHOM0xHOw&expected_price_source=share&expected_price_currency=rub&expected_price=38288"
+    },
+    "2026-11-09": {
+     "price": 36834,
+     "airline": "DP",
+     "transfers": 2,
+     "duration": 2065,
+     "link": "https://www.aviasales.ru/search/SVX0911HKT1?t=WY17942031001794334200002065SVXSVOMCTHKT_aae2498c19535c61b42894041b3cbc04_36881&search_date=22092026&expected_price_uuid=01a0c930-3733-8050-63aa-c1526bfbad75&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=63rT38sGiw85-2mOvaaIiw&expected_price_source=share&expected_price_currency=rub&expected_price=36834"
+    },
+    "2026-11-10": {
+     "price": 35542,
+     "airline": "DP",
+     "transfers": 2,
+     "duration": 2855,
+     "link": "https://www.aviasales.ru/search/SVX1011HKT1?t=WY17942904001794468900002855SVXSVOMCTHKT_94940b840f9b2bea54f8b1a9a4617b0e_35545&search_date=22092026&expected_price_uuid=01a0ca3c-5118-8030-63e5-3f3237f8957f&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=uJTiblq4SELfSI4cPlLtaA&expected_price_source=share&expected_price_currency=rub&expected_price=35542"
+    },
+    "2026-11-11": {
+     "price": 37934,
+     "airline": "C6",
+     "transfers": 1,
+     "duration": 1390,
+     "link": "https://www.aviasales.ru/search/SVX1111HKT1?t=C617943951001794485700001390SVXTASHKT_b6d2f04dcba526116206bdfa532551ed_37938&search_date=22092026&expected_price_uuid=01a0c9e7-271f-8050-e352-6e0be1b89906&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=ntss681uP3hoNF4ylorrBg&expected_price_source=share&expected_price_currency=rub&expected_price=37934"
+    },
+    "2026-11-12": {
+     "price": 36962,
+     "airline": "DP",
+     "transfers": 2,
+     "duration": 2760,
+     "link": "https://www.aviasales.ru/search/SVX1211HKT1?t=EY17944641001794636900002760SVXAERAUHHKT_fc37e9c1dbdba7627660b39332e4696c_36965&search_date=22092026&expected_price_uuid=01a0c9e7-20fa-8050-63c2-8586553509a1&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=V-DXNNC-m_H-uCLI6QrpnA&expected_price_source=share&expected_price_currency=rub&expected_price=36962"
+    },
+    "2026-11-13": {
+     "price": 40385,
+     "airline": "3F",
+     "transfers": 2,
+     "duration": 1245,
+     "link": "https://www.aviasales.ru/search/SVX1311HKT1?t=G917945694001794651300001245SVXEVNSHJHKT_74a7ec9dd07bbc7325dad812b0f39168_40425&search_date=22092026&expected_price_uuid=01a0c908-5bc4-8051-287f-308c849f3b70&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=U-9M_pJlEmwpFDR3sxhQCA&expected_price_source=share&expected_price_currency=rub&expected_price=40385"
+    },
+    "2026-11-14": {
+     "price": 39404,
+     "airline": "WZ",
+     "transfers": 2,
+     "duration": 1600,
+     "link": "https://www.aviasales.ru/search/SVX1411HKT1?t=G917946600001794763200001600SVXALASHJHKT_9909f7fb269fd16ed630b1730d6135c7_39408&search_date=22092026&expected_price_uuid=01a0ca41-5d84-8050-ed6c-7ea3038397f8&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=RdTfv6W5cCvoydjjJBtk0A&expected_price_source=share&expected_price_currency=rub&expected_price=39404"
+    },
+    "2026-11-15": {
+     "price": 47636,
+     "airline": "FV",
+     "transfers": 2,
+     "duration": 2030,
+     "link": "https://www.aviasales.ru/search/SVX1511HKT1?t=EY17947224001794851400002030SVXLEDAUHHKT_8e8bb6fdcf455c1ac7c9f7301e98aaa4_47697&search_date=22092026&expected_price_uuid=01a0c91b-e7d4-8050-a3df-4399646b1df9&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=0dh93aIlxTmUtv_WI7EeJA&expected_price_source=share&expected_price_currency=rub&expected_price=47636"
+    },
+    "2026-11-16": {
+     "price": 38125,
+     "airline": "DP",
+     "transfers": 2,
+     "duration": 2015,
+     "link": "https://www.aviasales.ru/search/SVX1611HKT1?t=EY17948097001794937800002015SVXAERAUHHKT_4d4538997e612fba1a027865d4d195c3_38129&search_date=22092026&expected_price_uuid=01a0ca3f-6ec3-8050-ab2d-1b8ed5e6653b&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=98LE2Ci09lFTIL4iu972Ug&expected_price_source=share&expected_price_currency=rub&expected_price=38125"
+    },
+    "2026-11-17": {
+     "price": 39808,
+     "airline": "DP",
+     "transfers": 2,
+     "duration": 2725,
+     "link": "https://www.aviasales.ru/search/SVX1711HKT1?t=EY17948982001795068900002725SVXVKOSVOAUHHKT_80268b29493e26600a075aa0abe21de6_39543&search_date=22092026&expected_price_uuid=01a0c88e-3194-8051-2ffc-b453ee324102&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=nBBwKajIHLSpegAO6r7RTA&expected_price_source=share&expected_price_currency=rub&expected_price=39808"
+    },
+    "2026-11-18": {
+     "price": 39526,
+     "airline": "DP",
+     "transfers": 2,
+     "duration": 1630,
+     "link": "https://www.aviasales.ru/search/SVX1811HKT1?t=EY17949846001795089600001630SVXVKOSVOAUHHKT_0d6165df5eda8410f95ee99528670bc9_39576&search_date=22092026&expected_price_uuid=01a0c91f-3426-8050-ea3d-e6891468887b&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=sMoM3-_MivfVzaIqtZHfYw&expected_price_source=share&expected_price_currency=rub&expected_price=39526"
+    },
+    "2026-11-19": {
+     "price": 33862,
+     "airline": "DP",
+     "transfers": 2,
+     "duration": 3210,
+     "link": "https://www.aviasales.ru/search/SVX1911HKT1?t=WY17950467001795246500003210SVXVKOSVOMCTHKT_e4b97f6abee03338384eef4716111288_33865&search_date=22092026&expected_price_uuid=01a0c9dd-0c5b-8051-23b4-aabcfc0cc096&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=0kjewR12E3bvRjEsnexWPQ&expected_price_source=share&expected_price_currency=rub&expected_price=33862"
+    },
+    "2026-11-20": {
+     "price": 32758,
+     "airline": "3F",
+     "transfers": 2,
+     "duration": 1245,
+     "link": "https://www.aviasales.ru/search/SVX2011HKT1?t=G917951742001795256100001245SVXEVNSHJHKT_93adbd05120c02cc5fa3f4330245267a_32761&search_date=22092026&expected_price_uuid=01a0ca44-e553-8050-e085-3e9d866c581b&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=U-9M_pJlEmwpFDR3sxhQCA&expected_price_source=share&expected_price_currency=rub&expected_price=32758"
+    },
+    "2026-11-21": {
+     "price": 39353,
+     "airline": "SU",
+     "transfers": 2,
+     "duration": 2800,
+     "link": "https://www.aviasales.ru/search/SVX2111HKT1?t=EY17953026001795477800002800SVXSVOAUHHKT_b2fa4bff643df808d089ef503e375312_39357&search_date=22092026&expected_price_uuid=01a0ca2b-f839-8050-e6cc-487df68fac5b&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=WDoozWFMRbIaeGocz5gckA&expected_price_source=share&expected_price_currency=rub&expected_price=39353"
+    },
+    "2026-11-22": {
+     "price": 38585,
+     "airline": "DP",
+     "transfers": 2,
+     "duration": 2745,
+     "link": "https://www.aviasales.ru/search/SVX2211HKT1?t=EY17953059001795477800002745SVXVKOSVOAUHHKT_e9794cfadfee2127f32538620c6cb73f_38589&search_date=22092026&expected_price_uuid=01a0ca2b-f839-8051-2023-9fae60b10c22&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=-dqMw1oN6yUVcaIujpRrvw&expected_price_source=share&expected_price_currency=rub&expected_price=38585"
+    },
+    "2026-11-23": {
+     "price": 38706,
+     "airline": "C6",
+     "transfers": 1,
+     "duration": 1695,
+     "link": "https://www.aviasales.ru/search/SVX2311HKT1?t=C617953953001795504200001695SVXTASHKT_b4fdb29d921cf181ffbc44764b5fcf05_38710&search_date=22092026&expected_price_uuid=01a0ca2b-f839-8050-27e8-d2107ef2501e&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=LqwqLH2_QLqMDtL-SatmDg&expected_price_source=share&expected_price_currency=rub&expected_price=38706"
+    },
+    "2026-11-24": {
+     "price": 38532,
+     "airline": "DP",
+     "transfers": 2,
+     "duration": 2340,
+     "link": "https://www.aviasales.ru/search/SVX2411HKT1?t=EY17955030001795650600002340SVXVKOSVOAUHHKT_a5cd5a0f2716c7d0ff55974ded2c666b_38536&search_date=22092026&expected_price_uuid=01a0c9f2-5568-8050-6fc7-4c5444f0180b&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=a0fFUOXzyA9VxYsdzHHDrQ&expected_price_source=share&expected_price_currency=rub&expected_price=38532"
+    },
+    "2026-11-25": {
+     "price": 36845,
+     "airline": "DP",
+     "transfers": 2,
+     "duration": 2810,
+     "link": "https://www.aviasales.ru/search/SVX2511HKT1?t=WY17955894001795765200002810SVXVKOSVOMCTHKT_a2ee46611d6998d2af417092b8d1bfc0_36848&search_date=22092026&expected_price_uuid=01a0c9ca-225c-8050-e7e2-c6f7f7fcefd8&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=oKXANwU01Y0d1MWr5EFc3A&expected_price_source=share&expected_price_currency=rub&expected_price=36845"
+    },
+    "2026-11-26": {
+     "price": 42126,
+     "airline": "DP",
+     "transfers": 2,
+     "duration": 2390,
+     "link": "https://www.aviasales.ru/search/SVX2611HKT1?t=EY17956728001795823400002390SVXSVOAUHHKT_9f2efe7ed6e1d2654538d23a029e3636_41846&search_date=22092026&expected_price_uuid=01a0c88d-5304-8050-6113-5ed3736b308d&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=LSlnghhQdNtRMEaT709XfQ&expected_price_source=share&expected_price_currency=rub&expected_price=42126"
+    },
+    "2026-11-27": {
+     "price": 38282,
+     "airline": "DP",
+     "transfers": 2,
+     "duration": 1430,
+     "link": "https://www.aviasales.ru/search/SVX2711HKT1?t=WY17957583001795851300001430SVXSVOMCTHKT_6747f91d61f50f8ca229163784b72abc_38282&search_date=22092026&expected_price_uuid=01a0ca0b-5591-8050-61c9-9961e577b5dc&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=uDRJGHb2joCMt58T2pLGNA&expected_price_source=share&expected_price_currency=rub&expected_price=38282"
+    },
+    "2026-11-28": {
+     "price": 48076,
+     "airline": "HY",
+     "transfers": 1,
+     "duration": 920,
+     "link": "https://www.aviasales.ru/search/SVX2811HKT1?t=HY17958672001795929600000920SVXTASHKT_cc91ae04297cb354138eb03f16981f39_48109&search_date=22092026&expected_price_uuid=01a0c9b3-fe7e-8050-65b5-eaf6bd9d000d&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=qS1XfzBKeQ4gmSB0BjYSKg&expected_price_source=share&expected_price_currency=rub&expected_price=48076"
+    },
+    "2026-11-29": {
+     "price": 48348,
+     "airline": "DP",
+     "transfers": 2,
+     "duration": 2680,
+     "link": "https://www.aviasales.ru/search/SVX2911HKT1?t=MU17959107001796078700002680SVXVKOSVOPVGHKT_86ce5e507397ef46e7b6b0cd04070cf6_48381&search_date=22092026&expected_price_uuid=01a0c9b3-f9fa-8050-64d6-4d4897e856b4&static_fare_key=TY%7CP0%7CH1%7CL1_1_10%7CCH1%7CR0%7CTBC1&itinerary_key=rEcQ3XeyQIiNJZ3nfv_hfA&expected_price_source=share&expected_price_currency=rub&expected_price=48348"
+    },
+    "2026-11-30": {
+     "price": 36870,
+     "airline": "U6",
+     "transfers": 2,
+     "duration": 3335,
+     "link": "https://www.aviasales.ru/search/SVX3011HKT1?t=CZ17960214001796228700003335SVXDMESVOCANHKT_61a8b2b53b4b133cc41656b2dff2e414_36873&search_date=22092026&expected_price_uuid=01a0ca7b-7427-8050-2a42-508a8fd1d528&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=WgCmD08MY8ILGUIRQYYNvA&expected_price_source=share&expected_price_currency=rub&expected_price=36870"
+    }
+   },
+   "min": 32758,
+   "sources": [
+    "travelpayouts:2026-10",
+    "travelpayouts:2026-11"
+   ],
+   "errors": []
+  },
+  "MOW-HKT": {
+   "calendar": {
+    "2026-10-01": {
+     "price": 30842,
+     "airline": "C6",
+     "transfers": 1,
+     "duration": 1180,
+     "link": "https://www.aviasales.ru/search/MOW0110HKT1?t=C617908449001790930100001180SVOTASHKT_38cc3616ee2fd53ae56302f409fae2c9_30844&search_date=22092026&expected_price_uuid=01a0ca78-8313-8050-ebca-34189ef8d4e3&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=-DHyq8CVHElbX7bZrMupxQ&expected_price_source=share&expected_price_currency=rub&expected_price=30842"
+    },
+    "2026-10-02": {
+     "price": 30114,
+     "airline": "C6",
+     "transfers": 1,
+     "duration": 1755,
+     "link": "https://www.aviasales.ru/search/MOW0210HKT1?t=C617909832001791102900001755SVOTASHKT_6456203674611570804128222c9f126a_30116&search_date=22092026&expected_price_uuid=01a0ca79-7d52-8030-6810-3e39184b5e79&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=kq247PMB1JDMI2ULesB44g&expected_price_source=share&expected_price_currency=rub&expected_price=30114"
+    },
+    "2026-10-03": {
+     "price": 33481,
+     "airline": "C6",
+     "transfers": 1,
+     "duration": 825,
+     "link": "https://www.aviasales.ru/search/MOW0310HKT1?t=C617910390001791102900000825SVOTASHKT_ca43ca96a8976120de04729fe94b339c_33484&search_date=22092026&expected_price_uuid=01a0ca61-7abf-8050-2c7d-56ec20a0eab9&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=gIOceYyPEOZEqLaVH4gC6A&expected_price_source=share&expected_price_currency=rub&expected_price=33481"
+    },
+    "2026-10-04": {
+     "price": 33350,
+     "airline": "EY",
+     "transfers": 2,
+     "duration": 1240,
+     "link": "https://www.aviasales.ru/search/MOW0410HKT1?t=EY17911521001791240900001240SVOAUHBKKHKT_8187ce14e6762a6867872aa968c02423_33353&search_date=22092026&expected_price_uuid=01a0ca60-44d4-8050-25f2-b8e434d3a614&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=xop_ml6M4EF8YT2Zl81Cjg&expected_price_source=share&expected_price_currency=rub&expected_price=33350"
+    },
+    "2026-10-05": {
+     "price": 30397,
+     "airline": "EY",
+     "transfers": 1,
+     "duration": 960,
+     "link": "https://www.aviasales.ru/search/MOW0510HKT1?t=EY17912388001791310800000960SVOAUHHKT_892e2112a6d4fd05255f5ab633e7a886_30399&search_date=22092026&expected_price_uuid=01a0ca76-0062-8050-a136-13cbfdaa4009&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=kmpYp8A8wX_9G-wPWsN6ng&expected_price_source=share&expected_price_currency=rub&expected_price=30397"
+    },
+    "2026-10-06": {
+     "price": 29225,
+     "airline": "J2",
+     "transfers": 2,
+     "duration": 1745,
+     "link": "https://www.aviasales.ru/search/MOW0610HKT1?t=J217912910001791410100001745VKOGYDBOMHKT_d28740cad3d038d6fabaaab01f0af8bd_29228&search_date=22092026&expected_price_uuid=01a0ca60-9686-8030-e59c-2d183225a030&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=bzxORsRBxuSdPSJ7wnaGig&expected_price_source=share&expected_price_currency=rub&expected_price=29225"
+    },
+    "2026-10-07": {
+     "price": 30247,
+     "airline": "EY",
+     "transfers": 1,
+     "duration": 1625,
+     "link": "https://www.aviasales.ru/search/MOW0710HKT1?t=EY17913717001791483600001625SVOAUHHKT_c5d22704459b8178f9554d98c73abb43_30249&search_date=22092026&expected_price_uuid=01a0ca74-38f8-8051-2ce2-8c57cf47f854&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=3obyN8NtPvO8Ni5O4V5pMQ&expected_price_source=share&expected_price_currency=rub&expected_price=30247"
+    },
+    "2026-10-08": {
+     "price": 30285,
+     "airline": "EY",
+     "transfers": 1,
+     "duration": 1625,
+     "link": "https://www.aviasales.ru/search/MOW0810HKT1?t=EY17914581001791570000001625SVOAUHHKT_511e7516ad6acfd2aa31f2cea399fa34_30287&search_date=22092026&expected_price_uuid=01a0ca7a-a380-8050-e5d3-2518343e9125&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=3obyN8NtPvO8Ni5O4V5pMQ&expected_price_source=share&expected_price_currency=rub&expected_price=30285"
+    },
+    "2026-10-09": {
+     "price": 30542,
+     "airline": "J2",
+     "transfers": 2,
+     "duration": 1750,
+     "link": "https://www.aviasales.ru/search/MOW0910HKT1?t=J217915499001791669300001750DMEGYDBOMHKT_514385571575c014e55b2ff5c80653ef_30544&search_date=22092026&expected_price_uuid=01a0ca7b-96a8-8051-26a8-ed20eee81c8a&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=sA96rKPriO8kjrliTSR33Q&expected_price_source=share&expected_price_currency=rub&expected_price=30542"
+    },
+    "2026-10-10": {
+     "price": 30108,
+     "airline": "J2",
+     "transfers": 2,
+     "duration": 1750,
+     "link": "https://www.aviasales.ru/search/MOW1010HKT1?t=J217916363001791755700001750DMEGYDBOMHKT_a4dc1b714f6ba850a370dd3ae8b1458b_30110&search_date=22092026&expected_price_uuid=01a0ca6a-de07-8050-a833-60cd727180f6&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=NSPl88JAlylzgOL1Tk5w0A&expected_price_source=share&expected_price_currency=rub&expected_price=30108"
+    },
+    "2026-10-11": {
+     "price": 32467,
+     "airline": "J2",
+     "transfers": 2,
+     "duration": 1190,
+     "link": "https://www.aviasales.ru/search/MOW1110HKT1?t=J217917230001791808800001190VKOGYDBOMHKT_6c0a80d040b8fa3ea9bd409875e4b629_32467&search_date=22092026&expected_price_uuid=01a0ca28-50ab-8050-ab07-028c813d041e&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=K0oGoJQKBYNzz3J0JdjTWA&expected_price_source=share&expected_price_currency=rub&expected_price=32467"
+    },
+    "2026-10-12": {
+     "price": 32285,
+     "airline": "EY",
+     "transfers": 2,
+     "duration": 1780,
+     "link": "https://www.aviasales.ru/search/MOW1210HKT1?t=EY17918037001791924900001780SVOAUHBKKDMKHKT_3930a9f099d8a1796ccdeb7919aced94_32287&search_date=22092026&expected_price_uuid=01a0ca71-1dbc-8050-a58f-46cbf8aaf31d&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=BRxfRTFrGosudN_iMK3RcQ&expected_price_source=share&expected_price_currency=rub&expected_price=32285"
+    },
+    "2026-10-13": {
+     "price": 31928,
+     "airline": "J2",
+     "transfers": 2,
+     "duration": 1745,
+     "link": "https://www.aviasales.ru/search/MOW1310HKT1?t=J217918958001792014900001745VKOGYDBOMHKT_46dac7e3827e5926284bbf328f2f2482_31930&search_date=22092026&expected_price_uuid=01a0ca7a-a9dd-8050-e927-7b1408b2be0b&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=bzxORsRBxuSdPSJ7wnaGig&expected_price_source=share&expected_price_currency=rub&expected_price=31928"
+    },
+    "2026-10-14": {
+     "price": 33027,
+     "airline": "J2",
+     "transfers": 2,
+     "duration": 1745,
+     "link": "https://www.aviasales.ru/search/MOW1410HKT1?t=J217919822001792101300001745VKOGYDBOMHKT_f01b18f49bf4911cadf5699af257d0d0_33029&search_date=22092026&expected_price_uuid=01a0ca6f-5797-8050-e91d-68106c1c9f46&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=MAb0BmZ27IY4eLyW6C0XHA&expected_price_source=share&expected_price_currency=rub&expected_price=33027"
+    },
+    "2026-10-15": {
+     "price": 33754,
+     "airline": "C6",
+     "transfers": 1,
+     "duration": 1180,
+     "link": "https://www.aviasales.ru/search/MOW1510HKT1?t=C617920545001792139700001180SVOTASHKT_450bcfd2f704a9a47c21a472d00f2810_33757&search_date=22092026&expected_price_uuid=01a0ca74-e0cc-8051-2d43-68df333c9cdb&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=-DHyq8CVHElbX7bZrMupxQ&expected_price_source=share&expected_price_currency=rub&expected_price=33754"
+    },
+    "2026-10-16": {
+     "price": 34950,
+     "airline": "EY",
+     "transfers": 2,
+     "duration": 2585,
+     "link": "https://www.aviasales.ru/search/MOW1610HKT1?t=EY17921892001792358700002585SVOAUHBKKDMKHKT_cb9a69e493786a01927d43b972750524_34953&search_date=22092026&expected_price_uuid=01a0ca65-62d3-8050-a388-5c42729565f5&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=3p8XeMRZExcDAETAtb2JMQ&expected_price_source=share&expected_price_currency=rub&expected_price=34950"
+    },
+    "2026-10-17": {
+     "price": 31741,
+     "airline": "J2",
+     "transfers": 2,
+     "duration": 1750,
+     "link": "https://www.aviasales.ru/search/MOW1710HKT1?t=J217922411001792360500001750DMEGYDBOMHKT_02bffcd15f9888eb8b7c8914ba9bb02b_31744&search_date=22092026&expected_price_uuid=01a0ca5d-dce1-8050-e9c5-caf3b22604da&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=NSPl88JAlylzgOL1Tk5w0A&expected_price_source=share&expected_price_currency=rub&expected_price=31741"
+    },
+    "2026-10-18": {
+     "price": 31836,
+     "airline": "J2",
+     "transfers": 2,
+     "duration": 1745,
+     "link": "https://www.aviasales.ru/search/MOW1810HKT1?t=J217923278001792446900001745VKOGYDBOMHKT_d2a90c78e639648c2ca3c2b56d688d3d_31838&search_date=22092026&expected_price_uuid=01a0ca77-712e-8040-613c-f605b7c9faa5&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=MAb0BmZ27IY4eLyW6C0XHA&expected_price_source=share&expected_price_currency=rub&expected_price=31836"
+    },
+    "2026-10-19": {
+     "price": 35781,
+     "airline": "3F",
+     "transfers": 2,
+     "duration": 1525,
+     "link": "https://www.aviasales.ru/search/MOW1910HKT1?t=G917923770001792482900001525VKOEVNSHJHKT_c7ad8bbc4cd912c72bc1287cb555e2ec_35784&search_date=22092026&expected_price_uuid=01a0ca68-5ef3-8050-e5c7-23591622373e&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=iOyVc7ksxdMXpDI6CadmGA&expected_price_source=share&expected_price_currency=rub&expected_price=35781"
+    },
+    "2026-10-20": {
+     "price": 35754,
+     "airline": "J2",
+     "transfers": 2,
+     "duration": 2455,
+     "link": "https://www.aviasales.ru/search/MOW2010HKT1?t=J217924580001792619700002455VKOGYDBOMHKT_149b38104eb09625466672a0c9fa6048_35757&search_date=22092026&expected_price_uuid=01a0ca68-6183-8050-6625-7499fb3fc4dc&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=YBeYigzzkux-Bvoz46_QwQ&expected_price_source=share&expected_price_currency=rub&expected_price=35754"
+    },
+    "2026-10-21": {
+     "price": 34269,
+     "airline": "J2",
+     "transfers": 2,
+     "duration": 1745,
+     "link": "https://www.aviasales.ru/search/MOW2110HKT1?t=J217925870001792706100001745VKOGYDBOMHKT_9b22bc7802db0709ecbfcf4bf8e7a55c_34272&search_date=22092026&expected_price_uuid=01a0ca69-5691-8030-a5bd-e45bfd3ca9c4&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=MAb0BmZ27IY4eLyW6C0XHA&expected_price_source=share&expected_price_currency=rub&expected_price=34269"
+    },
+    "2026-10-22": {
+     "price": 36698,
+     "airline": "J2",
+     "transfers": 2,
+     "duration": 1750,
+     "link": "https://www.aviasales.ru/search/MOW2210HKT1?t=J217926731001792792500001750DMEGYDBOMHKT_d0f19777553ab6bf962c5c5f5d71b8c2_36701&search_date=22092026&expected_price_uuid=01a0ca74-301f-8030-e8a4-ba33a5725f87&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=NSPl88JAlylzgOL1Tk5w0A&expected_price_source=share&expected_price_currency=rub&expected_price=36698"
+    },
+    "2026-10-23": {
+     "price": 42848,
+     "airline": "DP",
+     "transfers": 2,
+     "duration": 2435,
+     "link": "https://www.aviasales.ru/search/MOW2310HKT1?t=G917927622001792922700002435VKOISTSHJHKT_1c2e07be86ea98c5e5b72cdd64252009_42851&search_date=22092026&expected_price_uuid=01a0ca68-5f7a-8050-6453-4fa9acc390bd&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=mPB5rdETkIjzxhtBZPmGIA&expected_price_source=share&expected_price_currency=rub&expected_price=42848"
+    },
+    "2026-10-24": {
+     "price": 30718,
+     "airline": "J2",
+     "transfers": 2,
+     "duration": 1590,
+     "link": "https://www.aviasales.ru/search/MOW2410HKT1?t=J217928459001792955700001590DMEGYDBOMHKT_1877d083246128735c7e476122aa749b_30720&search_date=22092026&expected_price_uuid=01a0ca6d-37b8-8051-2a0c-a8d3191e87a0&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=mvwJhvdL-5dfR-e00fD_Hw&expected_price_source=share&expected_price_currency=rub&expected_price=30718"
+    },
+    "2026-10-25": {
+     "price": 36753,
+     "airline": "J2",
+     "transfers": 2,
+     "duration": 1665,
+     "link": "https://www.aviasales.ru/search/MOW2510HKT1?t=J217929278001793042100001665VKOGYDBOMHKT_413b806cda6f1c130c6ce078b6a19dd1_36756&search_date=22092026&expected_price_uuid=01a0ca6d-37b8-8050-6fc0-25dabda535f6&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=2InpUuypNCAilYpMhlzKBQ&expected_price_source=share&expected_price_currency=rub&expected_price=36753"
+    },
+    "2026-10-26": {
+     "price": 32472,
+     "airline": "J2",
+     "transfers": 2,
+     "duration": 1570,
+     "link": "https://www.aviasales.ru/search/MOW2610HKT1?t=J217930199001793128500001570DMEGYDBOMHKT_9e0e1acdf25f99fb24334e207438d58a_32474&search_date=22092026&expected_price_uuid=01a0ca6d-37b8-8050-e977-831a53fa95fa&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=zNtOPw1GTxCpRU0jJQJYbw&expected_price_source=share&expected_price_currency=rub&expected_price=32472"
+    },
+    "2026-10-27": {
+     "price": 30401,
+     "airline": "EY",
+     "transfers": 1,
+     "duration": 1570,
+     "link": "https://www.aviasales.ru/search/MOW2710HKT1?t=EY17931228001793231400001570SVOAUHHKT_9fd9bf411605ee5ede9d10294734701c_30403&search_date=22092026&expected_price_uuid=01a0ca6d-37b8-8050-ac52-0db5ecfd3e64&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=qcRfnosSwslq266jYvYYiw&expected_price_source=share&expected_price_currency=rub&expected_price=30401"
+    },
+    "2026-10-28": {
+     "price": 33614,
+     "airline": "J2",
+     "transfers": 2,
+     "duration": 1445,
+     "link": "https://www.aviasales.ru/search/MOW2810HKT1?t=J217931870001793288100001445VKOGYDBOMHKT_4bafe9791ae17a9df8c2432eb8245083_33617&search_date=22092026&expected_price_uuid=01a0ca68-7d72-8050-a761-2ecdb32f5446&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=yOk4WasB7qUSvXMhDvVwbA&expected_price_source=share&expected_price_currency=rub&expected_price=33614"
+    },
+    "2026-10-29": {
+     "price": 29991,
+     "airline": "EY",
+     "transfers": 1,
+     "duration": 1570,
+     "link": "https://www.aviasales.ru/search/MOW2910HKT1?t=EY17932956001793404200001570SVOAUHHKT_0b42b2b09eabfdc4d3b9389f24620c3a_29993&search_date=22092026&expected_price_uuid=01a0ca67-255a-8051-2b0f-a79ad61bce19&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=qcRfnosSwslq266jYvYYiw&expected_price_source=share&expected_price_currency=rub&expected_price=29991"
+    },
+    "2026-10-30": {
+     "price": 32423,
+     "airline": "J2",
+     "transfers": 2,
+     "duration": 1570,
+     "link": "https://www.aviasales.ru/search/MOW3010HKT1?t=J217933655001793474100001570DMEGYDBOMHKT_a8a88aedc04de25d9d8bf2831e743239_32425&search_date=22092026&expected_price_uuid=01a0ca67-c96e-8050-212b-cc26c9ce11eb&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=ajckSNB38F2vZ8rwkdJsiQ&expected_price_source=share&expected_price_currency=rub&expected_price=32423"
+    },
+    "2026-10-31": {
+     "price": 38693,
+     "airline": "3U",
+     "transfers": 1,
+     "duration": 1310,
+     "link": "https://www.aviasales.ru/search/MOW3110HKT1?t=3U17934837001793576700001310SVOTFUHKT_09e466431d4f9c2a2b7ba981b4364b5f_38697&search_date=22092026&expected_price_uuid=01a0ca35-b536-8050-2d12-90d534b8e423&static_fare_key=TY%7CP1%7CH1%7CL1_2_46%7CCH1_0%7CR0%7CTBC1&itinerary_key=cRAHWn53YnA3Ld7kzlovOg&expected_price_source=share&expected_price_currency=rub&expected_price=38693"
+    },
+    "2026-11-01": {
+     "price": 26523,
+     "airline": "WY",
+     "transfers": 1,
+     "duration": 1190,
+     "link": "https://www.aviasales.ru/search/MOW0111HKT1?t=WY17935191001793604900001190SVOMCTHKT_129c9e9785ac67bb810d9dde9116efc6_26525&search_date=22092026&expected_price_uuid=01a0ca75-a7e1-8050-a892-e3b8461d2270&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=2q49I0jPHnPvOiU0YPkrWg&expected_price_source=share&expected_price_currency=rub&expected_price=26523"
+    },
+    "2026-11-02": {
+     "price": 29990,
+     "airline": "EY",
+     "transfers": 1,
+     "duration": 1210,
+     "link": "https://www.aviasales.ru/search/MOW0211HKT1?t=EY17936412001793728200001210SVOAUHHKT_428987c13405d616e14437f6ade3a82c_29993&search_date=22092026&expected_price_uuid=01a0ca39-3bd5-8030-e922-99831fbb92bd&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=0jYiK_cSRWGqOOgaXRGgQw&expected_price_source=share&expected_price_currency=rub&expected_price=29990"
+    },
+    "2026-11-03": {
+     "price": 37176,
+     "airline": "GS",
+     "transfers": 2,
+     "duration": 1635,
+     "link": "https://www.aviasales.ru/search/MOW0311HKT1?t=GS17937240001793836500001635SVOCKGBKKHKT_1f8c64684fe6ff7d67fc5139619c9ec7_37180&search_date=22092026&expected_price_uuid=01a0ca42-bf9a-8030-ede3-050dc412ed83&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=R7Urx1qsjViypiCM6qy3fw&expected_price_source=share&expected_price_currency=rub&expected_price=37176"
+    },
+    "2026-11-04": {
+     "price": 26615,
+     "airline": "WY",
+     "transfers": 1,
+     "duration": 1190,
+     "link": "https://www.aviasales.ru/search/MOW0411HKT1?t=WY17937783001793864100001190SVOMCTHKT_a63bc538c85980fc1f675928ee5111ad_26617&search_date=22092026&expected_price_uuid=01a0ca78-1ac2-8050-a41d-51a07bf49b82&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH1%7CR1%7CTBC0&itinerary_key=2q49I0jPHnPvOiU0YPkrWg&expected_price_source=share&expected_price_currency=rub&expected_price=26615"
+    },
+    "2026-11-05": {
+     "price": 29990,
+     "airline": "EY",
+     "transfers": 1,
+     "duration": 1210,
+     "link": "https://www.aviasales.ru/search/MOW0511HKT1?t=EY17939004001793987400001210SVOAUHHKT_efac467dfdac411799fefaaea4cf3b2c_29993&search_date=22092026&expected_price_uuid=01a0ca34-2521-8051-248a-91183bef63e9&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=0jYiK_cSRWGqOOgaXRGgQw&expected_price_source=share&expected_price_currency=rub&expected_price=29990"
+    },
+    "2026-11-06": {
+     "price": 34762,
+     "airline": "TK",
+     "transfers": 1,
+     "duration": 1250,
+     "link": "https://www.aviasales.ru/search/MOW0611HKT1?t=TK17939772001794066600001250VKOISTHKT_d093cf7a682f9701d9b47af32e6ee3e7_34765&search_date=22092026&expected_price_uuid=01a0ca70-0b39-8050-23f4-62aa45a88616&static_fare_key=TY%7CP1%7CH1%7CL1_1_40%7CCH1%7CR0%7CTBC1&itinerary_key=T2qRrSmMqO52S3-WLoHu1A&expected_price_source=share&expected_price_currency=rub&expected_price=34762"
+    },
+    "2026-11-07": {
+     "price": 30440,
+     "airline": "EY",
+     "transfers": 1,
+     "duration": 1570,
+     "link": "https://www.aviasales.ru/search/MOW0711HKT1?t=EY17940732001794181800001570SVOAUHHKT_298f7f862feebf0dfbbcc58eb7a5aadb_30442&search_date=22092026&expected_price_uuid=01a0ca74-7d56-8050-aa63-62874173eed6&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=qcRfnosSwslq266jYvYYiw&expected_price_source=share&expected_price_currency=rub&expected_price=30440"
+    },
+    "2026-11-08": {
+     "price": 26656,
+     "airline": "WY",
+     "transfers": 1,
+     "duration": 890,
+     "link": "https://www.aviasales.ru/search/MOW0811HKT1?t=WY17941800001794247800000890SVOMCTHKT_ca7d98a7bc82e082d5f19b2389fc8453_26658&search_date=22092026&expected_price_uuid=01a0ca67-2486-8051-271c-b6422058fc71&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=HscEfpIRGmXDWZ3rC9cCvg&expected_price_source=share&expected_price_currency=rub&expected_price=26656"
+    },
+    "2026-11-09": {
+     "price": 23299,
+     "airline": "WY",
+     "transfers": 1,
+     "duration": 1825,
+     "link": "https://www.aviasales.ru/search/MOW0911HKT1?t=WY17942103001794334200001825SVOMCTHKT_f453dc54b676337b5c1820871cc13f21_23301&search_date=22092026&expected_price_uuid=01a0ca6d-eb5d-8030-664f-7a727689e1fb&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=KCZJXzmxX1L-0LH6Hi6hcQ&expected_price_source=share&expected_price_currency=rub&expected_price=23299"
+    },
+    "2026-11-10": {
+     "price": 23292,
+     "airline": "WY",
+     "transfers": 1,
+     "duration": 1695,
+     "link": "https://www.aviasales.ru/search/MOW1011HKT1?t=WY17943528001794468900001695SVOMCTHKT_da5a8bce23133ab22f2c9c51171d42fa_23294&search_date=22092026&expected_price_uuid=01a0ca77-02c6-8050-27d3-55877f921478&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH1%7CR1%7CTBC0&itinerary_key=z6ChkJEyACJWdp8snmrsjw&expected_price_source=share&expected_price_currency=rub&expected_price=23292"
+    },
+    "2026-11-11": {
+     "price": 32855,
+     "airline": "EY",
+     "transfers": 2,
+     "duration": 1535,
+     "link": "https://www.aviasales.ru/search/MOW1111HKT1?t=EY17944188001794525300001535SVOAUHBKKDMKHKT_f2a6369aca2ef02f16e9ec6c94ff268d_32855&search_date=22092026&expected_price_uuid=01a0ca0c-b491-8030-ac33-ee2239faf067&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=exHw9-g15TIohnubAg1m1A&expected_price_source=share&expected_price_currency=rub&expected_price=32855"
+    },
+    "2026-11-12": {
+     "price": 32438,
+     "airline": "EY",
+     "transfers": 2,
+     "duration": 1575,
+     "link": "https://www.aviasales.ru/search/MOW1211HKT1?t=EY17945052001794614100001575SVOAUHBKKHKT_f1026ac24aedcf9d85c63ac0bf0189a3_32441&search_date=22092026&expected_price_uuid=01a0ca62-7e39-8050-6658-34dadd998519&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=tGJWk-vEoZgLyXbRNRK_Qw&expected_price_source=share&expected_price_currency=rub&expected_price=32438"
+    },
+    "2026-11-13": {
+     "price": 35627,
+     "airline": "J2",
+     "transfers": 2,
+     "duration": 1420,
+     "link": "https://www.aviasales.ru/search/MOW1311HKT1?t=SG17945751001794674700001420DMEGYDBOMHKT_41a897ed5c408007b84786551234eb80_35630&search_date=22092026&expected_price_uuid=01a0ca5f-5295-8030-24d3-61b3ab3d5942&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=OEqLZcDUQpDH0B9VqKezQA&expected_price_source=share&expected_price_currency=rub&expected_price=35627"
+    },
+    "2026-11-14": {
+     "price": 23299,
+     "airline": "WY",
+     "transfers": 1,
+     "duration": 890,
+     "link": "https://www.aviasales.ru/search/MOW1411HKT1?t=WY17946984001794766200000890SVOMCTHKT_bed1dfa25a847deb7ab3414cbca9d73a_23301&search_date=22092026&expected_price_uuid=01a0ca7b-9ee2-8050-2138-3529e7dccb36&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=HscEfpIRGmXDWZ3rC9cCvg&expected_price_source=share&expected_price_currency=rub&expected_price=23299"
+    },
+    "2026-11-15": {
+     "price": 33089,
+     "airline": "J2",
+     "transfers": 2,
+     "duration": 1665,
+     "link": "https://www.aviasales.ru/search/MOW1511HKT1?t=J217947422001794856500001665VKOGYDBOMHKT_8cb3bf534ffe43757c162b81ab57acd1_33089&search_date=22092026&expected_price_uuid=01a0ca1d-e848-8050-2c73-8f84efda79cf&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=yZy16bEderBpDhv2TpwYGg&expected_price_source=share&expected_price_currency=rub&expected_price=33089"
+    },
+    "2026-11-16": {
+     "price": 34702,
+     "airline": "EY",
+     "transfers": 2,
+     "duration": 1300,
+     "link": "https://www.aviasales.ru/search/MOW1611HKT1?t=EY17948508001794943200001300SVOAUHBKKDMKHKT_628c569a6f868a88d774f8c5c3b4bcd4_34705&search_date=22092026&expected_price_uuid=01a0ca79-bb81-8050-2254-31bd137679d6&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=3UxqxqGQlBjkBjgKNHLV2A&expected_price_source=share&expected_price_currency=rub&expected_price=34702"
+    },
+    "2026-11-17": {
+     "price": 23265,
+     "airline": "WY",
+     "transfers": 1,
+     "duration": 1695,
+     "link": "https://www.aviasales.ru/search/MOW1711HKT1?t=WY17949576001795073700001695SVOMCTHKT_e7ef29890297dc0c5f3a3e3f830cf2e9_23267&search_date=22092026&expected_price_uuid=01a0ca69-8bd8-8030-6a50-f0a42e296b82&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH1%7CR1%7CTBC0&itinerary_key=z6ChkJEyACJWdp8snmrsjw&expected_price_source=share&expected_price_currency=rub&expected_price=23265"
+    },
+    "2026-11-18": {
+     "price": 29981,
+     "airline": "EY",
+     "transfers": 1,
+     "duration": 860,
+     "link": "https://www.aviasales.ru/search/MOW1811HKT1?t=EY17950236001795089600000860SVOAUHHKT_5657c4579a930c388b6a1b4d89bf8cd9_29983&search_date=22092026&expected_price_uuid=01a0ca7b-45b4-8050-e549-e3bd47c9fd8e&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=FdptDdmKFvCqK3WsO3Q76g&expected_price_source=share&expected_price_currency=rub&expected_price=29981"
+    },
+    "2026-11-19": {
+     "price": 21520,
+     "airline": "WY",
+     "transfers": 1,
+     "duration": 1695,
+     "link": "https://www.aviasales.ru/search/MOW1911HKT1?t=WY17951304001795246500001695SVOMCTHKT_753ee6c300a7340090fb3c049b38776d_21522&search_date=22092026&expected_price_uuid=01a0ca77-54bd-8051-2ddb-a906081f04df&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH1%7CR1%7CTBC0&itinerary_key=z6ChkJEyACJWdp8snmrsjw&expected_price_source=share&expected_price_currency=rub&expected_price=21520"
+    },
+    "2026-11-20": {
+     "price": 21538,
+     "airline": "WY",
+     "transfers": 1,
+     "duration": 1190,
+     "link": "https://www.aviasales.ru/search/MOW2011HKT1?t=WY17951607001795246500001190SVOMCTHKT_0e649262badfef88161e070b49472ca0_21540&search_date=22092026&expected_price_uuid=01a0ca6f-ab0a-8030-e46f-c8fa34c5544e&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=2q49I0jPHnPvOiU0YPkrWg&expected_price_source=share&expected_price_currency=rub&expected_price=21538"
+    },
+    "2026-11-21": {
+     "price": 21167,
+     "airline": "WY",
+     "transfers": 1,
+     "duration": 1700,
+     "link": "https://www.aviasales.ru/search/MOW2111HKT1?t=WY17953032001795419600001700SVOMCTHKT_bedfd7c017697259c3ba6f2183ff5b99_21169&search_date=22092026&expected_price_uuid=01a0ca7c-364b-8030-654b-7f17ce08127c&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=QfjCz30WHfAlgsBo74mlvA&expected_price_source=share&expected_price_currency=rub&expected_price=21167"
+    },
+    "2026-11-22": {
+     "price": 30395,
+     "airline": "EY",
+     "transfers": 1,
+     "duration": 1570,
+     "link": "https://www.aviasales.ru/search/MOW2211HKT1?t=EY17953692001795477800001570SVOAUHHKT_d3aeccc4cbe12bf44e4b4a75767a90f7_30397&search_date=22092026&expected_price_uuid=01a0ca7c-14e6-8050-ea76-c411805e8e00&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=qcRfnosSwslq266jYvYYiw&expected_price_source=share&expected_price_currency=rub&expected_price=30395"
+    },
+    "2026-11-23": {
+     "price": 30440,
+     "airline": "EY",
+     "transfers": 1,
+     "duration": 1570,
+     "link": "https://www.aviasales.ru/search/MOW2311HKT1?t=EY17954556001795564200001570SVOAUHHKT_ccfb7e264887056baa46f2ce6a731f6f_30442&search_date=22092026&expected_price_uuid=01a0ca71-e679-8050-2893-c5d39f5dd144&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=qcRfnosSwslq266jYvYYiw&expected_price_source=share&expected_price_currency=rub&expected_price=30440"
+    },
+    "2026-11-24": {
+     "price": 30430,
+     "airline": "EY",
+     "transfers": 1,
+     "duration": 1570,
+     "link": "https://www.aviasales.ru/search/MOW2411HKT1?t=EY17955420001795650600001570SVOAUHHKT_b000590450561ee58f68f17a6cbff4ee_30432&search_date=22092026&expected_price_uuid=01a0ca7c-2b06-8050-ac34-303fab70adf0&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=qcRfnosSwslq266jYvYYiw&expected_price_source=share&expected_price_currency=rub&expected_price=30430"
+    },
+    "2026-11-25": {
+     "price": 23306,
+     "airline": "WY",
+     "transfers": 1,
+     "duration": 1700,
+     "link": "https://www.aviasales.ru/search/MOW2511HKT1?t=WY17956488001795765200001700SVOMCTHKT_7302c7e8cc0bc521f35a1fcc3328b34e_23308&search_date=22092026&expected_price_uuid=01a0ca65-dc30-8050-a222-0b92ee3bd2e0&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH1%7CR1%7CTBC0&itinerary_key=QfjCz30WHfAlgsBo74mlvA&expected_price_source=share&expected_price_currency=rub&expected_price=23306"
+    },
+    "2026-11-26": {
+     "price": 28808,
+     "airline": "CZ",
+     "transfers": 1,
+     "duration": 2230,
+     "link": "https://www.aviasales.ru/search/MOW2611HKT1?t=CZ17957349001795883100002230SVOCANHKT_0a3a3d702784aacf2cd1f0680b32fd47_28810&search_date=22092026&expected_price_uuid=01a0ca78-4847-8030-23e7-2c3ede680730&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=PDyXNZ02zA2hqdQnFQm6eg&expected_price_source=share&expected_price_currency=rub&expected_price=28808"
+    },
+    "2026-11-27": {
+     "price": 26676,
+     "airline": "WY",
+     "transfers": 1,
+     "duration": 1190,
+     "link": "https://www.aviasales.ru/search/MOW2711HKT1?t=WY17957655001795851300001190SVOMCTHKT_f6d1c599b389098b2377aab453a26f56_26678&search_date=22092026&expected_price_uuid=01a0ca75-f856-8050-63f1-2135cbe72fba&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH1%7CR1%7CTBC0&itinerary_key=2q49I0jPHnPvOiU0YPkrWg&expected_price_source=share&expected_price_currency=rub&expected_price=26676"
+    },
+    "2026-11-28": {
+     "price": 30982,
+     "airline": "J2",
+     "transfers": 2,
+     "duration": 1665,
+     "link": "https://www.aviasales.ru/search/MOW2811HKT1?t=J217958654001795979700001665VKOGYDBOMHKT_e5c5a33cd99deacb8e8904fb89780413_30982&search_date=22092026&expected_price_uuid=01a0c9f8-32fc-8050-6d93-e2bca4c95bef&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=4t-Qrm1PxWgKKQ0u8Nce1A&expected_price_source=share&expected_price_currency=rub&expected_price=30982"
+    },
+    "2026-11-29": {
+     "price": 31038,
+     "airline": "J2",
+     "transfers": 2,
+     "duration": 1665,
+     "link": "https://www.aviasales.ru/search/MOW2911HKT1?t=J217959518001796066100001665VKOGYDBOMHKT_50eedddd1f959ec4e3b19cf28544a7b8_31040&search_date=22092026&expected_price_uuid=01a0ca75-9bf3-8030-a0d6-a427871f92f2&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=yZy16bEderBpDhv2TpwYGg&expected_price_source=share&expected_price_currency=rub&expected_price=31038"
+    },
+    "2026-11-30": {
+     "price": 28795,
+     "airline": "CZ",
+     "transfers": 1,
+     "duration": 2230,
+     "link": "https://www.aviasales.ru/search/MOW3011HKT1?t=CZ17960805001796228700002230SVOCANHKT_7f1a16781038f6dec470a1b45e5ffdc9_28798&search_date=22092026&expected_price_uuid=01a0ca3c-4aae-8050-626a-40b259c3d3c3&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=PDyXNZ02zA2hqdQnFQm6eg&expected_price_source=share&expected_price_currency=rub&expected_price=28795"
+    }
+   },
+   "min": 21167,
+   "sources": [
+    "travelpayouts:2026-10",
+    "travelpayouts:2026-11"
+   ],
+   "errors": []
+  },
+  "MOW-BKK": {
+   "calendar": {
+    "2026-10-01": {
+     "price": 28270,
+     "airline": "EY",
+     "transfers": 1,
+     "duration": 2120,
+     "link": "https://www.aviasales.ru/search/MOW0110BKK1?t=EY17908932001791034800002120SVOAUHBKK_bd4bfb342e6a4a7dae73af5720e5ee64_28272&search_date=22092026&expected_price_uuid=01a0ca7a-287f-8050-ace3-8a48c1ac7bf0&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=bhdkGN34FXMI1bly_VooBg&expected_price_source=share&expected_price_currency=rub&expected_price=28270"
+    },
+    "2026-10-02": {
+     "price": 33688,
+     "airline": "J2",
+     "transfers": 2,
+     "duration": 1590,
+     "link": "https://www.aviasales.ru/search/MOW0210BKK1?t=J217909451001791054900001590DMEGYDBOMBKK_cb70e0e31a0863f7afcd14c74d28e628_33691&search_date=22092026&expected_price_uuid=01a0ca7a-7ba2-8050-6772-174055caa0ec&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=tTdG5GvBUXzGgt_lm8ohaw&expected_price_source=share&expected_price_currency=rub&expected_price=33688"
+    },
+    "2026-10-03": {
+     "price": 28203,
+     "airline": "EY",
+     "transfers": 1,
+     "duration": 2030,
+     "link": "https://www.aviasales.ru/search/MOW0310BKK1?t=EY17910660001791202200002030SVOAUHBKK_668afb9c9d48d200c61f19b394aff462_28205&search_date=22092026&expected_price_uuid=01a0ca7b-8123-8050-e6b6-56d04c0f35d6&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=Ls2Lco1dTmEMAnc8EUmaug&expected_price_source=share&expected_price_currency=rub&expected_price=28203"
+    },
+    "2026-10-04": {
+     "price": 28215,
+     "airline": "EY",
+     "transfers": 1,
+     "duration": 955,
+     "link": "https://www.aviasales.ru/search/MOW0410BKK1?t=EY17911521001791223800000955SVOAUHBKK_20232b7c04d2a1fa625f9eebcc43a0d2_28217&search_date=22092026&expected_price_uuid=01a0ca77-0352-8030-6393-6689cd8505cd&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=zInxVhFZexrSniLroz-Aew&expected_price_source=share&expected_price_currency=rub&expected_price=28215"
+    },
+    "2026-10-05": {
+     "price": 28215,
+     "airline": "EY",
+     "transfers": 1,
+     "duration": 950,
+     "link": "https://www.aviasales.ru/search/MOW0510BKK1?t=EY17912388001791310200000950SVOAUHBKK_6942832068f5be92040f7a794cb9cb4b_28217&search_date=22092026&expected_price_uuid=01a0ca7b-89ae-8050-6f3e-fe6b2891ac35&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=cukgNtDkDlFjkWPc3j24VQ&expected_price_source=share&expected_price_currency=rub&expected_price=28215"
+    },
+    "2026-10-06": {
+     "price": 28215,
+     "airline": "EY",
+     "transfers": 1,
+     "duration": 1960,
+     "link": "https://www.aviasales.ru/search/MOW0610BKK1?t=EY17912853001791417300001960SVOAUHBKK_ae5cab59e07581c098e08d7215ebe5f5_28217&search_date=22092026&expected_price_uuid=01a0ca7b-2938-8050-a690-abd50b91cbd9&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=H9KNodhX3V1N9voxaXvCSw&expected_price_source=share&expected_price_currency=rub&expected_price=28215"
+    },
+    "2026-10-07": {
+     "price": 28180,
+     "airline": "EY",
+     "transfers": 1,
+     "duration": 1960,
+     "link": "https://www.aviasales.ru/search/MOW0710BKK1?t=EY17913717001791503700001960SVOAUHBKK_807a7c0769a9999be585974a642b1071_28182&search_date=22092026&expected_price_uuid=01a0ca7a-8454-8050-2171-9c5351f7fc7d&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=H9KNodhX3V1N9voxaXvCSw&expected_price_source=share&expected_price_currency=rub&expected_price=28180"
+    },
+    "2026-10-08": {
+     "price": 31914,
+     "airline": "J2",
+     "transfers": 2,
+     "duration": 2280,
+     "link": "https://www.aviasales.ru/search/MOW0810BKK1?t=J217914638001791615000002280VKOGYDBOMBKK_36cd288dab15a33f9dcc01bbab3196a0_31916&search_date=22092026&expected_price_uuid=01a0ca7c-0d6b-8051-29df-8cbfd5f86dd6&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=AgLJEVV-8Gj6PIviDDrYOw&expected_price_source=share&expected_price_currency=rub&expected_price=31914"
+    },
+    "2026-10-09": {
+     "price": 31950,
+     "airline": "J2",
+     "transfers": 2,
+     "duration": 2285,
+     "link": "https://www.aviasales.ru/search/MOW0910BKK1?t=J217915499001791701400002285DMEGYDBOMBKK_53d85261aa1879fd8d5c11802c13f7ba_31952&search_date=22092026&expected_price_uuid=01a0ca7a-bd93-8030-23d6-323ef1c80a46&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=R5NaWrsMEyNWsq9kBqrbOQ&expected_price_source=share&expected_price_currency=rub&expected_price=31950"
+    },
+    "2026-10-10": {
+     "price": 31009,
+     "airline": "J2",
+     "transfers": 2,
+     "duration": 1590,
+     "link": "https://www.aviasales.ru/search/MOW1010BKK1?t=J217916363001791746100001590DMEGYDBOMBKK_cac504db86670ef4d4c6f5e40bbacd03_31011&search_date=22092026&expected_price_uuid=01a0ca72-a7c3-8050-2b26-07e68545f907&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=qCCwi3UfekYtD3li8MfhSw&expected_price_source=share&expected_price_currency=rub&expected_price=31009"
+    },
+    "2026-10-11": {
+     "price": 28189,
+     "airline": "EY",
+     "transfers": 1,
+     "duration": 2025,
+     "link": "https://www.aviasales.ru/search/MOW1110BKK1?t=EY17917575001791893400002025SVOAUHBKK_8ac624d6acf0a74090e5e6b028945f28_28191&search_date=22092026&expected_price_uuid=01a0ca74-580d-8050-60c0-644b7d2f0a03&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=DIvVViRlhpRgVfrSq-8oLg&expected_price_source=share&expected_price_currency=rub&expected_price=28189"
+    },
+    "2026-10-12": {
+     "price": 28186,
+     "airline": "EY",
+     "transfers": 1,
+     "duration": 1960,
+     "link": "https://www.aviasales.ru/search/MOW1210BKK1?t=EY17918037001791935700001960SVOAUHBKK_f8135fc61d18b74acd53be1450328d7d_28188&search_date=22092026&expected_price_uuid=01a0ca6c-0165-8050-2603-cd90b449be73&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=H9KNodhX3V1N9voxaXvCSw&expected_price_source=share&expected_price_currency=rub&expected_price=28186"
+    },
+    "2026-10-13": {
+     "price": 28035,
+     "airline": "EY",
+     "transfers": 1,
+     "duration": 1295,
+     "link": "https://www.aviasales.ru/search/MOW1310BKK1?t=EY17919300001792022100001295SVOAUHBKK_879d93aadf0a7f4450390c134c905bfe_28037&search_date=22092026&expected_price_uuid=01a0ca6f-efef-8050-238d-bf3191639787&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=2o81X5h8KyrlAMaqCFknGw&expected_price_source=share&expected_price_currency=rub&expected_price=28035"
+    },
+    "2026-10-14": {
+     "price": 30770,
+     "airline": "J2",
+     "transfers": 2,
+     "duration": 1585,
+     "link": "https://www.aviasales.ru/search/MOW1410BKK1?t=J217919822001792091700001585VKOGYDBOMBKK_a2ad54a9bbe2076898d6526f27dc378b_30770&search_date=22092026&expected_price_uuid=01a0c9fd-3228-8050-a9af-7fb930c6da65&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=VkJ8ebM7zd-veDlluWcUhQ&expected_price_source=share&expected_price_currency=rub&expected_price=30770"
+    },
+    "2026-10-15": {
+     "price": 28035,
+     "airline": "EY",
+     "transfers": 1,
+     "duration": 2030,
+     "link": "https://www.aviasales.ru/search/MOW1510BKK1?t=EY17921028001792239000002030SVOAUHBKK_708ab7f9f7b761a43fb75a29cbff1758_28037&search_date=22092026&expected_price_uuid=01a0ca7b-9d0d-8050-e627-7ae52d2c8fd4&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=Ls2Lco1dTmEMAnc8EUmaug&expected_price_source=share&expected_price_currency=rub&expected_price=28035"
+    },
+    "2026-10-16": {
+     "price": 28035,
+     "airline": "EY",
+     "transfers": 1,
+     "duration": 1295,
+     "link": "https://www.aviasales.ru/search/MOW1610BKK1?t=EY17921892001792281300001295SVOAUHBKK_81fa9c3183653712df022ba1b84dd6af_28037&search_date=22092026&expected_price_uuid=01a0ca7a-5cab-8050-e764-b3c0ca51366d&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=2o81X5h8KyrlAMaqCFknGw&expected_price_source=share&expected_price_currency=rub&expected_price=28035"
+    },
+    "2026-10-17": {
+     "price": 28035,
+     "airline": "EY",
+     "transfers": 1,
+     "duration": 1295,
+     "link": "https://www.aviasales.ru/search/MOW1710BKK1?t=EY17922756001792367700001295SVOAUHBKK_8a380a2d81be45b62c0ff42e9b469a16_28037&search_date=22092026&expected_price_uuid=01a0ca78-32e0-8050-ae12-4e0674710fef&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=2o81X5h8KyrlAMaqCFknGw&expected_price_source=share&expected_price_currency=rub&expected_price=28035"
+    },
+    "2026-10-18": {
+     "price": 28035,
+     "airline": "EY",
+     "transfers": 1,
+     "duration": 1290,
+     "link": "https://www.aviasales.ru/search/MOW1810BKK1?t=EY17923623001792454100001290SVOAUHBKK_93000850c1df60be92923ae7bbf9b506_28037&search_date=22092026&expected_price_uuid=01a0ca77-6786-8051-2b19-587f79b1f3fc&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=d3ZOYTF07AxXi_yqMqB7WQ&expected_price_source=share&expected_price_currency=rub&expected_price=28035"
+    },
+    "2026-10-19": {
+     "price": 34074,
+     "airline": "J2",
+     "transfers": 2,
+     "duration": 1250,
+     "link": "https://www.aviasales.ru/search/MOW1910BKK1?t=J217924139001792503300001250DMEGYDBOMBKK_ad135ab90af751c88b848e4b20acde0c_34077&search_date=22092026&expected_price_uuid=01a0ca7a-059e-8050-2c33-4716235f31eb&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=I6MG5rRglSAyWHIGPm_vxQ&expected_price_source=share&expected_price_currency=rub&expected_price=34074"
+    },
+    "2026-10-20": {
+     "price": 36485,
+     "airline": "C6",
+     "transfers": 1,
+     "duration": 940,
+     "link": "https://www.aviasales.ru/search/MOW2010BKK1?t=C617925387001792609500000940SVOTASBKK_113458c6419fa683833df82a5fcccc67_36488&search_date=22092026&expected_price_uuid=01a0ca7b-a952-8050-a323-4e34ed1c6218&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR1%7CTBC0&itinerary_key=bG0hpC8dcohq6ob_DXjb5g&expected_price_source=share&expected_price_currency=rub&expected_price=36485"
+    },
+    "2026-10-21": {
+     "price": 37382,
+     "airline": "5G",
+     "transfers": 2,
+     "duration": 1630,
+     "link": "https://www.aviasales.ru/search/MOW2110BKK1?t=G917925522001792664400001630SVOEVNSHJBKK_31db12823ff1fb6f59de41fa762d90e3_37385&search_date=22092026&expected_price_uuid=01a0ca6c-0152-8050-6b49-31e3f83ab7c6&static_fare_key=TY%7CP0%7CH1%7CL1_1_20%7CCH1%7CR0%7CTBC1&itinerary_key=dcSknF2GVKOm1S-jTam_yA&expected_price_source=share&expected_price_currency=rub&expected_price=37382"
+    },
+    "2026-10-22": {
+     "price": 36431,
+     "airline": "J2",
+     "transfers": 2,
+     "duration": 2295,
+     "link": "https://www.aviasales.ru/search/MOW2210BKK1?t=J217926308001792782900002295VKOGYDBOMBKK_4fa2c714cd52630b0cb67fbdb9d9ed78_36434&search_date=22092026&expected_price_uuid=01a0ca6c-01b8-8051-2e1d-89e8e685892c&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=9ic1BS3qxX5nzfNb-alFCw&expected_price_source=share&expected_price_currency=rub&expected_price=36431"
+    },
+    "2026-10-23": {
+     "price": 33208,
+     "airline": "J2",
+     "transfers": 2,
+     "duration": 1590,
+     "link": "https://www.aviasales.ru/search/MOW2310BKK1?t=J217927595001792869300001590DMEGYDBOMBKK_4fc0b7eaebc11fab0dc43f07752781a0_33210&search_date=22092026&expected_price_uuid=01a0ca77-a864-8050-63b7-11273f964d6a&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=tTdG5GvBUXzGgt_lm8ohaw&expected_price_source=share&expected_price_currency=rub&expected_price=33208"
+    },
+    "2026-10-24": {
+     "price": 36388,
+     "airline": "J2",
+     "transfers": 2,
+     "duration": 2330,
+     "link": "https://www.aviasales.ru/search/MOW2410BKK1?t=J217928036001792957800002330VKOGYDBOMBKK_85dafb74b58c8841dc54f14ce6fc9765_36391&search_date=22092026&expected_price_uuid=01a0ca77-5c05-8050-6c09-b30c56bb18be&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=_qb1tHzh0ItTdb7Y497BWg&expected_price_source=share&expected_price_currency=rub&expected_price=36388"
+    },
+    "2026-10-25": {
+     "price": 38219,
+     "airline": "TK",
+     "transfers": 1,
+     "duration": 1000,
+     "link": "https://www.aviasales.ru/search/MOW2510BKK1?t=TK17929137001792988100001000VKOISTBKK_43cb7aa25adde618a3d35c7c33f80085_38222&search_date=22092026&expected_price_uuid=01a0ca6b-ff71-8050-ebf8-010fce3f5ee0&static_fare_key=TY%7CP0%7CH1%7CL1_1_20%7CCH0%7CR0%7CTBC1&itinerary_key=z8F26W7QWbKizO9TnUJBWA&expected_price_source=share&expected_price_currency=rub&expected_price=38219"
+    },
+    "2026-10-26": {
+     "price": 36763,
+     "airline": "J2",
+     "transfers": 2,
+     "duration": 2335,
+     "link": "https://www.aviasales.ru/search/MOW2610BKK1?t=J217929761001793130600002335VKOGYDBOMBKK_ac3acec5df9fc9e6858ad0940293fadd_36766&search_date=22092026&expected_price_uuid=01a0ca6c-00cf-8050-28ff-ea7cb1721739&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=4Tawtx223wUl2yUfSRpjEw&expected_price_source=share&expected_price_currency=rub&expected_price=36763"
+    },
+    "2026-10-27": {
+     "price": 28025,
+     "airline": "EY",
+     "transfers": 1,
+     "duration": 835,
+     "link": "https://www.aviasales.ru/search/MOW2710BKK1?t=EY17931228001793187300000835SVOAUHBKK_0517317a5be4e196cad0bd58c1f34b62_28027&search_date=22092026&expected_price_uuid=01a0ca6c-0101-8051-212c-c055576ca5b4&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=RM7UZ3gcyPK1iBltJ63scA&expected_price_source=share&expected_price_currency=rub&expected_price=28025"
+    },
+    "2026-10-28": {
+     "price": 32584,
+     "airline": "HU",
+     "transfers": 1,
+     "duration": 1400,
+     "link": "https://www.aviasales.ru/search/MOW2810BKK1?t=HU17932179001793316300001400SVOPEKBKK_f953322eb8010cbbae0a7e11f15f9496_32586&search_date=22092026&expected_price_uuid=01a0ca7a-0337-8050-6310-4114340cd9da&static_fare_key=TY%7CP0%7CH1%7CL1_1_23%7CCH1%7CR1%7CTBC1&itinerary_key=ryrLzow-n-5KTb8kWfD9iQ&expected_price_source=share&expected_price_currency=rub&expected_price=32584"
+    },
+    "2026-10-29": {
+     "price": 27920,
+     "airline": "EY",
+     "transfers": 1,
+     "duration": 1560,
+     "link": "https://www.aviasales.ru/search/MOW2910BKK1?t=EY17932956001793403600001560SVOAUHBKK_b5d4ef0e5acd7f7525ceeade404bdb0d_27923&search_date=22092026&expected_price_uuid=01a0ca62-1acc-8050-2788-8d502039e33a&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=ha-6EXV_U3vLhAigRaBUbw&expected_price_source=share&expected_price_currency=rub&expected_price=27920"
+    },
+    "2026-10-30": {
+     "price": 30026,
+     "airline": "DV",
+     "transfers": 1,
+     "duration": 1850,
+     "link": "https://www.aviasales.ru/search/MOW3010BKK1?t=DV17933868001793512200001850VKOCITBKK_1be4eaf60c7eb80478532d9611c0add6_30029&search_date=22092026&expected_price_uuid=01a0ca61-f337-8050-ec7b-a0295f0cf9da&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=bXhtpz2VtKD_4hvJOGa11w&expected_price_source=share&expected_price_currency=rub&expected_price=30026"
+    },
+    "2026-10-31": {
+     "price": 35997,
+     "airline": "EY",
+     "transfers": 2,
+     "duration": 1100,
+     "link": "https://www.aviasales.ru/search/MOW3110BKK1?t=EY17934906001793571000001100SVOAUHKBVBKK_99530a8fc37b1fc3fd68babdc8053ad0_36000&search_date=22092026&expected_price_uuid=01a0ca59-ab03-8051-2cbe-3723efc2499b&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=P6EvAKZziZJnT6ctlPnWNw&expected_price_source=share&expected_price_currency=rub&expected_price=35997"
+    },
+    "2026-11-01": {
+     "price": 29516,
+     "airline": "WY",
+     "transfers": 1,
+     "duration": 1140,
+     "link": "https://www.aviasales.ru/search/MOW0111BKK1?t=WY17935191001793601900001140SVOMCTBKK_0cb99b0124785c043ecdedaff317e066_29519&search_date=22092026&expected_price_uuid=01a0ca4d-9b00-8050-a0a7-e25bf6840198&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH1%7CR1%7CTBC0&itinerary_key=20F4E8T7zxDEKcxRZt0J8w&expected_price_source=share&expected_price_currency=rub&expected_price=29516"
+    },
+    "2026-11-02": {
+     "price": 27879,
+     "airline": "EY",
+     "transfers": 1,
+     "duration": 835,
+     "link": "https://www.aviasales.ru/search/MOW0211BKK1?t=EY17936412001793705700000835SVOAUHBKK_946059448094d73120b46e65c8fddbfc_27882&search_date=22092026&expected_price_uuid=01a0ca49-094f-8050-6113-1c07f1e018a8&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=RM7UZ3gcyPK1iBltJ63scA&expected_price_source=share&expected_price_currency=rub&expected_price=27879"
+    },
+    "2026-11-03": {
+     "price": 32510,
+     "airline": "EY",
+     "transfers": 2,
+     "duration": 1880,
+     "link": "https://www.aviasales.ru/search/MOW0311BKK1?t=EY17937093001793836500001880SVOAUHCNXBKK_bb2a3b20d2df496592621f58513a5101_32512&search_date=22092026&expected_price_uuid=01a0ca6d-5094-8050-65c8-d7589cb5a436&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=8RIElZotPBC9ANHmftOeNA&expected_price_source=share&expected_price_currency=rub&expected_price=32510"
+    },
+    "2026-11-04": {
+     "price": 28314,
+     "airline": "EY",
+     "transfers": 1,
+     "duration": 1560,
+     "link": "https://www.aviasales.ru/search/MOW0411BKK1?t=EY17938140001793922000001560SVOAUHBKK_08f807ea1c929e42fbade342504d3287_28316&search_date=22092026&expected_price_uuid=01a0ca64-dec9-8030-e04b-1c2fbd3af35a&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=ha-6EXV_U3vLhAigRaBUbw&expected_price_source=share&expected_price_currency=rub&expected_price=28314"
+    },
+    "2026-11-05": {
+     "price": 34190,
+     "airline": "EY",
+     "transfers": 1,
+     "duration": 835,
+     "link": "https://www.aviasales.ru/search/MOW0511BKK1?t=EY17939004001793964900000835SVOAUHBKK_69d3ea66361feae5da40e3cbc5e88cee_34193&search_date=22092026&expected_price_uuid=01a0ca4f-b350-8050-2ba7-1cd2e2acdbab&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=RM7UZ3gcyPK1iBltJ63scA&expected_price_source=share&expected_price_currency=rub&expected_price=34190"
+    },
+    "2026-11-06": {
+     "price": 24701,
+     "airline": "DV",
+     "transfers": 1,
+     "duration": 1850,
+     "link": "https://www.aviasales.ru/search/MOW0611BKK1?t=DV17939916001794117000001850VKOCITBKK_915736218f6fc7a07894d2ee9510c1a8_24703&search_date=22092026&expected_price_uuid=01a0ca78-de75-8050-a5d5-9d4efcdf52ae&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=bXhtpz2VtKD_4hvJOGa11w&expected_price_source=share&expected_price_currency=rub&expected_price=24701"
+    },
+    "2026-11-07": {
+     "price": 28164,
+     "airline": "EY",
+     "transfers": 1,
+     "duration": 1560,
+     "link": "https://www.aviasales.ru/search/MOW0711BKK1?t=EY17940732001794181200001560SVOAUHBKK_a81deb17c10d7c35ab1d62230488b458_28167&search_date=22092026&expected_price_uuid=01a0ca52-eb52-8050-a63f-2fd5b4ce6c90&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=ha-6EXV_U3vLhAigRaBUbw&expected_price_source=share&expected_price_currency=rub&expected_price=28164"
+    },
+    "2026-11-08": {
+     "price": 28165,
+     "airline": "EY",
+     "transfers": 1,
+     "duration": 835,
+     "link": "https://www.aviasales.ru/search/MOW0811BKK1?t=EY17941596001794224100000835SVOAUHBKK_80180e61b4ef8c7343496beeaffb20cc_28167&search_date=22092026&expected_price_uuid=01a0ca77-cad7-8050-e89f-64d6eb22f85b&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=RM7UZ3gcyPK1iBltJ63scA&expected_price_source=share&expected_price_currency=rub&expected_price=28165"
+    },
+    "2026-11-09": {
+     "price": 27889,
+     "airline": "EY",
+     "transfers": 1,
+     "duration": 835,
+     "link": "https://www.aviasales.ru/search/MOW0911BKK1?t=EY17942460001794310500000835SVOAUHBKK_de4fddd00ef6bf72d25a5a4cd8fec9ed_27892&search_date=22092026&expected_price_uuid=01a0ca47-e7ea-8050-2d61-5dc22f3b12ff&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=RM7UZ3gcyPK1iBltJ63scA&expected_price_source=share&expected_price_currency=rub&expected_price=27889"
+    },
+    "2026-11-10": {
+     "price": 28164,
+     "airline": "EY",
+     "transfers": 1,
+     "duration": 835,
+     "link": "https://www.aviasales.ru/search/MOW1011BKK1?t=EY17943324001794396900000835SVOAUHBKK_022fc846953abf04be1eb2f925ef4dc8_28167&search_date=22092026&expected_price_uuid=01a0ca62-8ae6-8050-29c1-c4b510fa6bac&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=RM7UZ3gcyPK1iBltJ63scA&expected_price_source=share&expected_price_currency=rub&expected_price=28164"
+    },
+    "2026-11-11": {
+     "price": 27880,
+     "airline": "EY",
+     "transfers": 1,
+     "duration": 835,
+     "link": "https://www.aviasales.ru/search/MOW1111BKK1?t=EY17944188001794483300000835SVOAUHBKK_9a721ab487cf551ce33ee56ae03887f3_27882&search_date=22092026&expected_price_uuid=01a0ca72-c93a-8050-aaf7-cd67a05d11a9&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=RM7UZ3gcyPK1iBltJ63scA&expected_price_source=share&expected_price_currency=rub&expected_price=27880"
+    },
+    "2026-11-12": {
+     "price": 27892,
+     "airline": "EY",
+     "transfers": 1,
+     "duration": 835,
+     "link": "https://www.aviasales.ru/search/MOW1211BKK1?t=EY17945052001794569700000835SVOAUHBKK_1dfa731a605db0ef324c1b9aa0e4e07e_27892&search_date=22092026&expected_price_uuid=01a0ca1e-57c0-8030-68a5-6847b928c425&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=RM7UZ3gcyPK1iBltJ63scA&expected_price_source=share&expected_price_currency=rub&expected_price=27892"
+    },
+    "2026-11-13": {
+     "price": 27889,
+     "airline": "EY",
+     "transfers": 1,
+     "duration": 1560,
+     "link": "https://www.aviasales.ru/search/MOW1311BKK1?t=EY17945916001794699600001560SVOAUHBKK_b2e19eebb73ef6530b578e97d6509602_27892&search_date=22092026&expected_price_uuid=01a0ca4a-3978-8050-6a60-6e7387c81d46&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=ha-6EXV_U3vLhAigRaBUbw&expected_price_source=share&expected_price_currency=rub&expected_price=27889"
+    },
+    "2026-11-14": {
+     "price": 28165,
+     "airline": "EY",
+     "transfers": 1,
+     "duration": 1560,
+     "link": "https://www.aviasales.ru/search/MOW1411BKK1?t=EY17946780001794786000001560SVOAUHBKK_6598547e6d66aef1db190297cdcac0e9_28167&search_date=22092026&expected_price_uuid=01a0ca79-64e5-8051-24b9-7dd98665a3dd&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=ha-6EXV_U3vLhAigRaBUbw&expected_price_source=share&expected_price_currency=rub&expected_price=28165"
+    },
+    "2026-11-15": {
+     "price": 28158,
+     "airline": "EY",
+     "transfers": 1,
+     "duration": 1560,
+     "link": "https://www.aviasales.ru/search/MOW1511BKK1?t=EY17947644001794872400001560SVOAUHBKK_6efea4f60eebb776892087490da62eec_28160&search_date=22092026&expected_price_uuid=01a0ca79-64e5-8051-20d8-5ef8948c16bc&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=ha-6EXV_U3vLhAigRaBUbw&expected_price_source=share&expected_price_currency=rub&expected_price=28158"
+    },
+    "2026-11-16": {
+     "price": 27115,
+     "airline": "CZ",
+     "transfers": 1,
+     "duration": 1480,
+     "link": "https://www.aviasales.ru/search/MOW1611BKK1?t=CZ17948628001794966000001480SVOSZXBKK_8cd12fbf89ad57956f3c103f18509375_27117&search_date=22092026&expected_price_uuid=01a0ca79-64e5-8050-2612-ec087e5262bb&static_fare_key=TY%7CP1%7CH1%7CL1_1_23%7CCH1%7CR1%7CTBC1&itinerary_key=O2_X6mRhGMFBkblLJA-rmw&expected_price_source=share&expected_price_currency=rub&expected_price=27115"
+    },
+    "2026-11-17": {
+     "price": 26322,
+     "airline": "CZ",
+     "transfers": 1,
+     "duration": 2085,
+     "link": "https://www.aviasales.ru/search/MOW1711BKK1?t=CZ17949573001795096800002085SVOCANBKK_5e2c35bfc7fbc82551eb784dfd16c09d_26324&search_date=22092026&expected_price_uuid=01a0ca78-715f-8050-66b0-1b95ead58852&static_fare_key=TY%7CP1%7CH1%7CL1_1_23%7CCH1%7CR1%7CTBC1&itinerary_key=enujDQlohmIbeQ-aTPWkrw&expected_price_source=share&expected_price_currency=rub&expected_price=26322"
+    },
+    "2026-11-18": {
+     "price": 26322,
+     "airline": "CZ",
+     "transfers": 1,
+     "duration": 1085,
+     "link": "https://www.aviasales.ru/search/MOW1811BKK1?t=CZ17950134001795092900001085SVOCANBKK_cd460cbf29b6dcbc26434459e7c6e24c_26324&search_date=22092026&expected_price_uuid=01a0ca78-a938-8030-ada4-0d2357295865&static_fare_key=TY%7CP0%7CH1%7CL1_1_23%7CCH1%7CR1%7CTBC1&itinerary_key=l8V6K9BobjyNlh7TM24qTA&expected_price_source=share&expected_price_currency=rub&expected_price=26322"
+    },
+    "2026-11-19": {
+     "price": 26312,
+     "airline": "CZ",
+     "transfers": 1,
+     "duration": 995,
+     "link": "https://www.aviasales.ru/search/MOW1911BKK1?t=CZ17950998001795173900000995SVOCANBKK_33bd8e3105fc8e910c8137ff41b0ac58_26314&search_date=22092026&expected_price_uuid=01a0ca64-ec86-8030-ac0b-f19a98a42d2c&static_fare_key=TY%7CP1%7CH1%7CL1_1_23%7CCH1%7CR1%7CTBC1&itinerary_key=xRhhBeqcabmN1_KTb4HkVg&expected_price_source=share&expected_price_currency=rub&expected_price=26312"
+    },
+    "2026-11-20": {
+     "price": 24701,
+     "airline": "DV",
+     "transfers": 1,
+     "duration": 1850,
+     "link": "https://www.aviasales.ru/search/MOW2011BKK1?t=DV17952012001795326600001850VKOCITBKK_dabaf0b71640eef369c4fce5f08be990_24703&search_date=22092026&expected_price_uuid=01a0ca67-ba88-8030-21b0-e42a8742370c&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=bXhtpz2VtKD_4hvJOGa11w&expected_price_source=share&expected_price_currency=rub&expected_price=24701"
+    },
+    "2026-11-21": {
+     "price": 27892,
+     "airline": "EY",
+     "transfers": 1,
+     "duration": 1560,
+     "link": "https://www.aviasales.ru/search/MOW2111BKK1?t=EY17952828001795390800001560SVOAUHBKK_1b8e938be14f55ac448a5bcfafbd059a_27892&search_date=22092026&expected_price_uuid=01a0ca10-c0e2-8050-6983-c9e20dcc1e4e&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=ha-6EXV_U3vLhAigRaBUbw&expected_price_source=share&expected_price_currency=rub&expected_price=27892"
+    },
+    "2026-11-22": {
+     "price": 26322,
+     "airline": "CZ",
+     "transfers": 1,
+     "duration": 1930,
+     "link": "https://www.aviasales.ru/search/MOW2211BKK1?t=CZ17953893001795519500001930SVOCANBKK_64aa50c11366e0fa8ef2c5a2ea2d036c_26324&search_date=22092026&expected_price_uuid=01a0ca79-6f4d-8050-68c7-6e141897a263&static_fare_key=TY%7CP1%7CH1%7CL1_1_23%7CCH1%7CR1%7CTBC1&itinerary_key=FFHgIw_BPYdhO2pwGL0ZNA&expected_price_source=share&expected_price_currency=rub&expected_price=26322"
+    },
+    "2026-11-23": {
+     "price": 26322,
+     "airline": "CZ",
+     "transfers": 1,
+     "duration": 1085,
+     "link": "https://www.aviasales.ru/search/MOW2311BKK1?t=CZ17954454001795524900001085SVOCANBKK_821cd17d8bc46b641e79edd8ba618dcb_26324&search_date=22092026&expected_price_uuid=01a0ca76-202a-8050-af61-9668e9421c37&static_fare_key=TY%7CP1%7CH1%7CL1_1_23%7CCH1%7CR1%7CTBC1&itinerary_key=l8V6K9BobjyNlh7TM24qTA&expected_price_source=share&expected_price_currency=rub&expected_price=26322"
+    },
+    "2026-11-24": {
+     "price": 26324,
+     "airline": "CZ",
+     "transfers": 1,
+     "duration": 1930,
+     "link": "https://www.aviasales.ru/search/MOW2411BKK1?t=CZ17955621001795692300001930SVOCANBKK_31815a29e5829f301f165cacfb6413b8_26324&search_date=22092026&expected_price_uuid=01a0c9f8-f3bd-8050-a0e6-9481d15f40d9&static_fare_key=TY%7CP1%7CH1%7CL1_1_23%7CCH1%7CR1%7CTBC1&itinerary_key=FFHgIw_BPYdhO2pwGL0ZNA&expected_price_source=share&expected_price_currency=rub&expected_price=26324"
+    },
+    "2026-11-25": {
+     "price": 26322,
+     "airline": "CZ",
+     "transfers": 1,
+     "duration": 995,
+     "link": "https://www.aviasales.ru/search/MOW2511BKK1?t=CZ17956182001795692300000995SVOCANBKK_003d0c0ffaab13408739502070b6b8e2_26324&search_date=22092026&expected_price_uuid=01a0ca74-f90e-8040-2d86-e1a3faec8a89&static_fare_key=TY%7CP1%7CH1%7CL1_1_23%7CCH1%7CR1%7CTBC1&itinerary_key=xRhhBeqcabmN1_KTb4HkVg&expected_price_source=share&expected_price_currency=rub&expected_price=26322"
+    },
+    "2026-11-26": {
+     "price": 26679,
+     "airline": "CZ",
+     "transfers": 1,
+     "duration": 1085,
+     "link": "https://www.aviasales.ru/search/MOW2611BKK1?t=CZ17957046001795784100001085SVOCANBKK_7244678b996f0f52e0937c75f74b3d01_26681&search_date=22092026&expected_price_uuid=01a0ca6d-5d67-8030-e991-dc5de24abef4&static_fare_key=TY%7CP1%7CH1%7CL1_1_23%7CCH1%7CR1%7CTBC1&itinerary_key=l8V6K9BobjyNlh7TM24qTA&expected_price_source=share&expected_price_currency=rub&expected_price=26679"
+    },
+    "2026-11-27": {
+     "price": 27114,
+     "airline": "CZ",
+     "transfers": 1,
+     "duration": 2020,
+     "link": "https://www.aviasales.ru/search/MOW2711BKK1?t=CZ17958213001795956900002020SVOCANBKK_f257879d9aed7131fe0a95cffbbe7514_27117&search_date=22092026&expected_price_uuid=01a0c9cc-6d38-8051-242b-7ef2a1366795&static_fare_key=TY%7CP1%7CH1%7CL1_1_23%7CCH1%7CR1%7CTBC1&itinerary_key=zHOVKboHaW4Yf7M6Br85jQ&expected_price_source=share&expected_price_currency=rub&expected_price=27114"
+    },
+    "2026-11-28": {
+     "price": 27404,
+     "airline": "CZ",
+     "transfers": 1,
+     "duration": 2050,
+     "link": "https://www.aviasales.ru/search/MOW2811BKK1?t=CZ17958996001796037000002050SVOSZXBKK_f0c3479c06d14f19ddde593f39e7b3a0_27406&search_date=22092026&expected_price_uuid=01a0ca6d-88c6-8050-e254-48934adc8ce5&static_fare_key=TY%7CP1%7CH1%7CL1_1_23%7CCH1%7CR1%7CTBC1&itinerary_key=uUA1T7F1XeLd-pISosuPMQ&expected_price_source=share&expected_price_currency=rub&expected_price=27404"
+    },
+    "2026-11-29": {
+     "price": 26322,
+     "airline": "CZ",
+     "transfers": 1,
+     "duration": 1310,
+     "link": "https://www.aviasales.ru/search/MOW2911BKK1?t=CZ17959941001796087100001310SVOCANBKK_0ba66a91d1081edb477f94542e07dd6c_26324&search_date=22092026&expected_price_uuid=01a0ca77-5113-8030-20c6-8f86ab036a2e&static_fare_key=TY%7CP1%7CH1%7CL1_1_23%7CCH1%7CR1%7CTBC1&itinerary_key=u-oUxyk8_TvI1_GZT-2CLQ&expected_price_source=share&expected_price_currency=rub&expected_price=26322"
+    },
+    "2026-11-30": {
+     "price": 27303,
+     "airline": "CZ",
+     "transfers": 1,
+     "duration": 2050,
+     "link": "https://www.aviasales.ru/search/MOW3011BKK1?t=CZ17960724001796209800002050SVOSZXBKK_5208f83de85a2882bafd76e018331932_27306&search_date=22092026&expected_price_uuid=01a0ca45-741b-8030-e7db-28236877e28d&static_fare_key=TY%7CP0%7CH1%7CL1_1_23%7CCH1%7CR1%7CTBC1&itinerary_key=7d83qPAun6KFUNXOPXnuoQ&expected_price_source=share&expected_price_currency=rub&expected_price=27303"
+    }
+   },
+   "min": 24701,
+   "sources": [
+    "travelpayouts:2026-10",
+    "travelpayouts:2026-11"
+   ],
+   "errors": []
+  },
+  "BKK-HKT": {
+   "calendar": {
+    "2026-10-01": {
+     "price": 3358,
+     "airline": "FD",
+     "transfers": 0,
+     "duration": 90,
+     "link": "https://www.aviasales.ru/search/BKK0110HKT1?t=FD17908875001790892900000090BKKHKT_de45026da4d35dfa59ab4ef8370c2520_3358&search_date=22092026&expected_price_uuid=01a0ca44-9a9c-8050-aa01-f6711d9fbade&static_fare_key=TY%7CP1_JW%7CH0%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=sGQEBoh7c7_cgYsjLawFPQ&expected_price_source=share&expected_price_currency=rub&expected_price=3358"
+    },
+    "2026-10-02": {
+     "price": 3372,
+     "airline": "FD",
+     "transfers": 0,
+     "duration": 90,
+     "link": "https://www.aviasales.ru/search/BKK0210HKT1?t=FD17909739001790979300000090BKKHKT_e950ffe9a969cb9c2069e4706f142188_3372&search_date=22092026&expected_price_uuid=01a0c9be-01c0-8050-ef38-b8a845aa10aa&static_fare_key=TY%7CP1_JW%7CH0%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=sGQEBoh7c7_cgYsjLawFPQ&expected_price_source=share&expected_price_currency=rub&expected_price=3372"
+    },
+    "2026-10-03": {
+     "price": 3368,
+     "airline": "FD",
+     "transfers": 0,
+     "duration": 90,
+     "link": "https://www.aviasales.ru/search/BKK0310HKT1?t=FD17910603001791065700000090BKKHKT_77e15c3de1c1376fc260d32c8f222d47_3368&search_date=22092026&expected_price_uuid=01a0ca75-c4e2-8050-e590-c524090e9f3a&static_fare_key=TY%7CP1_JW%7CH0%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=sGQEBoh7c7_cgYsjLawFPQ&expected_price_source=share&expected_price_currency=rub&expected_price=3368"
+    },
+    "2026-10-04": {
+     "price": 3371,
+     "airline": "FD",
+     "transfers": 0,
+     "duration": 90,
+     "link": "https://www.aviasales.ru/search/BKK0410HKT1?t=FD17911008001791106200000090BKKHKT_76ed5020d875757e4a030270bebeb5c3_3371&search_date=22092026&expected_price_uuid=01a0ca58-d2b9-8030-2eaa-5c6146e1957f&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=HI1pQc3tKf3zi5mqgU4aqw&expected_price_source=share&expected_price_currency=rub&expected_price=3371"
+    },
+    "2026-10-05": {
+     "price": 3036,
+     "airline": "FD",
+     "transfers": 0,
+     "duration": 85,
+     "link": "https://www.aviasales.ru/search/BKK0510HKT1?t=FD17911818001791186900000085DMKHKT_97abc03783778c992231ec638a47dccc_3039&search_date=22092026&expected_price_uuid=01a0c8e9-ec32-8051-29ec-d4dcf1d90204&static_fare_key=TY%7CP1_JW%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=IVzcY9vX1VkqTqOF5OKAIw&expected_price_source=share&expected_price_currency=rub&expected_price=3036"
+    },
+    "2026-10-06": {
+     "price": 2981,
+     "airline": "FD",
+     "transfers": 0,
+     "duration": 85,
+     "link": "https://www.aviasales.ru/search/BKK0610HKT1?t=FD17912682001791273300000085DMKHKT_b5fe6fe9ef09d2cc65f29dd9c8eb33f6_2983&search_date=22092026&expected_price_uuid=01a0c9b0-705c-8051-25b4-c3759bfa5c79&static_fare_key=TY%7CP1_JW%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=IVzcY9vX1VkqTqOF5OKAIw&expected_price_source=share&expected_price_currency=rub&expected_price=2981"
+    },
+    "2026-10-07": {
+     "price": 2980,
+     "airline": "FD",
+     "transfers": 0,
+     "duration": 85,
+     "link": "https://www.aviasales.ru/search/BKK0710HKT1?t=FD17913546001791359700000085DMKHKT_69fa6b0314c66106f610051f356b5f19_2983&search_date=22092026&expected_price_uuid=01a0c90f-33ef-8050-680d-ef51fb341651&static_fare_key=TY%7CP1_JW%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=IVzcY9vX1VkqTqOF5OKAIw&expected_price_source=share&expected_price_currency=rub&expected_price=2980"
+    },
+    "2026-10-08": {
+     "price": 2936,
+     "airline": "FD",
+     "transfers": 0,
+     "duration": 90,
+     "link": "https://www.aviasales.ru/search/BKK0810HKT1?t=FD17914923001791497700000090BKKHKT_caf0150cd5afaeb502011ded138592b1_2936&search_date=22092026&expected_price_uuid=01a0ca43-b570-8051-293f-85906cc53cc0&static_fare_key=TY%7CP1_JW%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=sGQEBoh7c7_cgYsjLawFPQ&expected_price_source=share&expected_price_currency=rub&expected_price=2936"
+    },
+    "2026-10-09": {
+     "price": 3422,
+     "airline": "VZ",
+     "transfers": 0,
+     "duration": 95,
+     "link": "https://www.aviasales.ru/search/BKK0910HKT1?t=VZ17915286001791534300000095BKKHKT_62b7f1bfff3cfb9810851a4832254366_3425&search_date=22092026&expected_price_uuid=01a0c8fe-ae41-8051-2969-52ef71d38f7c&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=OhuLffgm6bFoj7giRTg1Vg&expected_price_source=share&expected_price_currency=rub&expected_price=3422"
+    },
+    "2026-10-10": {
+     "price": 3387,
+     "airline": "VZ",
+     "transfers": 0,
+     "duration": 95,
+     "link": "https://www.aviasales.ru/search/BKK1010HKT1?t=VZ17916696001791675300000095BKKHKT_1c02a09d8511d4816e0f75fa80bbbe0b_3387&search_date=22092026&expected_price_uuid=01a0ca40-d5a4-8030-6070-11be4340d0e0&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=i5b8Foq_kToWwPcOKqW_Ng&expected_price_source=share&expected_price_currency=rub&expected_price=3387"
+    },
+    "2026-10-11": {
+     "price": 3148,
+     "airline": "VZ",
+     "transfers": 0,
+     "duration": 95,
+     "link": "https://www.aviasales.ru/search/BKK1110HKT1?t=VZ17917014001791707100000095BKKHKT_ffd75e53bae9e071adcb683b3c6c3eb8_3151&search_date=22092026&expected_price_uuid=01a0c8fc-2301-8051-2ff6-e88cf308b13a&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=OhuLffgm6bFoj7giRTg1Vg&expected_price_source=share&expected_price_currency=rub&expected_price=3148"
+    },
+    "2026-10-12": {
+     "price": 3363,
+     "airline": "FD",
+     "transfers": 0,
+     "duration": 90,
+     "link": "https://www.aviasales.ru/search/BKK1210HKT1?t=FD17918352001791840600000090BKKHKT_f8f3b66f80b82d2524ec38fb9289efe2_3366&search_date=22092026&expected_price_uuid=01a0c900-90f5-8050-a667-90bbe1287cc3&static_fare_key=TY%7CP1_JW%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=g_9Kqtxecd8-JEBrj0Bwpg&expected_price_source=share&expected_price_currency=rub&expected_price=3363"
+    },
+    "2026-10-13": {
+     "price": 3346,
+     "airline": "FD",
+     "transfers": 0,
+     "duration": 90,
+     "link": "https://www.aviasales.ru/search/BKK1310HKT1?t=FD17919243001791929700000090BKKHKT_05cfaedab41c7fe591abb5fcf527d9ba_3346&search_date=22092026&expected_price_uuid=01a0ca6f-6ce2-8050-2eea-97b58fe3c105&static_fare_key=TY%7CP1_JW%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=sGQEBoh7c7_cgYsjLawFPQ&expected_price_source=share&expected_price_currency=rub&expected_price=3346"
+    },
+    "2026-10-14": {
+     "price": 3423,
+     "airline": "FD",
+     "transfers": 0,
+     "duration": 90,
+     "link": "https://www.aviasales.ru/search/BKK1410HKT1?t=FD17919648001791970200000090BKKHKT_056c3836b250e247e4c0f6e5e8b92706_3423&search_date=22092026&expected_price_uuid=01a0ca72-8ff4-8050-af59-f5e7e894a437&static_fare_key=TY%7CP1_JW%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=HI1pQc3tKf3zi5mqgU4aqw&expected_price_source=share&expected_price_currency=rub&expected_price=3423"
+    },
+    "2026-10-15": {
+     "price": 2913,
+     "airline": "FD",
+     "transfers": 0,
+     "duration": 90,
+     "link": "https://www.aviasales.ru/search/BKK1510HKT1?t=FD17920941001792099500000090DMKHKT_de0e529aeffbfd02469ce71b4e6be29f_2913&search_date=22092026&expected_price_uuid=01a0ca63-b062-8050-2372-7ea67216c1de&static_fare_key=TY%7CP1_JW%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=I_aaQ8ISkJPZWir4bzvs8g&expected_price_source=share&expected_price_currency=rub&expected_price=2913"
+    },
+    "2026-10-16": {
+     "price": 2815,
+     "airline": "FD",
+     "transfers": 0,
+     "duration": 85,
+     "link": "https://www.aviasales.ru/search/BKK1610HKT1?t=FD17921322001792137300000085DMKHKT_d13d67430b1bd392dca20e912a803393_2815&search_date=22092026&expected_price_uuid=01a0ca43-892f-8050-a48d-438b874d1233&static_fare_key=TY%7CP1_JW%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=IVzcY9vX1VkqTqOF5OKAIw&expected_price_source=share&expected_price_currency=rub&expected_price=2815"
+    },
+    "2026-10-17": {
+     "price": 2836,
+     "airline": "FD",
+     "transfers": 0,
+     "duration": 90,
+     "link": "https://www.aviasales.ru/search/BKK1710HKT1?t=FD17922669001792272300000090DMKHKT_0a17d6823ba57ccfaefc0fd6eaeb6b9f_2836&search_date=22092026&expected_price_uuid=01a0ca13-d728-8051-245f-69337bd934af&static_fare_key=TY%7CP1_JW%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=I_aaQ8ISkJPZWir4bzvs8g&expected_price_source=share&expected_price_currency=rub&expected_price=2836"
+    },
+    "2026-10-18": {
+     "price": 2845,
+     "airline": "FD",
+     "transfers": 0,
+     "duration": 90,
+     "link": "https://www.aviasales.ru/search/BKK1810HKT1?t=FD17923533001792358700000090DMKHKT_5fccce1c2c67aa6c4ac25b0f2f59429a_2845&search_date=22092026&expected_price_uuid=01a0ca04-bd3b-8050-681c-00bafa52a42c&static_fare_key=TY%7CP1_JW%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=I_aaQ8ISkJPZWir4bzvs8g&expected_price_source=share&expected_price_currency=rub&expected_price=2845"
+    },
+    "2026-10-19": {
+     "price": 2820,
+     "airline": "FD",
+     "transfers": 0,
+     "duration": 90,
+     "link": "https://www.aviasales.ru/search/BKK1910HKT1?t=FD17924427001792448100000090BKKHKT_6da7d5b2260e09adb608ce92bd624086_2823&search_date=22092026&expected_price_uuid=01a0c8f1-a406-8050-a75f-79c109baf8f7&static_fare_key=TY%7CP1_JW%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=sGQEBoh7c7_cgYsjLawFPQ&expected_price_source=share&expected_price_currency=rub&expected_price=2820"
+    },
+    "2026-10-20": {
+     "price": 2929,
+     "airline": "FD",
+     "transfers": 0,
+     "duration": 85,
+     "link": "https://www.aviasales.ru/search/BKK2010HKT1?t=FD17924778001792482900000085DMKHKT_3e86e748c73a65f64831bfe686148ba7_2929&search_date=22092026&expected_price_uuid=01a0ca33-c1a4-8050-26e3-5186d15d654d&static_fare_key=TY%7CP1_JW%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=IVzcY9vX1VkqTqOF5OKAIw&expected_price_source=share&expected_price_currency=rub&expected_price=2929"
+    },
+    "2026-10-21": {
+     "price": 2906,
+     "airline": "FD",
+     "transfers": 0,
+     "duration": 90,
+     "link": "https://www.aviasales.ru/search/BKK2110HKT1?t=FD17926128001792618200000090BKKHKT_46b96184e70093f555f27e5e801bb97a_2909&search_date=22092026&expected_price_uuid=01a0c8f3-0af4-8051-2dcc-5ace8ecfce59&static_fare_key=TY%7CP1_JW%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=g_9Kqtxecd8-JEBrj0Bwpg&expected_price_source=share&expected_price_currency=rub&expected_price=2906"
+    },
+    "2026-10-22": {
+     "price": 3425,
+     "airline": "FD",
+     "transfers": 0,
+     "duration": 90,
+     "link": "https://www.aviasales.ru/search/BKK2210HKT1?t=FD17926992001792704600000090BKKHKT_23ace97d11e9d25f3e7e09187bf11253_3428&search_date=22092026&expected_price_uuid=01a0c8fc-250e-8050-645e-6431e5ed36be&static_fare_key=TY%7CP1_JW%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=g_9Kqtxecd8-JEBrj0Bwpg&expected_price_source=share&expected_price_currency=rub&expected_price=3425"
+    },
+    "2026-10-23": {
+     "price": 2789,
+     "airline": "VZ",
+     "transfers": 0,
+     "duration": 90,
+     "link": "https://www.aviasales.ru/search/BKK2310HKT1?t=VZ17927907001792796100000090BKKHKT_6a503889b34ec6e0a6bfda4470ccad62_2789&search_date=22092026&expected_price_uuid=01a0ca29-52aa-8030-a7cd-33f28ec42a6d&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=1u-IS7ozGdCL8mRuywGxhg&expected_price_source=share&expected_price_currency=rub&expected_price=2789"
+    },
+    "2026-10-24": {
+     "price": 3040,
+     "airline": "VZ",
+     "transfers": 0,
+     "duration": 95,
+     "link": "https://www.aviasales.ru/search/BKK2410HKT1?t=VZ17928792001792884900000095BKKHKT_1997626f4b8e1d589a650ea0f0137a31_3040&search_date=22092026&expected_price_uuid=01a0ca40-9067-8050-2b83-0a2a22229a67&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=i5b8Foq_kToWwPcOKqW_Ng&expected_price_source=share&expected_price_currency=rub&expected_price=3040"
+    },
+    "2026-10-25": {
+     "price": 3252,
+     "airline": "FD",
+     "transfers": 0,
+     "duration": 95,
+     "link": "https://www.aviasales.ru/search/BKK2510HKT1?t=FD17929377001792943400000095BKKHKT_ec97f7d9355cb01ed88c76e39746daa8_3223&search_date=22092026&expected_price_uuid=01a0c808-d4d7-8030-ee01-2913b53cde92&static_fare_key=TY%7CP1_JW%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=7vsPvlYJpa3-2jsNrgWCSw&expected_price_source=share&expected_price_currency=rub&expected_price=3252"
+    },
+    "2026-10-26": {
+     "price": 3023,
+     "airline": "VZ",
+     "transfers": 0,
+     "duration": 95,
+     "link": "https://www.aviasales.ru/search/BKK2610HKT1?t=VZ17929974001793003100000095BKKHKT_e57c6505cb1f6d8450d407ba4a459428_3025&search_date=22092026&expected_price_uuid=01a0c998-0860-8050-2171-877f384813e6&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=OhuLffgm6bFoj7giRTg1Vg&expected_price_source=share&expected_price_currency=rub&expected_price=3023"
+    },
+    "2026-10-27": {
+     "price": 2900,
+     "airline": "FD",
+     "transfers": 0,
+     "duration": 95,
+     "link": "https://www.aviasales.ru/search/BKK2710HKT1?t=FD17931105001793116200000095BKKHKT_cdc0caafb766769b3325879e68a8f7e4_2902&search_date=22092026&expected_price_uuid=01a0c957-056f-8050-ef33-d932463e48e3&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=7vsPvlYJpa3-2jsNrgWCSw&expected_price_source=share&expected_price_currency=rub&expected_price=2900"
+    },
+    "2026-10-28": {
+     "price": 3051,
+     "airline": "FD",
+     "transfers": 0,
+     "duration": 100,
+     "link": "https://www.aviasales.ru/search/BKK2810HKT1?t=FD17932182001793224200000100BKKHKT_148bfaead261606c226ec010e40c28ec_3053&search_date=22092026&expected_price_uuid=01a0c960-6b16-8051-2336-70fe067cee63&static_fare_key=TY%7CP1_JW%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=5VsQnQpsfCSXqU6w3I38bw&expected_price_source=share&expected_price_currency=rub&expected_price=3051"
+    },
+    "2026-10-29": {
+     "price": 3009,
+     "airline": "VZ",
+     "transfers": 0,
+     "duration": 90,
+     "link": "https://www.aviasales.ru/search/BKK2910HKT1?t=VZ17932950001793300400000090BKKHKT_fdabcab3cad8cd1306ac87798a950b54_3019&search_date=21092026&expected_price_uuid=01a0c429-dafa-8050-60bc-4aa878a9f036&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=_ECC-tp9WneYBQInGqRh5A&expected_price_source=share&expected_price_currency=rub&expected_price=3009"
+    },
+    "2026-10-30": {
+     "price": 3009,
+     "airline": "VZ",
+     "transfers": 0,
+     "duration": 90,
+     "link": "https://www.aviasales.ru/search/BKK3010HKT1?t=VZ17933814001793386800000090BKKHKT_637281b1ee396f4ecb5fc8eb552680b1_3009&search_date=22092026&expected_price_uuid=01a0ca53-1b57-8051-2327-960288adb39f&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=_ECC-tp9WneYBQInGqRh5A&expected_price_source=share&expected_price_currency=rub&expected_price=3009"
+    },
+    "2026-10-31": {
+     "price": 2969,
+     "airline": "FD",
+     "transfers": 0,
+     "duration": 100,
+     "link": "https://www.aviasales.ru/search/BKK3110HKT1?t=FD17934330001793439000000100BKKHKT_24bea6fba4c90ba4245e7a0236b4b2be_2956&search_date=22092026&expected_price_uuid=01a0c8df-1650-8051-2b27-5d1e4ceb65d2&static_fare_key=TY%7CP1_JW%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=4qhlBNlrshka0G2_oNmzHQ&expected_price_source=share&expected_price_currency=rub&expected_price=2969"
+    },
+    "2026-11-01": {
+     "price": 3986,
+     "airline": "VZ",
+     "transfers": 0,
+     "duration": 95,
+     "link": "https://www.aviasales.ru/search/BKK0111HKT1?t=VZ17935158001793521500000095BKKHKT_68abd72dfa39cac6153cdd71a6defeaf_3989&search_date=22092026&expected_price_uuid=01a0c9b3-277d-8050-6476-72603dd88d1b&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=OhuLffgm6bFoj7giRTg1Vg&expected_price_source=share&expected_price_currency=rub&expected_price=3986"
+    },
+    "2026-11-02": {
+     "price": 3476,
+     "airline": "VZ",
+     "transfers": 0,
+     "duration": 95,
+     "link": "https://www.aviasales.ru/search/BKK0211HKT1?t=VZ17935998001793605500000095BKKHKT_1e6a2307f777c6bd9fc739c54dc9f162_3487&search_date=21092026&expected_price_uuid=01a0c3fb-5695-8050-255f-6e0ec86a40dd&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=qLS6GvWRJjGDdqstnVP4QA&expected_price_source=share&expected_price_currency=rub&expected_price=3476"
+    },
+    "2026-11-03": {
+     "price": 3337,
+     "airline": "VZ",
+     "transfers": 0,
+     "duration": 95,
+     "link": "https://www.aviasales.ru/search/BKK0311HKT1?t=VZ17936886001793694300000095BKKHKT_ee62d5a40992654f40fd7d2ce149d5a5_3337&search_date=22092026&expected_price_uuid=01a0ca7a-d92a-8051-251a-84a2fa67df78&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=OhuLffgm6bFoj7giRTg1Vg&expected_price_source=share&expected_price_currency=rub&expected_price=3337"
+    },
+    "2026-11-04": {
+     "price": 2998,
+     "airline": "VZ",
+     "transfers": 0,
+     "duration": 95,
+     "link": "https://www.aviasales.ru/search/BKK0411HKT1?t=VZ17937750001793780700000095BKKHKT_abe79abc013d35e61a2335330eb771ef_2998&search_date=22092026&expected_price_uuid=01a0ca5d-4637-8050-2403-43ad2201ae82&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=OhuLffgm6bFoj7giRTg1Vg&expected_price_source=share&expected_price_currency=rub&expected_price=2998"
+    },
+    "2026-11-05": {
+     "price": 2998,
+     "airline": "VZ",
+     "transfers": 0,
+     "duration": 95,
+     "link": "https://www.aviasales.ru/search/BKK0511HKT1?t=VZ17939172001793922900000095BKKHKT_781d8ccac86faace6fe88684568103a0_2998&search_date=22092026&expected_price_uuid=01a0ca10-b90e-8050-2cc5-d4487917969c&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=kJJMoxArj7Fom1BczUdefA&expected_price_source=share&expected_price_currency=rub&expected_price=2998"
+    },
+    "2026-11-06": {
+     "price": 3045,
+     "airline": "VZ",
+     "transfers": 0,
+     "duration": 95,
+     "link": "https://www.aviasales.ru/search/BKK0611HKT1?t=VZ17940036001794009300000095BKKHKT_9d7511d965988be823355dc6195c723b_3032&search_date=22092026&expected_price_uuid=01a0c8d3-fd9c-8050-ac99-58b62eeff831&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=kJJMoxArj7Fom1BczUdefA&expected_price_source=share&expected_price_currency=rub&expected_price=3045"
+    },
+    "2026-11-07": {
+     "price": 3336,
+     "airline": "VZ",
+     "transfers": 0,
+     "duration": 95,
+     "link": "https://www.aviasales.ru/search/BKK0711HKT1?t=VZ17940399001794045600000095BKKHKT_3d35ff6ffc65d87ef406e0cc4c3012d8_3338&search_date=22092026&expected_price_uuid=01a0c952-6b66-8050-a07b-b596f723d1f4&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=jGzh77rgmaeVZoyJGZzepw&expected_price_source=share&expected_price_currency=rub&expected_price=3336"
+    },
+    "2026-11-08": {
+     "price": 3905,
+     "airline": "VZ",
+     "transfers": 0,
+     "duration": 95,
+     "link": "https://www.aviasales.ru/search/BKK0811HKT1?t=VZ17941764001794182100000095BKKHKT_8bdf0d07d8476bf82d1049ebcca698e7_3908&search_date=22092026&expected_price_uuid=01a0c99b-b6e8-8050-ef0a-3ad89fa854ae&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=kJJMoxArj7Fom1BczUdefA&expected_price_source=share&expected_price_currency=rub&expected_price=3905"
+    },
+    "2026-11-09": {
+     "price": 3389,
+     "airline": "VZ",
+     "transfers": 0,
+     "duration": 95,
+     "link": "https://www.aviasales.ru/search/BKK0911HKT1?t=VZ17942628001794268500000095BKKHKT_b92600fcb558afe7ccc5c3c57d809130_3359&search_date=22092026&expected_price_uuid=01a0c836-8b7a-8050-a8e2-57a607f58584&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=kJJMoxArj7Fom1BczUdefA&expected_price_source=share&expected_price_currency=rub&expected_price=3389"
+    },
+    "2026-11-10": {
+     "price": 3916,
+     "airline": "VZ",
+     "transfers": 0,
+     "duration": 90,
+     "link": "https://www.aviasales.ru/search/BKK1011HKT1?t=VZ17943384001794343800000090BKKHKT_aef92951c876bd7075960c340fbeae73_3921&search_date=22092026&expected_price_uuid=01a0c91e-7e55-8050-6f7c-dac030d9849b&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=Mf3vjcWLSMrjvNtFvL8xIA&expected_price_source=share&expected_price_currency=rub&expected_price=3916"
+    },
+    "2026-11-11": {
+     "price": 3918,
+     "airline": "VZ",
+     "transfers": 0,
+     "duration": 95,
+     "link": "https://www.aviasales.ru/search/BKK1111HKT1?t=VZ17943774001794383100000095BKKHKT_1a9892b289010ae64dc327af895461b5_3921&search_date=22092026&expected_price_uuid=01a0c96e-2298-8030-e795-f3b92eb75d8d&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=qLS6GvWRJjGDdqstnVP4QA&expected_price_source=share&expected_price_currency=rub&expected_price=3918"
+    },
+    "2026-11-12": {
+     "price": 3833,
+     "airline": "VZ",
+     "transfers": 0,
+     "duration": 90,
+     "link": "https://www.aviasales.ru/search/BKK1211HKT1?t=VZ17945112001794516600000090BKKHKT_84b5da2ea23070efce3d547798711391_3836&search_date=22092026&expected_price_uuid=01a0c9a6-31c7-8050-e0a0-0b9f80830618&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=Mf3vjcWLSMrjvNtFvL8xIA&expected_price_source=share&expected_price_currency=rub&expected_price=3833"
+    },
+    "2026-11-13": {
+     "price": 3835,
+     "airline": "VZ",
+     "transfers": 0,
+     "duration": 95,
+     "link": "https://www.aviasales.ru/search/BKK1311HKT1?t=VZ17946084001794614100000095BKKHKT_a35a5bf422744a40c41f5c83384f1025_3835&search_date=22092026&expected_price_uuid=01a0c9fb-bf81-8050-29d8-a5145b18101e&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=kJJMoxArj7Fom1BczUdefA&expected_price_source=share&expected_price_currency=rub&expected_price=3835"
+    },
+    "2026-11-14": {
+     "price": 3905,
+     "airline": "VZ",
+     "transfers": 0,
+     "duration": 95,
+     "link": "https://www.aviasales.ru/search/BKK1411HKT1?t=VZ17946948001794700500000095BKKHKT_3cabb1973ec565a15f66740d8ac99c94_3908&search_date=22092026&expected_price_uuid=01a0c97e-3bc9-8030-65a6-cdbc46939910&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=kJJMoxArj7Fom1BczUdefA&expected_price_source=share&expected_price_currency=rub&expected_price=3905"
+    },
+    "2026-11-15": {
+     "price": 3873,
+     "airline": "VZ",
+     "transfers": 0,
+     "duration": 95,
+     "link": "https://www.aviasales.ru/search/BKK1511HKT1?t=VZ17947812001794786900000095BKKHKT_58b2dafe8fd554abf713da589220f717_3877&search_date=22092026&expected_price_uuid=01a0c916-cb71-8030-ec35-a9777bc3eb68&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=kJJMoxArj7Fom1BczUdefA&expected_price_source=share&expected_price_currency=rub&expected_price=3873"
+    },
+    "2026-11-16": {
+     "price": 3408,
+     "airline": "VZ",
+     "transfers": 0,
+     "duration": 95,
+     "link": "https://www.aviasales.ru/search/BKK1611HKT1?t=VZ17948094001794815100000095BKKHKT_1d1672b71ff4a8f1d566c6846d2cef78_3408&search_date=22092026&expected_price_uuid=01a0ca39-18b6-8050-659a-40ccf8081c5a&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=qLS6GvWRJjGDdqstnVP4QA&expected_price_source=share&expected_price_currency=rub&expected_price=3408"
+    },
+    "2026-11-17": {
+     "price": 3408,
+     "airline": "VZ",
+     "transfers": 0,
+     "duration": 90,
+     "link": "https://www.aviasales.ru/search/BKK1711HKT1?t=VZ17949432001794948600000090BKKHKT_8bc959fa3dcce8b5c0baaffec646d93f_3408&search_date=22092026&expected_price_uuid=01a0c9e1-0c66-8050-aa64-bd9f4ab4c841&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=Mf3vjcWLSMrjvNtFvL8xIA&expected_price_source=share&expected_price_currency=rub&expected_price=3408"
+    },
+    "2026-11-18": {
+     "price": 3982,
+     "airline": "VZ",
+     "transfers": 0,
+     "duration": 95,
+     "link": "https://www.aviasales.ru/search/BKK1811HKT1?t=VZ17949822001794987900000095BKKHKT_bb48151d88daa14b1841ad2373f48265_3985&search_date=22092026&expected_price_uuid=01a0c98d-c06a-8050-e934-a04691cbf0a9&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=qLS6GvWRJjGDdqstnVP4QA&expected_price_source=share&expected_price_currency=rub&expected_price=3982"
+    },
+    "2026-11-19": {
+     "price": 3911,
+     "airline": "VZ",
+     "transfers": 0,
+     "duration": 95,
+     "link": "https://www.aviasales.ru/search/BKK1911HKT1?t=VZ17950710001795076700000095BKKHKT_c30ad1c6084fcc482bd34312b1485443_3876&search_date=22092026&expected_price_uuid=01a0c825-4dcf-8050-6bf9-04bd479406ef&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=OhuLffgm6bFoj7giRTg1Vg&expected_price_source=share&expected_price_currency=rub&expected_price=3911"
+    },
+    "2026-11-20": {
+     "price": 3882,
+     "airline": "VZ",
+     "transfers": 0,
+     "duration": 95,
+     "link": "https://www.aviasales.ru/search/BKK2011HKT1?t=VZ17952132001795218900000095BKKHKT_9b07df8d07719f8710b3314eaff1674d_3887&search_date=22092026&expected_price_uuid=01a0c93c-5cbd-8051-22e1-ac43a495b4ef&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=kJJMoxArj7Fom1BczUdefA&expected_price_source=share&expected_price_currency=rub&expected_price=3882"
+    },
+    "2026-11-21": {
+     "price": 3915,
+     "airline": "VZ",
+     "transfers": 0,
+     "duration": 95,
+     "link": "https://www.aviasales.ru/search/BKK2111HKT1?t=VZ17952822001795287900000095BKKHKT_df34a20758ca33910784e326c47c1883_3919&search_date=22092026&expected_price_uuid=01a0c8e6-74c7-8050-a451-609f6c547664&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=QEuiQ4mUiKTWHVMm66eTzA&expected_price_source=share&expected_price_currency=rub&expected_price=3915"
+    },
+    "2026-11-22": {
+     "price": 4300,
+     "airline": "SL",
+     "transfers": 0,
+     "duration": 85,
+     "link": "https://www.aviasales.ru/search/BKK2211HKT1?t=SL17953758001795380900000085DMKHKT_18837a15f9e4ca32911859ed7c74e02a_4300&search_date=21092026&expected_price_uuid=01a0c534-6b62-8050-269c-829001433ba5&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=ie5Xvts5s5eBL9bpQC9I1A&expected_price_source=share&expected_price_currency=rub&expected_price=4300"
+    },
+    "2026-11-23": {
+     "price": 3761,
+     "airline": "VZ",
+     "transfers": 0,
+     "duration": 95,
+     "link": "https://www.aviasales.ru/search/BKK2311HKT1?t=VZ17954142001795419900000095BKKHKT_0173c80d9a0944229a846a3feb7bfbe1_3766&search_date=22092026&expected_price_uuid=01a0c925-027c-8050-252b-69b2d33dec2b&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=qLS6GvWRJjGDdqstnVP4QA&expected_price_source=share&expected_price_currency=rub&expected_price=3761"
+    },
+    "2026-11-24": {
+     "price": 3384,
+     "airline": "VZ",
+     "transfers": 0,
+     "duration": 95,
+     "link": "https://www.aviasales.ru/search/BKK2411HKT1?t=VZ17955588001795564500000095BKKHKT_bb213050ea095c9228bd9e1b9ea7eff3_3387&search_date=22092026&expected_price_uuid=01a0c8ee-2d5c-8050-269c-14eb054acd02&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=kJJMoxArj7Fom1BczUdefA&expected_price_source=share&expected_price_currency=rub&expected_price=3384"
+    },
+    "2026-11-25": {
+     "price": 3368,
+     "airline": "VZ",
+     "transfers": 0,
+     "duration": 90,
+     "link": "https://www.aviasales.ru/search/BKK2511HKT1?t=VZ17956344001795639800000090BKKHKT_49f09206cbdd64eb56b2671f6a53f56a_3372&search_date=22092026&expected_price_uuid=01a0c91c-07e2-8050-a482-f404488780fc&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=Mf3vjcWLSMrjvNtFvL8xIA&expected_price_source=share&expected_price_currency=rub&expected_price=3368"
+    },
+    "2026-11-26": {
+     "price": 3835,
+     "airline": "VZ",
+     "transfers": 0,
+     "duration": 95,
+     "link": "https://www.aviasales.ru/search/BKK2611HKT1?t=VZ17956758001795681500000095BKKHKT_a2bcd813313adfe719edb429ffaba9d1_3835&search_date=22092026&expected_price_uuid=01a0ca4b-1387-8030-e660-570850626189&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=OhuLffgm6bFoj7giRTg1Vg&expected_price_source=share&expected_price_currency=rub&expected_price=3835"
+    },
+    "2026-11-27": {
+     "price": 3942,
+     "airline": "VZ",
+     "transfers": 0,
+     "duration": 95,
+     "link": "https://www.aviasales.ru/search/BKK2711HKT1?t=VZ17957598001795765500000095BKKHKT_5f5c6b2efae658c8b16bf571d48eeed1_3945&search_date=22092026&expected_price_uuid=01a0c968-1717-8030-25a1-543889e95000&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=qLS6GvWRJjGDdqstnVP4QA&expected_price_source=share&expected_price_currency=rub&expected_price=3942"
+    },
+    "2026-11-28": {
+     "price": 3267,
+     "airline": "VZ",
+     "transfers": 0,
+     "duration": 90,
+     "link": "https://www.aviasales.ru/search/BKK2811HKT1?t=VZ17958936001795899000000090BKKHKT_c1ba363a81e4369513a2c14c9f9c8911_3267&search_date=21092026&expected_price_uuid=01a0c5e0-bc26-8030-eb8b-3b0e888646b5&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=Mf3vjcWLSMrjvNtFvL8xIA&expected_price_source=share&expected_price_currency=rub&expected_price=3267"
+    },
+    "2026-11-29": {
+     "price": 4168,
+     "airline": "FD",
+     "transfers": 0,
+     "duration": 100,
+     "link": "https://www.aviasales.ru/search/BKK2911HKT1?t=FD17959830001795989000000100BKKHKT_d02ae2a9cd93c31d08290ce09d1b37a8_4168&search_date=22092026&expected_price_uuid=01a0c9d4-bc26-8051-2aed-d1c386a15e3f&static_fare_key=TY%7CP1_JW%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=5VsQnQpsfCSXqU6w3I38bw&expected_price_source=share&expected_price_currency=rub&expected_price=4168"
+    },
+    "2026-11-30": {
+     "price": 3337,
+     "airline": "VZ",
+     "transfers": 0,
+     "duration": 95,
+     "link": "https://www.aviasales.ru/search/BKK3011HKT1?t=VZ17960190001796024700000095BKKHKT_b75030c88a69ef541098ddbc8bce02b4_3337&search_date=22092026&expected_price_uuid=01a0ca2e-f976-8030-2be7-f82a726c04f3&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=qLS6GvWRJjGDdqstnVP4QA&expected_price_source=share&expected_price_currency=rub&expected_price=3337"
+    }
+   },
+   "min": 2789,
+   "sources": [
+    "travelpayouts:2026-10",
+    "travelpayouts:2026-11"
+   ],
+   "errors": []
+  },
+  "SVX-MOW": {
+   "calendar": {
+    "2026-10-01": {
+     "price": 5257,
+     "airline": "DP",
+     "transfers": 0,
+     "duration": 150,
+     "link": "https://www.aviasales.ru/search/SVX0110MOW1?t=DP17908305001790832300000150SVXVKO_9afddd7e1b1c5bcea990169f1793a54c_5257&search_date=22092026&expected_price_uuid=01a0ca7b-00fb-8050-6f80-b4afadac548d&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=9lh0CzrHqQQyv9cX89Uxyg&expected_price_source=share&expected_price_currency=rub&expected_price=5257"
+    },
+    "2026-10-02": {
+     "price": 7305,
+     "airline": "DP",
+     "transfers": 0,
+     "duration": 150,
+     "link": "https://www.aviasales.ru/search/SVX0210MOW1?t=DP17909208001790922600000150SVXSVO_3e2acf86af03ef3e2f613b20edd1e414_7306&search_date=22092026&expected_price_uuid=01a0ca70-adcd-8030-e5b4-74f44fce1b4f&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=IO0tjSKu9aTYG078Q4uUow&expected_price_source=share&expected_price_currency=rub&expected_price=7305"
+    },
+    "2026-10-03": {
+     "price": 6139,
+     "airline": "DP",
+     "transfers": 0,
+     "duration": 155,
+     "link": "https://www.aviasales.ru/search/SVX0310MOW1?t=DP17910510001791053100000155SVXVKO_095c5d7567a75b76b093e3ba4f7b2bfd_6139&search_date=22092026&expected_price_uuid=01a0ca7b-21d7-8050-24d9-f1091a623506&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=ACNHzCf3JwIDojC2R0gVwQ&expected_price_source=share&expected_price_currency=rub&expected_price=6139"
+    },
+    "2026-10-04": {
+     "price": 5251,
+     "airline": "DP",
+     "transfers": 0,
+     "duration": 150,
+     "link": "https://www.aviasales.ru/search/SVX0410MOW1?t=DP17910936001791095400000150SVXSVO_82cbd743dac65a8964f9204029577f6c_5251&search_date=22092026&expected_price_uuid=01a0ca78-f562-8050-230c-b9cf1c8b8264&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=IO0tjSKu9aTYG078Q4uUow&expected_price_source=share&expected_price_currency=rub&expected_price=5251"
+    },
+    "2026-10-05": {
+     "price": 6130,
+     "airline": "DP",
+     "transfers": 0,
+     "duration": 155,
+     "link": "https://www.aviasales.ru/search/SVX0510MOW1?t=DP17911812001791183300000155SVXVKO_7fee41958a480db4b58e64dfddfcf227_6131&search_date=22092026&expected_price_uuid=01a0ca53-da24-8050-616a-786fda1250eb&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=xvOPGiackbUisl4UuRWL1w&expected_price_source=share&expected_price_currency=rub&expected_price=6130"
+    },
+    "2026-10-06": {
+     "price": 6154,
+     "airline": "DP",
+     "transfers": 0,
+     "duration": 150,
+     "link": "https://www.aviasales.ru/search/SVX0610MOW1?t=DP17912664001791268200000150SVXSVO_e1e542932aeec7f86ca300dff9a17e78_6155&search_date=22092026&expected_price_uuid=01a0ca62-978c-8030-2104-da3386423b90&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=IO0tjSKu9aTYG078Q4uUow&expected_price_source=share&expected_price_currency=rub&expected_price=6154"
+    },
+    "2026-10-07": {
+     "price": 5196,
+     "airline": "DP",
+     "transfers": 0,
+     "duration": 155,
+     "link": "https://www.aviasales.ru/search/SVX0710MOW1?t=DP17913540001791356100000155SVXSVO_4cdf44e835ab4fccb22a548c6f00b763_5196&search_date=22092026&expected_price_uuid=01a0ca6d-f9c3-8050-6195-37c0f19b45b7&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=CgNv8mWULN-DyXFhjt7vYg&expected_price_source=share&expected_price_currency=rub&expected_price=5196"
+    },
+    "2026-10-08": {
+     "price": 6164,
+     "airline": "DP",
+     "transfers": 0,
+     "duration": 150,
+     "link": "https://www.aviasales.ru/search/SVX0810MOW1?t=DP17914392001791441000000150SVXSVO_89fbed5ee94e36bc97b6cd95f089858c_6165&search_date=22092026&expected_price_uuid=01a0ca5e-69f5-8030-6058-4cda04354ed1&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=IO0tjSKu9aTYG078Q4uUow&expected_price_source=share&expected_price_currency=rub&expected_price=6164"
+    },
+    "2026-10-09": {
+     "price": 7285,
+     "airline": "DP",
+     "transfers": 0,
+     "duration": 150,
+     "link": "https://www.aviasales.ru/search/SVX0910MOW1?t=DP17915256001791527400000150SVXSVO_ac5c5a1c5093bfaf803202a2640626ba_7286&search_date=22092026&expected_price_uuid=01a0ca76-a546-8051-2017-c5b1d2953136&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=IO0tjSKu9aTYG078Q4uUow&expected_price_source=share&expected_price_currency=rub&expected_price=7285"
+    },
+    "2026-10-10": {
+     "price": 7262,
+     "airline": "DP",
+     "transfers": 0,
+     "duration": 150,
+     "link": "https://www.aviasales.ru/search/SVX1010MOW1?t=DP17916120001791613800000150SVXSVO_ea6ffb834146199d3e1e0d8df1dc38ff_7263&search_date=22092026&expected_price_uuid=01a0ca73-fbd0-8050-a784-a104ccb916d1&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=IO0tjSKu9aTYG078Q4uUow&expected_price_source=share&expected_price_currency=rub&expected_price=7262"
+    },
+    "2026-10-11": {
+     "price": 6164,
+     "airline": "DP",
+     "transfers": 0,
+     "duration": 150,
+     "link": "https://www.aviasales.ru/search/SVX1110MOW1?t=DP17916984001791700200000150SVXSVO_ffa4a1aa27672c06d8cf47be6e4b34ad_6165&search_date=22092026&expected_price_uuid=01a0ca3c-eb9d-8050-e086-3f9c51738150&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=IO0tjSKu9aTYG078Q4uUow&expected_price_source=share&expected_price_currency=rub&expected_price=6164"
+    },
+    "2026-10-12": {
+     "price": 6165,
+     "airline": "DP",
+     "transfers": 0,
+     "duration": 150,
+     "link": "https://www.aviasales.ru/search/SVX1210MOW1?t=DP17917848001791786600000150SVXSVO_95f5ded64b20fca947ac69a5a54306bb_6165&search_date=22092026&expected_price_uuid=01a0ca73-71e6-8050-25cc-e77cd4a18089&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=IO0tjSKu9aTYG078Q4uUow&expected_price_source=share&expected_price_currency=rub&expected_price=6165"
+    },
+    "2026-10-13": {
+     "price": 6165,
+     "airline": "DP",
+     "transfers": 0,
+     "duration": 150,
+     "link": "https://www.aviasales.ru/search/SVX1310MOW1?t=DP17918712001791873000000150SVXSVO_100dfaabd23686b6750df3dd8d5f751c_6165&search_date=22092026&expected_price_uuid=01a0ca6c-8613-8051-2e8f-6c65c1bce749&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=IO0tjSKu9aTYG078Q4uUow&expected_price_source=share&expected_price_currency=rub&expected_price=6165"
+    },
+    "2026-10-14": {
+     "price": 6164,
+     "airline": "DP",
+     "transfers": 0,
+     "duration": 155,
+     "link": "https://www.aviasales.ru/search/SVX1410MOW1?t=DP17919588001791960900000155SVXSVO_f058da7a1a032c1ed1af432bbc4e7df9_6165&search_date=22092026&expected_price_uuid=01a0ca4d-3756-8050-add0-48d68b21e598&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=CgNv8mWULN-DyXFhjt7vYg&expected_price_source=share&expected_price_currency=rub&expected_price=6164"
+    },
+    "2026-10-15": {
+     "price": 6799,
+     "airline": "SU",
+     "transfers": 0,
+     "duration": 150,
+     "link": "https://www.aviasales.ru/search/SVX1510MOW1?t=SU17920248001792026600000150SVXSVO_0ce97f2bd96c019e38bc10a705616762_6799&search_date=22092026&expected_price_uuid=01a0ca21-0698-8050-6f5e-8ba65e36a97f&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=rp6ulkSb4x9jNUxP4QF-8Q&expected_price_source=share&expected_price_currency=rub&expected_price=6799"
+    },
+    "2026-10-16": {
+     "price": 6143,
+     "airline": "DP",
+     "transfers": 0,
+     "duration": 150,
+     "link": "https://www.aviasales.ru/search/SVX1610MOW1?t=DP17921265001792128300000150SVXVKO_7c4719d45b813299fa713f95b4afb8b5_6143&search_date=22092026&expected_price_uuid=01a0ca75-a002-8050-a68f-57018ed87f62&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=9lh0CzrHqQQyv9cX89Uxyg&expected_price_source=share&expected_price_currency=rub&expected_price=6143"
+    },
+    "2026-10-17": {
+     "price": 7295,
+     "airline": "DP",
+     "transfers": 0,
+     "duration": 150,
+     "link": "https://www.aviasales.ru/search/SVX1710MOW1?t=DP17922168001792218600000150SVXSVO_32df64b4780f58dfab9d8a664575c44b_7296&search_date=22092026&expected_price_uuid=01a0ca4d-9cc9-8050-edbf-73537870d1e8&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=IO0tjSKu9aTYG078Q4uUow&expected_price_source=share&expected_price_currency=rub&expected_price=7295"
+    },
+    "2026-10-18": {
+     "price": 6154,
+     "airline": "DP",
+     "transfers": 0,
+     "duration": 150,
+     "link": "https://www.aviasales.ru/search/SVX1810MOW1?t=DP17923032001792305000000150SVXSVO_403f3a1dc00fc380d6aeb0a893422dfb_6155&search_date=22092026&expected_price_uuid=01a0ca4d-8860-8050-2ef7-47bd9fe5bcae&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=IO0tjSKu9aTYG078Q4uUow&expected_price_source=share&expected_price_currency=rub&expected_price=6154"
+    },
+    "2026-10-19": {
+     "price": 6165,
+     "airline": "DP",
+     "transfers": 0,
+     "duration": 150,
+     "link": "https://www.aviasales.ru/search/SVX1910MOW1?t=DP17923896001792391400000150SVXSVO_5ebe8cfe0e5092a3aabacdcecf24224d_6165&search_date=22092026&expected_price_uuid=01a0ca73-27a0-8030-e7c9-6cb3647f7e5e&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=IO0tjSKu9aTYG078Q4uUow&expected_price_source=share&expected_price_currency=rub&expected_price=6165"
+    },
+    "2026-10-20": {
+     "price": 6154,
+     "airline": "DP",
+     "transfers": 0,
+     "duration": 155,
+     "link": "https://www.aviasales.ru/search/SVX2010MOW1?t=DP17925198001792521900000155SVXSVO_2f562e913959d5247f4342339ae974ed_6155&search_date=22092026&expected_price_uuid=01a0ca53-cd6d-8050-2f33-d0bcd79f721d&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=8dPPb42I6zdJbm0-9X1Oaw&expected_price_source=share&expected_price_currency=rub&expected_price=6154"
+    },
+    "2026-10-21": {
+     "price": 6154,
+     "airline": "DP",
+     "transfers": 0,
+     "duration": 145,
+     "link": "https://www.aviasales.ru/search/SVX2110MOW1?t=DP17926098001792611300000145SVXSVO_26fe94bf90a3ec95362149f7c2fe4a12_6155&search_date=22092026&expected_price_uuid=01a0ca53-c9ec-8050-2451-4301e0c4fcba&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=BaVOY1cup5glmFzfgYDprQ&expected_price_source=share&expected_price_currency=rub&expected_price=6154"
+    },
+    "2026-10-22": {
+     "price": 7305,
+     "airline": "DP",
+     "transfers": 0,
+     "duration": 155,
+     "link": "https://www.aviasales.ru/search/SVX2210MOW1?t=DP17926926001792694700000155SVXSVO_67a5aa1f1809724852c87117b4cda007_7306&search_date=22092026&expected_price_uuid=01a0ca61-4305-8050-aef0-e2269f3672f1&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=nsVxFIED2mNMEZeJ-HwpsQ&expected_price_source=share&expected_price_currency=rub&expected_price=7305"
+    },
+    "2026-10-23": {
+     "price": 7291,
+     "airline": "DP",
+     "transfers": 0,
+     "duration": 150,
+     "link": "https://www.aviasales.ru/search/SVX2310MOW1?t=DP17927313001792733100000150SVXVKO_f797d210767bfbd0cba6ec31754fd5c8_7292&search_date=22092026&expected_price_uuid=01a0ca53-c99d-8050-a7ac-e98b57d66277&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=9lh0CzrHqQQyv9cX89Uxyg&expected_price_source=share&expected_price_currency=rub&expected_price=7291"
+    },
+    "2026-10-24": {
+     "price": 8509,
+     "airline": "DP",
+     "transfers": 0,
+     "duration": 150,
+     "link": "https://www.aviasales.ru/search/SVX2410MOW1?t=DP17928216001792823400000150SVXSVO_07b0cc218273c67eb31750c0ea20f29f_8510&search_date=22092026&expected_price_uuid=01a0ca5c-ad50-8050-efa4-69099dd386a1&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=IO0tjSKu9aTYG078Q4uUow&expected_price_source=share&expected_price_currency=rub&expected_price=8509"
+    },
+    "2026-10-25": {
+     "price": 6876,
+     "airline": "DP",
+     "transfers": 0,
+     "duration": 160,
+     "link": "https://www.aviasales.ru/search/SVX2510MOW1?t=DP17929110001792913400000160SVXVKO_a1304e2dae33be2a00c1f43dd88f4310_6877&search_date=22092026&expected_price_uuid=01a0ca53-c95b-8050-65cd-4e90b79447a3&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=lJwcNBv6dBqgw56rN5lMBw&expected_price_source=share&expected_price_currency=rub&expected_price=6876"
+    },
+    "2026-10-26": {
+     "price": 6786,
+     "airline": "DP",
+     "transfers": 0,
+     "duration": 160,
+     "link": "https://www.aviasales.ru/search/SVX2610MOW1?t=DP17929935001792995900000160SVXSVO_31f54f9b51251badb34f8418a9a2e347_6787&search_date=22092026&expected_price_uuid=01a0ca39-ef2f-8030-63eb-8eba535cd4f5&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=14GWXWB7PmovQJeZf4xmcQ&expected_price_source=share&expected_price_currency=rub&expected_price=6786"
+    },
+    "2026-10-27": {
+     "price": 6876,
+     "airline": "DP",
+     "transfers": 0,
+     "duration": 160,
+     "link": "https://www.aviasales.ru/search/SVX2710MOW1?t=DP17930808001793083200000160SVXSVO_64161fea079d2b76662c90b94871ef4a_6877&search_date=22092026&expected_price_uuid=01a0ca44-66ca-8051-2b32-3405bd083a66&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=S-Ap6YVL2F0mDsrjuVDHCw&expected_price_source=share&expected_price_currency=rub&expected_price=6876"
+    },
+    "2026-10-28": {
+     "price": 7471,
+     "airline": "U6",
+     "transfers": 0,
+     "duration": 155,
+     "link": "https://www.aviasales.ru/search/SVX2810MOW1?t=U617931702001793172300000155SVXDME_925a5b35af93a14b834ff9b77e89b32b_7472&search_date=22092026&expected_price_uuid=01a0ca44-6500-8050-6896-75c21af926a3&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH1_0%7CR0%7CTBC0&itinerary_key=iADyQEOI883GH9gLyTbwCA&expected_price_source=share&expected_price_currency=rub&expected_price=7471"
+    },
+    "2026-10-29": {
+     "price": 6876,
+     "airline": "DP",
+     "transfers": 0,
+     "duration": 160,
+     "link": "https://www.aviasales.ru/search/SVX2910MOW1?t=DP17932323001793234700000160SVXVKO_d9d872d24b5932230ac1ba980151de8a_6877&search_date=22092026&expected_price_uuid=01a0ca44-6c14-8051-2f13-9b529be4d912&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=UPbMpob_8BKrsOA-YuuDQA&expected_price_source=share&expected_price_currency=rub&expected_price=6876"
+    },
+    "2026-10-30": {
+     "price": 6876,
+     "airline": "DP",
+     "transfers": 0,
+     "duration": 160,
+     "link": "https://www.aviasales.ru/search/SVX3010MOW1?t=DP17933400001793342400000160SVXSVO_d506ceebfb165c48a526971e1098bb7b_6877&search_date=22092026&expected_price_uuid=01a0ca44-650c-8051-25ba-49cc14900f5b&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=S-Ap6YVL2F0mDsrjuVDHCw&expected_price_source=share&expected_price_currency=rub&expected_price=6876"
+    },
+    "2026-10-31": {
+     "price": 7805,
+     "airline": "DP",
+     "transfers": 0,
+     "duration": 160,
+     "link": "https://www.aviasales.ru/search/SVX3110MOW1?t=DP17934051001793407500000160SVXVKO_213cdfb2cc8689ebe1d021bf7d4d4475_7806&search_date=22092026&expected_price_uuid=01a0ca66-82aa-8050-62e5-df73251a82ef&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=UPbMpob_8BKrsOA-YuuDQA&expected_price_source=share&expected_price_currency=rub&expected_price=7805"
+    },
+    "2026-11-01": {
+     "price": 6786,
+     "airline": "DP",
+     "transfers": 0,
+     "duration": 160,
+     "link": "https://www.aviasales.ru/search/SVX0111MOW1?t=DP17934915001793493900000160SVXVKO_9365d40361c9935bc75cd5f71eb6a8c2_6787&search_date=22092026&expected_price_uuid=01a0ca62-2553-8030-e390-8763b6c3d41a&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=UPbMpob_8BKrsOA-YuuDQA&expected_price_source=share&expected_price_currency=rub&expected_price=6786"
+    },
+    "2026-11-02": {
+     "price": 6232,
+     "airline": "DP",
+     "transfers": 0,
+     "duration": 160,
+     "link": "https://www.aviasales.ru/search/SVX0211MOW1?t=DP17935992001793601600000160SVXSVO_442d501adb3ae5d1d8cdbba77adb693b_6232&search_date=22092026&expected_price_uuid=01a0ca7c-5049-8050-6a94-c43dd86795af&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=S-Ap6YVL2F0mDsrjuVDHCw&expected_price_source=share&expected_price_currency=rub&expected_price=6232"
+    },
+    "2026-11-03": {
+     "price": 6283,
+     "airline": "DP",
+     "transfers": 0,
+     "duration": 160,
+     "link": "https://www.aviasales.ru/search/SVX0311MOW1?t=DP17936856001793688000000160SVXSVO_53f2af29819f8ec7f951dca540270abc_6284&search_date=22092026&expected_price_uuid=01a0ca40-79c7-8050-eaa4-f15b11f76503&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=S-Ap6YVL2F0mDsrjuVDHCw&expected_price_source=share&expected_price_currency=rub&expected_price=6283"
+    },
+    "2026-11-04": {
+     "price": 7285,
+     "airline": "DP",
+     "transfers": 0,
+     "duration": 160,
+     "link": "https://www.aviasales.ru/search/SVX0411MOW1?t=DP17937750001793777400000160SVXVKO_cf6ca8c59526f932a2fb4a1550f8f68f_7286&search_date=22092026&expected_price_uuid=01a0c9f1-8054-8050-e8f0-b95f8ef9a88f&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=lJwcNBv6dBqgw56rN5lMBw&expected_price_source=share&expected_price_currency=rub&expected_price=7285"
+    },
+    "2026-11-05": {
+     "price": 7808,
+     "airline": "SU",
+     "transfers": 0,
+     "duration": 160,
+     "link": "https://www.aviasales.ru/search/SVX0511MOW1?t=SU17939202001793922600000160SVXSVO_4e745686765001d8e7659a6eda1994fe_7809&search_date=22092026&expected_price_uuid=01a0ca45-5a1a-8040-aa1d-fa215e0a7bbf&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=bj3i3Fq57ZXc_wAspjXGPQ&expected_price_source=share&expected_price_currency=rub&expected_price=7808"
+    },
+    "2026-11-06": {
+     "price": 6265,
+     "airline": "DP",
+     "transfers": 0,
+     "duration": 160,
+     "link": "https://www.aviasales.ru/search/SVX0611MOW1?t=DP17939439001793946300000160SVXSVO_0d71399cbcbecdcc319f3b835d87f8e1_6269&search_date=22092026&expected_price_uuid=01a0c9a6-5387-8051-290e-4f4ac01f588f&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=14GWXWB7PmovQJeZf4xmcQ&expected_price_source=share&expected_price_currency=rub&expected_price=6265"
+    },
+    "2026-11-07": {
+     "price": 6269,
+     "airline": "DP",
+     "transfers": 0,
+     "duration": 160,
+     "link": "https://www.aviasales.ru/search/SVX0711MOW1?t=DP17940312001794033600000160SVXSVO_111be2b51246ca0bc8b01d4bf0bb8d78_6269&search_date=22092026&expected_price_uuid=01a0ca69-fffc-8050-ad47-8e39c0c64d05&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=S-Ap6YVL2F0mDsrjuVDHCw&expected_price_source=share&expected_price_currency=rub&expected_price=6269"
+    },
+    "2026-11-08": {
+     "price": 6261,
+     "airline": "DP",
+     "transfers": 0,
+     "duration": 160,
+     "link": "https://www.aviasales.ru/search/SVX0811MOW1?t=DP17940963001794098700000160SVXVKO_ca4614ea206d73087bc3b3252276ac2a_6269&search_date=22092026&expected_price_uuid=01a0c929-92aa-8050-a4ae-47afc8aad5d4&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=UPbMpob_8BKrsOA-YuuDQA&expected_price_source=share&expected_price_currency=rub&expected_price=6261"
+    },
+    "2026-11-09": {
+     "price": 7338,
+     "airline": "DP",
+     "transfers": 0,
+     "duration": 160,
+     "link": "https://www.aviasales.ru/search/SVX0911MOW1?t=DP17942040001794206400000160SVXSVO_385793c3cf30ab86caa02b9739ba6003_7306&search_date=22092026&expected_price_uuid=01a0c8ce-24a8-8050-eb5a-b0191b4f7f28&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=S-Ap6YVL2F0mDsrjuVDHCw&expected_price_source=share&expected_price_currency=rub&expected_price=7338"
+    },
+    "2026-11-10": {
+     "price": 7302,
+     "airline": "DP",
+     "transfers": 0,
+     "duration": 160,
+     "link": "https://www.aviasales.ru/search/SVX1011MOW1?t=DP17942934001794295800000160SVXVKO_f81f7470e6e41fdf2637e66264fe461f_7270&search_date=22092026&expected_price_uuid=01a0c8c8-be95-8050-62fd-04218c3c1b24&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=lJwcNBv6dBqgw56rN5lMBw&expected_price_source=share&expected_price_currency=rub&expected_price=7302"
+    },
+    "2026-11-11": {
+     "price": 7808,
+     "airline": "FV",
+     "transfers": 0,
+     "duration": 165,
+     "link": "https://www.aviasales.ru/search/SVX1111MOW1?t=SU17943579001794360600000165SVXSVO_daf54fba3faaffb301f423d5fa003e9e_7809&search_date=22092026&expected_price_uuid=01a0c9cd-0f9d-8051-23b7-57a807552b6e&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=ib4fS4SP__gJN8L3NvA5AA&expected_price_source=share&expected_price_currency=rub&expected_price=7808"
+    },
+    "2026-11-12": {
+     "price": 7305,
+     "airline": "DP",
+     "transfers": 0,
+     "duration": 160,
+     "link": "https://www.aviasales.ru/search/SVX1211MOW1?t=DP17944632001794465600000160SVXSVO_0cdf4ae894cf691ed28762f28a3327d1_7306&search_date=22092026&expected_price_uuid=01a0ca75-6d01-8051-236e-04d07045be91&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=S-Ap6YVL2F0mDsrjuVDHCw&expected_price_source=share&expected_price_currency=rub&expected_price=7305"
+    },
+    "2026-11-13": {
+     "price": 8322,
+     "airline": "DP",
+     "transfers": 0,
+     "duration": 160,
+     "link": "https://www.aviasales.ru/search/SVX1311MOW1?t=DP17945487001794551100000160SVXSVO_22b300dd7a78c43b785d3995f30be54e_8323&search_date=22092026&expected_price_uuid=01a0c9c2-f447-8050-a392-acffb01f220b&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=14GWXWB7PmovQJeZf4xmcQ&expected_price_source=share&expected_price_currency=rub&expected_price=8322"
+    },
+    "2026-11-14": {
+     "price": 7301,
+     "airline": "DP",
+     "transfers": 0,
+     "duration": 160,
+     "link": "https://www.aviasales.ru/search/SVX1411MOW1?t=DP17946360001794638400000160SVXSVO_5d0c6de8ecde8c6d0c98d3438f2e7cc7_7306&search_date=22092026&expected_price_uuid=01a0c98d-311d-8050-a5ea-228d7f65f85b&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=S-Ap6YVL2F0mDsrjuVDHCw&expected_price_source=share&expected_price_currency=rub&expected_price=7301"
+    },
+    "2026-11-15": {
+     "price": 7319,
+     "airline": "DP",
+     "transfers": 0,
+     "duration": 160,
+     "link": "https://www.aviasales.ru/search/SVX1511MOW1?t=DP17947011001794703500000160SVXVKO_8e666a2aa4c1c76f5b75d18dc74cba6d_7270&search_date=22092026&expected_price_uuid=01a0c8a7-45ac-8030-6237-71d5e83feb27&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=UPbMpob_8BKrsOA-YuuDQA&expected_price_source=share&expected_price_currency=rub&expected_price=7319"
+    },
+    "2026-11-16": {
+     "price": 7296,
+     "airline": "DP",
+     "transfers": 0,
+     "duration": 160,
+     "link": "https://www.aviasales.ru/search/SVX1611MOW1?t=DP17948079001794810300000160SVXSVO_e1e46b3d2eb867aa1ef24d999e577fb2_7296&search_date=22092026&expected_price_uuid=01a0c9ff-148f-8050-e6c6-25663381e153&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=14GWXWB7PmovQJeZf4xmcQ&expected_price_source=share&expected_price_currency=rub&expected_price=7296"
+    },
+    "2026-11-17": {
+     "price": 6241,
+     "airline": "DP",
+     "transfers": 0,
+     "duration": 160,
+     "link": "https://www.aviasales.ru/search/SVX1711MOW1?t=DP17948982001794900600000160SVXVKO_e15daa5e83279200eb98cb79f3d0dc3b_6245&search_date=22092026&expected_price_uuid=01a0c98d-ab12-8051-2df1-733e6ac82f85&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=lJwcNBv6dBqgw56rN5lMBw&expected_price_source=share&expected_price_currency=rub&expected_price=6241"
+    },
+    "2026-11-18": {
+     "price": 7255,
+     "airline": "DP",
+     "transfers": 0,
+     "duration": 160,
+     "link": "https://www.aviasales.ru/search/SVX1811MOW1?t=DP17949816001794984000000160SVXSVO_71c1ab92ab06b6a2ebc0aa51ac8fe0ab_7260&search_date=22092026&expected_price_uuid=01a0c9a0-240d-8050-22e0-9a7b169b7556&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=S-Ap6YVL2F0mDsrjuVDHCw&expected_price_source=share&expected_price_currency=rub&expected_price=7255"
+    },
+    "2026-11-19": {
+     "price": 7240,
+     "airline": "DP",
+     "transfers": 0,
+     "duration": 160,
+     "link": "https://www.aviasales.ru/search/SVX1911MOW1?t=DP17950680001795070400000160SVXSVO_74f87b06b5a12ba903a4846c100bc3d1_7245&search_date=22092026&expected_price_uuid=01a0c9a0-5d33-8050-2e2f-a2933ab3ed8a&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=S-Ap6YVL2F0mDsrjuVDHCw&expected_price_source=share&expected_price_currency=rub&expected_price=7240"
+    },
+    "2026-11-20": {
+     "price": 7305,
+     "airline": "DP",
+     "transfers": 0,
+     "duration": 160,
+     "link": "https://www.aviasales.ru/search/SVX2011MOW1?t=DP17951535001795155900000160SVXSVO_243d350fc9fb0448a8771e54926f8980_7306&search_date=22092026&expected_price_uuid=01a0ca4d-aa69-8050-2f2a-2f19a09adf01&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=14GWXWB7PmovQJeZf4xmcQ&expected_price_source=share&expected_price_currency=rub&expected_price=7305"
+    },
+    "2026-11-21": {
+     "price": 6667,
+     "airline": "SU",
+     "transfers": 0,
+     "duration": 160,
+     "link": "https://www.aviasales.ru/search/SVX2111MOW1?t=SU17953026001795305000000160SVXSVO_fc5584b4737a83125c04464b13d73bc6_6668&search_date=22092026&expected_price_uuid=01a0ca5c-0163-8030-6860-638b795bf90a&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=bj3i3Fq57ZXc_wAspjXGPQ&expected_price_source=share&expected_price_currency=rub&expected_price=6667"
+    },
+    "2026-11-22": {
+     "price": 6268,
+     "airline": "DP",
+     "transfers": 0,
+     "duration": 160,
+     "link": "https://www.aviasales.ru/search/SVX2211MOW1?t=DP17953059001795308300000160SVXVKO_05ed062f23fa7766bcc4a3783dddf568_6269&search_date=22092026&expected_price_uuid=01a0ca5b-baff-8030-e6c2-08e608b6e04b&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=UPbMpob_8BKrsOA-YuuDQA&expected_price_source=share&expected_price_currency=rub&expected_price=6268"
+    },
+    "2026-11-23": {
+     "price": 7270,
+     "airline": "DP",
+     "transfers": 0,
+     "duration": 160,
+     "link": "https://www.aviasales.ru/search/SVX2311MOW1?t=DP17954166001795419000000160SVXVKO_380965051069c9fae83d359ee6211c2f_7270&search_date=22092026&expected_price_uuid=01a0ca14-264d-8050-ade9-d14b3149d132&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=lJwcNBv6dBqgw56rN5lMBw&expected_price_source=share&expected_price_currency=rub&expected_price=7270"
+    },
+    "2026-11-24": {
+     "price": 6261,
+     "airline": "DP",
+     "transfers": 0,
+     "duration": 160,
+     "link": "https://www.aviasales.ru/search/SVX2411MOW1?t=DP17955000001795502400000160SVXSVO_8ab1eac503ed0fca06306415d7ba183c_6269&search_date=22092026&expected_price_uuid=01a0c94d-2b4b-8050-ee70-a860a376393f&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=S-Ap6YVL2F0mDsrjuVDHCw&expected_price_source=share&expected_price_currency=rub&expected_price=6261"
+    },
+    "2026-11-25": {
+     "price": 7767,
+     "airline": "SU",
+     "transfers": 0,
+     "duration": 160,
+     "link": "https://www.aviasales.ru/search/SVX2511MOW1?t=SU17956482001795650600000160SVXSVO_0f793cd62e65a4813ac2a25b46f5e281_7775&search_date=22092026&expected_price_uuid=01a0c910-adb7-8030-eb73-48b62d63ff8c&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=bj3i3Fq57ZXc_wAspjXGPQ&expected_price_source=share&expected_price_currency=rub&expected_price=7767"
+    },
+    "2026-11-26": {
+     "price": 7299,
+     "airline": "DP",
+     "transfers": 0,
+     "duration": 160,
+     "link": "https://www.aviasales.ru/search/SVX2611MOW1?t=DP17956515001795653900000160SVXVKO_1e13058c637aea9786bf4ef949a16e6f_7306&search_date=22092026&expected_price_uuid=01a0c908-71a7-8050-6920-cda205a40d84&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=UPbMpob_8BKrsOA-YuuDQA&expected_price_source=share&expected_price_currency=rub&expected_price=7299"
+    },
+    "2026-11-27": {
+     "price": 6284,
+     "airline": "DP",
+     "transfers": 0,
+     "duration": 160,
+     "link": "https://www.aviasales.ru/search/SVX2711MOW1?t=DP17957583001795760700000160SVXSVO_d03e350687b9789fbbfb3a808bdbe205_6284&search_date=22092026&expected_price_uuid=01a0ca01-7057-8050-6b8c-7bcb98269552&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=14GWXWB7PmovQJeZf4xmcQ&expected_price_source=share&expected_price_currency=rub&expected_price=6284"
+    },
+    "2026-11-28": {
+     "price": 6637,
+     "airline": "SU",
+     "transfers": 0,
+     "duration": 160,
+     "link": "https://www.aviasales.ru/search/SVX2811MOW1?t=SU17959074001795909800000160SVXSVO_4319fe9c3028e21a8bc4f4dca1d69f11_6642&search_date=22092026&expected_price_uuid=01a0c9a7-4671-8030-e193-41977456a603&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=bj3i3Fq57ZXc_wAspjXGPQ&expected_price_source=share&expected_price_currency=rub&expected_price=6637"
+    },
+    "2026-11-29": {
+     "price": 6270,
+     "airline": "DP",
+     "transfers": 0,
+     "duration": 160,
+     "link": "https://www.aviasales.ru/search/SVX2911MOW1?t=DP17959107001795913100000160SVXVKO_6eaed4995a2faa0e6ed36933759a26fd_6274&search_date=22092026&expected_price_uuid=01a0c9b1-0bcb-8050-2053-c213086eebbd&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=UPbMpob_8BKrsOA-YuuDQA&expected_price_source=share&expected_price_currency=rub&expected_price=6270"
+    },
+    "2026-11-30": {
+     "price": 5261,
+     "airline": "DP",
+     "transfers": 0,
+     "duration": 160,
+     "link": "https://www.aviasales.ru/search/SVX3011MOW1?t=DP17960175001796019900000160SVXSVO_399c7aa6346732fc7c1c518701edce26_5261&search_date=22092026&expected_price_uuid=01a0ca10-5cc9-8050-20c2-5e85bd9ff3e2&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=14GWXWB7PmovQJeZf4xmcQ&expected_price_source=share&expected_price_currency=rub&expected_price=5261"
+    }
+   },
+   "min": 5196,
+   "sources": [
+    "travelpayouts:2026-10",
+    "travelpayouts:2026-11"
+   ],
+   "errors": []
+  }
+ },
+ "legsWithData": "5/5"
+}
