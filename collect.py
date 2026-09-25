@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Сборщик цен на билеты Екатеринбург -> Пхукет.
+Сборщик цен на билеты зимовки: Екатеринбург -> Пхукет -> Чиангмай -> Камрань.
 Запускается на раннере GitHub Actions, пишет data/latest.json и data/history/<дата>.json.
 Цены Travelpayouts отдаёт ЗА ОДНОГО пассажира и БЕЗ учёта багажа — это кэш минимальных цен.
 """
@@ -8,8 +8,20 @@ import json, os, pathlib, sys, urllib.parse, urllib.request
 from datetime import datetime, timezone
 
 TOKEN = os.environ.get("TP_TOKEN", "").strip()
-MONTHS = ["2026-10", "2026-11"]
-LEGS = [("SVX", "HKT"), ("MOW", "HKT"), ("MOW", "BKK"), ("BKK", "HKT"), ("SVX", "MOW")]
+# Плечо: (откуда, куда, месяцы). Решение 26.09.2026: неделя на Пхукете,
+# потом Чиангмай (перелёт 12–13 ноября), выезд во Вьетнам 19–20 декабря.
+TO_PHUKET = ["2026-10", "2026-11"]
+LEGS = [
+    ("SVX", "HKT", TO_PHUKET),     # прямой и стыковочные из Екатеринбурга
+    ("MOW", "HKT", TO_PHUKET),     # маршрут B — одним билетом из Москвы
+    ("MOW", "BKK", TO_PHUKET),     # маршрут A, первая половина
+    ("BKK", "HKT", TO_PHUKET),     # маршрут A, вторая половина
+    ("SVX", "MOW", TO_PHUKET),     # доезд до Москвы самолётом
+    ("HKT", "CNX", ["2026-11"]),   # Пхукет -> Чиангмай, 12–13 ноября
+    ("CNX", "BKK", ["2026-12"]),   # Чиангмай -> Бангкок, 19–20 декабря
+    ("BKK", "CXR", ["2026-12"]),   # Бангкок -> Камрань (Нячанг), 20 декабря
+    ("CNX", "CXR", ["2026-12"]),   # Чиангмай -> Камрань одним билетом
+]
 UA = {"User-Agent": "Mozilla/5.0 (compatible; price-monitor/1.0)"}
 
 
@@ -67,9 +79,9 @@ def from_calendar(origin, dest, month):
     return {d: {"price": v} for d, v in best.items() if isinstance(v, (int, float))}
 
 
-def collect_leg(origin, dest):
+def collect_leg(origin, dest, months):
     cal, sources, errors = {}, [], []
-    for month in MONTHS:
+    for month in months:
         for name, fn in (("travelpayouts", from_travelpayouts), ("calendar", from_calendar)):
             if name == "travelpayouts" and not TOKEN:
                 continue
@@ -96,7 +108,7 @@ def main():
         "collectedAt": now.isoformat(timespec="seconds"),
         "date": now.date().isoformat(),
         "pricesAre": "за 1 пассажира, без подтверждённого багажа",
-        "legs": {f"{o}-{d}": collect_leg(o, d) for o, d in LEGS},
+        "legs": {f"{o}-{d}": collect_leg(o, d, m) for o, d, m in LEGS},
     }
     ok = sum(1 for v in result["legs"].values() if v["calendar"])
     result["legsWithData"] = f"{ok}/{len(LEGS)}"
